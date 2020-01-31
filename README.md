@@ -43,3 +43,5 @@ Format it:
 ```
 npm run format:js
 ```
+
+## [CHANGELOG](CHANGELOG.md)
