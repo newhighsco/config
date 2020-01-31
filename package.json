@@ -14,7 +14,7 @@
   },
   "engines": {
     "node": "^13.2.0",
-    "yarn": "^1.21.1"
+    "yarn": "^1.19.1"
   },
   "main": "eslint.config.js",
   "scripts": {
