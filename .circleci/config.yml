@@ -11,10 +11,11 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - dependency-cache-{{ checksum "yarn.lock" }}
+            - v1-yarn-cache-{{ checksum "yarn.lock" }}
+            - v1-yarn-cache
       - run: yarn install
       - save_cache:
-          key: dependency-cache-{{ checksum "yarn.lock" }}
+          key: v1-yarn-cache-{{ checksum "yarn.lock" }}
           paths:
             - node_modules
       - run: yarn test
