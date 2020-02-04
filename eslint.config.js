@@ -21,5 +21,8 @@ module.exports = {
       jsx: true
     }
   },
-  plugins: ['jsx-a11y']
+  plugins: ['jsx-a11y', 'json-format'],
+  settings: {
+    'json/sort-package-json': false
+  }
 }
