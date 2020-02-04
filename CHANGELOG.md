@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/newhighsco/eslint-config/compare/v1.1.0...v1.1.1) (2020-02-04)
+
+
+### Bug Fixes
+
+* **deps:** updates dependencies ([5c4ca43](https://github.com/newhighsco/eslint-config/commit/5c4ca43d337175eac0ac831b91c0b0ae900669c8))
+
 # [1.1.0](https://github.com/newhighsco/eslint-config/compare/v1.0.0...v1.1.0) (2020-02-04)
 
 
