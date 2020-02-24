@@ -2,7 +2,7 @@ version: 2.1
 executors:
   node-executor:
     docker:
-      - image: circleci/node:13.7.0
+      - image: circleci/node:13.8.0
     working_directory: ~/repo
 jobs:
   build:
