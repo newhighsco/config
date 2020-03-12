@@ -167,10 +167,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-1.0.2.tgz#0ae71a3cd1ebe599f4873d8869b51707aca3ef91"
   integrity sha512-kKQECYgyAnozmpRkQdFdv4bnTUHwo9NEgTuWTewqKcefowij0udwJLAbVkxbkLMO7FNwNk3RyAnhxpuwf+2YJA==
 
-"@newhighsco/release-config@1.0.13":
-  version "1.0.13"
-  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.0.13.tgz#1e1226bf364ffdbbb41dc46d43a8c9fa50c620e9"
-  integrity sha512-wwYiXFCj3EOiunr88JuJQ4uH0WLxStzvMp/Y53p4C8puY7zv/SNbjLNCSzrBVit8d0DhH8oB+kaNGFuZe1hEWA==
+"@newhighsco/release-config@1.0.14":
+  version "1.0.14"
+  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.0.14.tgz#7f97c079be8ddcc3b69ce895f59ed4136b8157bf"
+  integrity sha512-vHxVBI6QinEikGkFUchf3R6VQ24YDD/T2Zvqq0clyq1Fi7XCHyX0UWTItuK6pOJj3pvulGv9qfnik6nYb/eSAg==
   dependencies:
     "@semantic-release/changelog" "5.0.0"
     "@semantic-release/commit-analyzer" "8.0.1"
