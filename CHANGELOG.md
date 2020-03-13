@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/newhighsco/eslint-config/compare/v1.1.1...v1.1.2) (2020-03-13)
+
+
+### Bug Fixes
+
+* **deps:** remove unused dependencies ([8a682ce](https://github.com/newhighsco/eslint-config/commit/8a682ce40aea552183aa8db999d7576b88b6cb0d))
+
 ## [1.1.1](https://github.com/newhighsco/eslint-config/compare/v1.1.0...v1.1.1) (2020-02-04)
 
 
