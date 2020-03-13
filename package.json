@@ -28,7 +28,7 @@
     "stylelint-scss": "3.14.2"
   },
   "devDependencies": {
-    "@newhighsco/eslint-config": "1.1.1",
+    "@newhighsco/eslint-config": "1.1.3",
     "@newhighsco/prettier-config": "1.0.3",
     "@newhighsco/release-config": "1.0.14",
     "@newhighsco/renovate-config": "1.1.0",
