@@ -179,10 +179,10 @@
     "@semantic-release/npm" "7.0.3"
     "@semantic-release/release-notes-generator" "9.0.0"
 
-"@newhighsco/renovate-config@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@newhighsco/renovate-config/-/renovate-config-1.0.0.tgz#f03aa0e91c3b0660781d4e4fac9cbb654ecda9ae"
-  integrity sha512-pAQYosnQW4cCX7quJMNGhDEZ/qDDFFYLiYyPz70yZM6QCol4cqmX+ldvKehmcq8gM9h0kCjtR4/XYnV7SDOjEg==
+"@newhighsco/renovate-config@1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@newhighsco/renovate-config/-/renovate-config-1.1.0.tgz#beea8d1f77a750097fe5e1b0ebb1ee184deb6ad3"
+  integrity sha512-oNNpG9kHMDE36O1P0VZgojyAADbs09Co7UQ6ZdLId/1goL1CHrpdRVE41Tlvto9NDo4WxxfDGXFJKRocgbXnBA==
 
 "@nodelib/fs.scandir@2.1.3":
   version "2.1.3"
