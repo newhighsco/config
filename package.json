@@ -41,7 +41,8 @@
     "@newhighsco/renovate-config": "1.2.0",
     "eslint": "6.8.0",
     "npm-run-all": "4.1.5",
-    "prettier": "1.19.1"
+    "prettier": "1.19.1",
+    "semantic-release": "17.0.4"
   },
   "peerDependencies": {
     "eslint": "6.8.0",
