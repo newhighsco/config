@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/newhighsco/stylelint-config/compare/v1.0.1...v1.0.2) (2020-03-13)
+
+
+### Bug Fixes
+
+* **deps:** remove unused dependencies ([c21f3be](https://github.com/newhighsco/stylelint-config/commit/c21f3bed2e14a553925c490f0f8d46f0e1411431))
+
 ## [1.0.1](https://github.com/newhighsco/stylelint-config/compare/v1.0.0...v1.0.1) (2020-02-24)
 
 
