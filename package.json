@@ -22,7 +22,6 @@
   },
   "dependencies": {
     "eslint-config-prettier": "6.10.0",
-    "eslint-config-prettier-standard": "3.0.1",
     "eslint-config-standard": "14.1.0",
     "eslint-config-standard-react": "9.2.0",
     "eslint-plugin-import": "2.20.1",
@@ -32,8 +31,7 @@
     "eslint-plugin-prettier": "3.1.2",
     "eslint-plugin-promise": "4.2.1",
     "eslint-plugin-react": "7.19.0",
-    "eslint-plugin-standard": "4.0.1",
-    "prettier-config-standard": "1.0.1"
+    "eslint-plugin-standard": "4.0.1"
   },
   "devDependencies": {
     "@newhighsco/editor-config": "1.0.0",
