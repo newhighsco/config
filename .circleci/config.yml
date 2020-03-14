@@ -38,7 +38,8 @@ jobs:
     steps:
       - attach_workspace:
           at: .
-      - deploy: npx semantic-release
+      - deploy:
+          command: npx semantic-release
 
 workflows:
   version: 2
