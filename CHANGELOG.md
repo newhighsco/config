@@ -1,3 +1,12 @@
+## [2.0.1](https://github.com/newhighsco/eslint-config/compare/v2.0.0...v2.0.1) (2020-03-14)
+
+
+### Bug Fixes
+
+* **config:** changes preferred jsx-quotes ([4f0ca31](https://github.com/newhighsco/eslint-config/commit/4f0ca31e6f670168c0cdae81847203cbf58d9ee9))
+* **config:** remove unneeded config for React ([ff6204a](https://github.com/newhighsco/eslint-config/commit/ff6204a1d54e51747af3f16c22130e1d14fdb229))
+* **deps:** removes unused dependencies ([3329a77](https://github.com/newhighsco/eslint-config/commit/3329a772b5ad83b94265108eaa2c8e8ae1ea0371))
+
 # [2.0.0](https://github.com/newhighsco/eslint-config/compare/v1.1.3...v2.0.0) (2020-03-14)
 
 
