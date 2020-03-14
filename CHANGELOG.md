@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/newhighsco/stylelint-config/compare/v1.0.2...v2.0.0) (2020-03-14)
+
+
+### Bug Fixes
+
+* **rules:** removes redundant rule ([63c1a73](https://github.com/newhighsco/stylelint-config/commit/63c1a73d1a02d4fe1bfffe4b2469616fb58f9913))
+
+
+### Features
+
+* **rule:** enables no-descending-specificity ([f45c2a6](https://github.com/newhighsco/stylelint-config/commit/f45c2a6f94f2d9dfa480f43318761b4f257a7e51))
+
+
+### BREAKING CHANGES
+
+* **rule:** existing projects will fall over here
+
 ## [1.0.2](https://github.com/newhighsco/stylelint-config/compare/v1.0.1...v1.0.2) (2020-03-13)
 
 
