@@ -10,9 +10,6 @@ module.exports = {
     'at-rule-no-unknown': null,
     'scss/at-rule-no-unknown': true,
 
-    // Disables descending specificity rules
-    'no-descending-specificity': null,
-
     // Format SCSS @if/@else statements
     'at-rule-empty-line-before': [
       'always',
