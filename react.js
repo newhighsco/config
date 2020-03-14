@@ -9,6 +9,7 @@ module.exports = {
     'plugin:jsx-a11y/recommended'
   ],
   rules: {
+    // Overrides standard-react
     'jsx-quotes': ['error', 'prefer-double']
   }
 }

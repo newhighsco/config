@@ -23,6 +23,14 @@ New High Score ESLint rules come bundled in `@newhighsco/eslint-config`. To enab
 }
 ```
 
+### React
+
+```json
+"eslintConfig": {
+  "extends": ["@newhighsco/eslint-config/react"]
+}
+```
+
 Now you can run ESLint by adding the following scripts to your `package.json`. See the [ESLint CLI docs](https://eslint.org/docs/user-guide/command-line-interface) for more details.
 
 ```json
