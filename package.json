@@ -51,7 +51,7 @@
   },
   "prettier": "@newhighsco/prettier-config",
   "eslintConfig": {
-    "extends": "./eslint.config.js"
+    "extends": "."
   },
   "release": {
     "extends": "@newhighsco/release-config"
