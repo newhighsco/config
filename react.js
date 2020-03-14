@@ -8,4 +8,7 @@ module.exports = {
     'prettier/react',
     'plugin:jsx-a11y/recommended'
   ],
+  rules: {
+    'jsx-quotes': ['error', 'prefer-double']
+  }
 }
