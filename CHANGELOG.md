@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/newhighsco/eslint-config/compare/v1.1.3...v2.0.0) (2020-03-14)
+
+
+### Features
+
+* **config:** creates separate config for React ([1a78d63](https://github.com/newhighsco/eslint-config/commit/1a78d63e75aaa7f4f224423b193787239a34d749))
+
+
+### BREAKING CHANGES
+
+* **config:** React plugins and settings have been removed by default
+
 ## [1.1.3](https://github.com/newhighsco/eslint-config/compare/v1.1.2...v1.1.3) (2020-03-13)
 
 
