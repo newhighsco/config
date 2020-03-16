@@ -1,0 +1,62 @@
+{
+  "name": "@newhighsco/commitlint-config",
+  "description": "New High Score shareable config for commitlint",
+  "version": "1.0.0",
+  "author": "New High Score <hello@newhighsco.re>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newhighsco/commitlint-config.git"
+  },
+  "homepage": "https://github.com/newhighsco/commitlint-config#readme",
+  "bugs": {
+    "url": "https://github.com/newhighsco/commitlint-config/issues"
+  },
+  "main": "commitlint.config.js",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "npm-run-all --parallel lint:*",
+    "lint:js": "eslint --cache --ext .js,.jsx,.json .",
+    "format": "npm-run-all --parallel format:*",
+    "format:js": "npm run lint:js -- --fix"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "8.3.5",
+    "@newhighsco/editor-config": "1.0.0",
+    "@newhighsco/eslint-config": "2.0.1",
+    "@newhighsco/prettier-config": "1.0.3",
+    "@newhighsco/release-config": "1.0.16",
+    "eslint": "6.8.0",
+    "husky": "4.2.3",
+    "npm-run-all": "4.1.5",
+    "prettier": "1.19.1",
+    "semantic-release": "17.0.4"
+  },
+  "peerDependencies": {
+    "@commitlint/cli": "8.3.5"
+  },
+  "commitlint": {
+    "extends": [
+      "."
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "@newhighsco"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "prettier": "@newhighsco/prettier-config",
+  "release": {
+    "extends": "@newhighsco/release-config"
+  },
+  "renovate": {
+    "extends": [
+      "@newhighsco"
+    ]
+  }
+}
