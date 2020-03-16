@@ -12,7 +12,7 @@ npm install --save-dev @commitlint/cli @newhighsco/commitlint-config
 
 ### Husky
 
-`@newhighsco/commitlint-config` should be used in conjunction with Husky. See the [Husky installation guide](https://github.com/typicode/husky#install) for more details.
+`@newhighsco/commitlint-config` should be used in conjunction with [Husky](https://github.com/typicode/husky). See the [Husky installation guide](https://github.com/typicode/husky#install) for more details.
 
 ## Usage
 New High Score commitlint rules come bundled in `@newhighsco/commitlint-config`. To enable these rules, add a `commitlint` property in your `package.json`. See the [commitlint configuration docs](https://commitlint.js.org/#/reference-configuration) for more details.
