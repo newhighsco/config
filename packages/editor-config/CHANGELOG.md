@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/newhighsco/editor-config/compare/v1.0.0...v1.0.1) (2020-03-17)
+
+
+### Bug Fixes
+
+* handle non-git repositories ([471f707](https://github.com/newhighsco/editor-config/commit/471f7072784eae4399faea90ac5fd33022f4b274))
+
 # 1.0.0 (2020-03-13)
 
 
