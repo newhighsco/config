@@ -174,10 +174,10 @@
     mkdirp "^0.5.1"
     rimraf "^2.5.2"
 
-"@newhighsco/editor-config@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.0.0.tgz#0fbbcb6b19b069b6651e3dab7613cf4332dd13df"
-  integrity sha512-xMQRhs/5lO6qjfPrlc9qoPlMxfKY8O28X4TWnvmtCokJr5F1W2FnI6cxkSTeBe+d9oVU9Vs34iVFTuPoOwZYlw==
+"@newhighsco/editor-config@1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.0.2.tgz#bb6eb4aa15129056e99bf9ab75d898a1a8bdf8a7"
+  integrity sha512-1ehPWn4lhNU3MmEiIuakIxdI44HhqWJ15Ej1XoWvI+WYGS/rLGACLRrNWSmjLzaa6LnzYQ4YKKIh7YrQNDHKPg==
 
 "@newhighsco/eslint-config@2.0.1":
   version "2.0.1"
