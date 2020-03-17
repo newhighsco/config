@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/newhighsco/editor-config/compare/v1.0.1...v1.0.2) (2020-03-17)
+
+
+### Bug Fixes
+
+* adds missing file ([a635230](https://github.com/newhighsco/editor-config/commit/a635230f77e1486a21f47b4d0c4d050551de8381))
+
 ## [1.0.1](https://github.com/newhighsco/editor-config/compare/v1.0.0...v1.0.1) (2020-03-17)
 
 
