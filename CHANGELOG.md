@@ -1,3 +1,12 @@
+## [2.0.3](https://github.com/newhighsco/stylelint-config/compare/v2.0.2...v2.0.3) (2020-03-20)
+
+
+### Bug Fixes
+
+* **css-modules:** supports composes casing ([ae5196c](https://github.com/newhighsco/stylelint-config/commit/ae5196c31a9ac0139d6cf16bd49c6a86464d8b58))
+* **empty-lines:** force empty lines in more places ([1089c89](https://github.com/newhighsco/stylelint-config/commit/1089c89ce48ad7e7b9193c09d92be6af26772fc5))
+* run prettier last ([78b0ee1](https://github.com/newhighsco/stylelint-config/commit/78b0ee12260be777861158df6cc5707345b435a0))
+
 ## [2.0.2](https://github.com/newhighsco/stylelint-config/compare/v2.0.1...v2.0.2) (2020-03-20)
 
 
