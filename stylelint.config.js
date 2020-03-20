@@ -39,11 +39,16 @@ module.exports = {
     'scss/at-if-closing-brace-newline-after': 'always-last-in-chain',
     'scss/at-if-closing-brace-space-after': 'always-intermediate',
 
-    // Adds support for CSS module composes
     'value-keyword-case': [
       'lower',
       {
-        ignoreProperties: 'composes'
+        ignoreProperties: [
+          // Adds support for CSS module composes
+          'composes',
+
+          // Ignores SCSS variables
+          /^[$].*/
+        ]
       }
     ]
   },
