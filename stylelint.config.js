@@ -15,15 +15,22 @@ module.exports = {
       'always',
       {
         except: ['blockless-after-same-name-blockless'],
-        ignore: ['first-nested', 'after-comment'],
+        ignore: ['after-comment', 'first-nested'],
         ignoreAtRules: ['else']
       }
     ],
-
+    'at-rule-name-space-after': 'always',
+    'block-opening-brace-space-before': 'always',
     'block-closing-brace-newline-after': [
       'always',
       {
         ignoreAtRules: ['if', 'else']
+      }
+    ],
+    'rule-empty-line-before': [
+      'always',
+      {
+        ignore: ['after-comment', 'first-nested']
       }
     ],
     'scss/at-else-closing-brace-newline-after': 'always-last-in-chain',
