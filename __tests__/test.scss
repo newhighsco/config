@@ -164,8 +164,27 @@ $menu-items: home about services contact;
 $i: 6;
 
 @while $i > 0 {
+  $foo: red;
+
   .item-#{$i} {
     width: 2em * $i;
   }
+
+  .banana {
+    color: red;
+  }
+
   $i: $i - 2;
+}
+
+$base-color: #c6538c;
+$border-dark: rgba($base-color, 0.88);
+$test-var: 'Something', Something;
+
+// test
+.alert {
+  // Test
+  $testing: 'green';
+
+  border: 1px solid $border-dark;
 }

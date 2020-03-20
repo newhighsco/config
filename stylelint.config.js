@@ -38,6 +38,18 @@ module.exports = {
     'scss/at-else-empty-line-before': 'never',
     'scss/at-if-closing-brace-newline-after': 'always-last-in-chain',
     'scss/at-if-closing-brace-space-after': 'always-intermediate',
+    'scss/dollar-variable-empty-line-after': [
+      'always',
+      {
+        except: ['before-dollar-variable', 'last-nested']
+      }
+    ],
+    'scss/dollar-variable-empty-line-before': [
+      'always',
+      {
+        except: ['after-comment', 'after-dollar-variable', 'first-nested']
+      }
+    ],
 
     'value-keyword-case': [
       'lower',
