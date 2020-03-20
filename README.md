@@ -27,7 +27,7 @@ Now you can run stylelint by adding the following scripts to your `package.json`
 
 ```json
 "scripts": {
-  "lint:css": "stylelint '**/*.{css,scss}'",
+  "lint:css": "stylelint '**/*.{css,scss}' --cache",
   "format:css": "npm run lint:css -- --fix"
 }
 ```
