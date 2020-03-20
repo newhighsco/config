@@ -30,7 +30,15 @@ module.exports = {
     'scss/at-else-closing-brace-space-after': 'always-intermediate',
     'scss/at-else-empty-line-before': 'never',
     'scss/at-if-closing-brace-newline-after': 'always-last-in-chain',
-    'scss/at-if-closing-brace-space-after': 'always-intermediate'
+    'scss/at-if-closing-brace-space-after': 'always-intermediate',
+
+    // Adds support for CSS module composes
+    'value-keyword-case': [
+      'lower',
+      {
+        ignoreProperties: 'composes'
+      }
+    ]
   },
   syntax: 'scss'
 }
