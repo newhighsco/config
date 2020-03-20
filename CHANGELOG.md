@@ -1,3 +1,11 @@
+## [2.0.4](https://github.com/newhighsco/stylelint-config/compare/v2.0.3...v2.0.4) (2020-03-20)
+
+
+### Bug Fixes
+
+* **variables:** adds rules for variable spacing ([1462d78](https://github.com/newhighsco/stylelint-config/commit/1462d788d78dcacda1ec6a82a4041e0e15a55f83))
+* **variables:** allow any casing for scss variables ([174df8d](https://github.com/newhighsco/stylelint-config/commit/174df8d14c3dc908e9bb9b4fc74edecbfa425052))
+
 ## [2.0.3](https://github.com/newhighsco/stylelint-config/compare/v2.0.2...v2.0.3) (2020-03-20)
 
 
