@@ -17,8 +17,10 @@
     "test": "npm run lint",
     "lint": "npm-run-all --parallel lint:*",
     "lint:js": "eslint --cache --ext .js,.jsx,.json .",
+    "lint:css": "stylelint '**/*.{css,scss}' --cache",
     "format": "npm-run-all --parallel format:*",
-    "format:js": "npm run lint:js -- --fix"
+    "format:js": "npm run lint:js -- --fix",
+    "format:css": "npm run lint:css -- --fix"
   },
   "dependencies": {
     "stylelint-config-css-modules": "2.2.0",
