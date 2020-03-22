@@ -21,7 +21,7 @@
     "format:js": "npm run lint:js -- --fix"
   },
   "dependencies": {
-    "eslint-config-prettier": "6.10.0",
+    "eslint-config-prettier": "6.10.1",
     "eslint-config-standard": "14.1.1",
     "eslint-config-standard-react": "9.2.0",
     "eslint-plugin-import": "2.20.1",
