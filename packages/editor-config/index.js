@@ -9,9 +9,7 @@ const source = path.join(__dirname, fileName)
 var gitRoot
 
 try {
-  gitRoot = execSync('git rev-parse --show-toplevel')
-    .toString()
-    .trim()
+  gitRoot = execSync('git rev-parse --show-toplevel').toString().trim()
 } catch {
   process.exit(0)
 }
