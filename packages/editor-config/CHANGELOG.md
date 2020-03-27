@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/newhighsco/editor-config/compare/v1.0.2...v1.1.0) (2020-03-27)
+
+
+### Features
+
+* **deps:** updates prettier to v2 ([69b1207](https://github.com/newhighsco/editor-config/commit/69b12071a8eeb5c9e04d83da13cd96b187527e09))
+
 ## [1.0.2](https://github.com/newhighsco/editor-config/compare/v1.0.1...v1.0.2) (2020-03-17)
 
 

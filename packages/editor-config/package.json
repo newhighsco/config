@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/editor-config",
   "description": "New High Score shareable config for EditorConfig",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
   "repository": {
