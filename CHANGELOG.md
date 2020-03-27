@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/newhighsco/stylelint-config/compare/v2.0.4...v2.0.5) (2020-03-27)
+
+
+### Bug Fixes
+
+* **deps:** updates prettier to v2 ([347cf51](https://github.com/newhighsco/stylelint-config/commit/347cf517965b96efd9fd8b9c80dd9c58721f5ce8))
+
 ## [2.0.4](https://github.com/newhighsco/stylelint-config/compare/v2.0.3...v2.0.4) (2020-03-20)
 
 
