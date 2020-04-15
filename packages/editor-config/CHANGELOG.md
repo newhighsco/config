@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/newhighsco/editor-config/compare/v1.1.0...v1.1.1) (2020-04-15)
+
+
+### Bug Fixes
+
+* **deps:** bumps lock file ([db89869](https://github.com/newhighsco/editor-config/commit/db8986939c5aafecfa01963b288c82d6ea13c433))
+
 # [1.1.0](https://github.com/newhighsco/editor-config/compare/v1.0.2...v1.1.0) (2020-03-27)
 
 
