@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/newhighsco/commitlint-config/compare/v1.0.0...v1.0.1) (2020-04-15)
+
+
+### Bug Fixes
+
+* **deps:** bumps lock file ([184c41f](https://github.com/newhighsco/commitlint-config/commit/184c41f04f30a7f54593c8708587a9c8bb337669))
+
 # 1.0.0 (2020-03-16)
 
 
