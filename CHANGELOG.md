@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/newhighsco/stylelint-config/compare/v2.0.7...v2.0.8) (2020-04-15)
+
+
+### Bug Fixes
+
+* **deps:** bumps lock file ([6456f1c](https://github.com/newhighsco/stylelint-config/commit/6456f1c5e30cee3c5f92c69b143f2d1c27ee503f))
+
 ## [2.0.7](https://github.com/newhighsco/stylelint-config/compare/v2.0.6...v2.0.7) (2020-04-14)
 
 
