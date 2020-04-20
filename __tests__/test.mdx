@@ -1,0 +1,44 @@
+import {
+  ColorItem,
+  ColorPalette,
+  IconGallery,
+  IconItem,
+  Meta,
+  Typeset
+} from '@storybook/addon-docs/blocks'
+import colors from './theme/colors'
+const fontSizes = [
+  '12px',
+  '14px',
+  '16px',
+  '20px',
+  '24px',
+  '32px',
+  '40px',
+  '48px'
+]
+
+<Meta title="Intro/Branding" />
+
+# Colors
+
+<ColorPalette>
+  {colors.map(color => (
+    <ColorItem
+      key={color.key}
+      title={color.variable}
+      subtitle={color.name}
+      colors={color.values}
+    />
+  ))}
+</ColorPalette>
+
+# Fonts
+
+<Typeset fontSizes={fontSizes} fontFamily="Kontrapunkt" />
+
+# Icons
+
+<IconGallery>
+  <IconItem name="add">blah</IconItem>
+</IconGallery>

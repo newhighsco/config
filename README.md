@@ -35,8 +35,16 @@ Now you can run ESLint by adding the following scripts to your `package.json`. S
 
 ```json
 "scripts": {
-  "lint:js": "eslint --cache --ext .js,.jsx,.json .",
+  "lint:js": "eslint --cache --ext .js,.json .",
   "format:js": "npm run lint:js -- --fix"
+}
+```
+
+### React
+
+```json
+"scripts": {
+  "lint:js": "eslint --cache --ext .js,.json,.jsx,.mdx .",
 }
 ```
 

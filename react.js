@@ -6,7 +6,8 @@ module.exports = {
     '.',
     'standard-react',
     'prettier/react',
-    'plugin:jsx-a11y/recommended'
+    'plugin:jsx-a11y/recommended',
+    'plugin:mdx/recommended'
   ],
   rules: {
     // Overrides standard-react
