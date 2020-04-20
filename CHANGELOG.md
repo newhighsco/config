@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/newhighsco/eslint-config/compare/v2.0.8...v2.1.0) (2020-04-20)
+
+
+### Features
+
+* **react:** adds MDX linting ([f64a0a1](https://github.com/newhighsco/eslint-config/commit/f64a0a133484d4cf13d837776a7254d287145601))
+
 ## [2.0.8](https://github.com/newhighsco/eslint-config/compare/v2.0.7...v2.0.8) (2020-04-15)
 
 
