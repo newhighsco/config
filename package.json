@@ -45,7 +45,7 @@
   },
   "peerDependencies": {
     "prettier": "2.0.4",
-    "stylelint": "13.3.2"
+    "stylelint": "13.3.3"
   },
   "commitlint": {
     "extends": [
