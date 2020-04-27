@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/newhighsco/browserslist-config/compare/v1.0.1...v1.0.2) (2020-04-27)
+
+
+### Bug Fixes
+
+* **docs:** updates installation instructions ([509e6c5](https://github.com/newhighsco/browserslist-config/commit/509e6c500d452c2ef4a1080d4405df6c51551504))
+
 ## [1.0.1](https://github.com/newhighsco/browserslist-config/compare/v1.0.0...v1.0.1) (2020-04-15)
 
 
