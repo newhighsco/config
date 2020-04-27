@@ -14,9 +14,9 @@ npm install --save-dev @newhighsco/browserslist-config
 New High Score Browserslist rules come bundled in `@newhighsco/browserslist-config`. To enable these rules, add a `browserslist` property in your `package.json`. See the [Browserslist configuration docs](https://github.com/browserslist/browserslist#config-file) for more details.
 
 ```json
-"browserslist": {
-  "extends": ["@newhighsco/browserslist-config"]
-}
+"browserslist": [
+  "extends @newhighsco/browserslist-config"
+]
 ```
 
 ## [CHANGELOG](CHANGELOG.md)
