@@ -1,3 +1,15 @@
+# [2.2.0](https://github.com/newhighsco/eslint-config/compare/v2.1.1...v2.2.0) (2020-04-29)
+
+
+### Bug Fixes
+
+* **deps:** updates prettier ([c4796b1](https://github.com/newhighsco/eslint-config/commit/c4796b19734a438578adf8b9037c6a2c00f3d050))
+
+
+### Features
+
+* adds babel-eslint ([93072cc](https://github.com/newhighsco/eslint-config/commit/93072ccd1f716bd768422f3bf1ea90c25b70df53))
+
 ## [2.1.1](https://github.com/newhighsco/eslint-config/compare/v2.1.0...v2.1.1) (2020-04-21)
 
 
