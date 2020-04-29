@@ -73,6 +73,17 @@
   "renovate": {
     "extends": [
       "@newhighsco"
+    ],
+    "packageRules": [
+      {
+        "packageNames": [
+          "prettier"
+        ],
+        "extends": [
+          ":eslint"
+        ],
+        "semanticCommitType": "fix"
+      }
     ]
   }
 }
