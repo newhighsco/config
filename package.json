@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/stylelint-config",
   "description": "New High Score shareable config for stylelint",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
   "repository": {

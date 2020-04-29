@@ -1,3 +1,10 @@
+## [2.0.10](https://github.com/newhighsco/stylelint-config/compare/v2.0.9...v2.0.10) (2020-04-29)
+
+
+### Bug Fixes
+
+* **deps:** updates peer dependencies ([d776bec](https://github.com/newhighsco/stylelint-config/commit/d776bec9d01cdd17daee2c86d2d515cba95e30de))
+
 ## [2.0.9](https://github.com/newhighsco/stylelint-config/compare/v2.0.8...v2.0.9) (2020-04-20)
 
 
