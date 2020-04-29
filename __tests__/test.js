@@ -10,12 +10,16 @@ try {
 
 console.log(gitRoot)
 
+const foo = { bar: true }
+const fizz = foo?.bar
+
 const nextConfig = {
   exportTrailingSlash: true,
   poweredByHeader: false,
   env: {
     SITE_URL: 'https://test.com',
-    DISALLOW_ROBOTS: true
+    DISALLOW_ROBOTS: true,
+    BUZZ: fizz
   },
   exportPathMap: defaultPathMap => {
     const customPathMap = { '/404.html': { page: '404' } }

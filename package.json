@@ -16,11 +16,14 @@
   "scripts": {
     "test": "npm run lint",
     "lint": "npm-run-all --parallel lint:*",
-    "lint:js": "eslint --cache --ext .js,.json,.jsx .",
+    "lint:js": "eslint --cache --ext .js,.json .",
+    "lint:jsx": "npm run lint:js -- --ext .js,.json,.jsx,.mdx --config ./react.js",
     "format": "npm-run-all --parallel format:*",
-    "format:js": "npm run lint:js -- --fix"
+    "format:js": "npm run lint:js -- --fix",
+    "format:jsx": "npm run lint:jsx -- --fix"
   },
   "dependencies": {
+    "babel-eslint": "10.1.0",
     "eslint-config-prettier": "6.11.0",
     "eslint-config-standard": "14.1.1",
     "eslint-config-standard-react": "9.2.0",
