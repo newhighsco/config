@@ -79,7 +79,7 @@
         "extends": [
           "packages:eslint"
         ],
-        "packageName": [
+        "packageNames": [
           "prettier"
         ],
         "semanticCommitType": "fix"
