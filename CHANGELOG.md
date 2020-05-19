@@ -1,3 +1,10 @@
+## [2.0.14](https://github.com/newhighsco/stylelint-config/compare/v2.0.13...v2.0.14) (2020-05-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint to v13.5.0 ([77f60fc](https://github.com/newhighsco/stylelint-config/commit/77f60fcbb70be550cdfbc07d579a1ab6534ea0cf))
+
 ## [2.0.13](https://github.com/newhighsco/stylelint-config/compare/v2.0.12...v2.0.13) (2020-05-18)
 
 
