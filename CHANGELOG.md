@@ -1,3 +1,10 @@
+## [2.2.4](https://github.com/newhighsco/eslint-config/compare/v2.2.3...v2.2.4) (2020-05-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-mdx to v1.7.0 ([f414057](https://github.com/newhighsco/eslint-config/commit/f414057a753d9bb39ea62885ddb4aa802449dd87))
+
 ## [2.2.3](https://github.com/newhighsco/eslint-config/compare/v2.2.2...v2.2.3) (2020-05-23)
 
 
