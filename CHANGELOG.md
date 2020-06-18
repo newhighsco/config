@@ -1,3 +1,10 @@
+## [2.0.17](https://github.com/newhighsco/stylelint-config/compare/v2.0.16...v2.0.17) (2020-06-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-scss to v3.18.0 ([a00eec4](https://github.com/newhighsco/stylelint-config/commit/a00eec4334397103a7e6d9a6d3d2ff94dadf4b2d))
+
 ## [2.0.16](https://github.com/newhighsco/stylelint-config/compare/v2.0.15...v2.0.16) (2020-06-17)
 
 
