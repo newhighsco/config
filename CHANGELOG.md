@@ -1,3 +1,10 @@
+## [2.0.18](https://github.com/newhighsco/stylelint-config/compare/v2.0.17...v2.0.18) (2020-06-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-config-prettier to v8.0.2 ([65a802c](https://github.com/newhighsco/stylelint-config/commit/65a802c5cc18658a029f295256181dd8b9e4e554))
+
 ## [2.0.17](https://github.com/newhighsco/stylelint-config/compare/v2.0.16...v2.0.17) (2020-06-18)
 
 
