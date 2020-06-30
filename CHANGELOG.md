@@ -1,3 +1,10 @@
+## [2.2.6](https://github.com/newhighsco/eslint-config/compare/v2.2.5...v2.2.6) (2020-06-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsx-a11y to v6.3.1 ([87789fd](https://github.com/newhighsco/eslint-config/commit/87789fd2aab4dfcd889c909407ccbec7ff694dc8))
+
 ## [2.2.5](https://github.com/newhighsco/eslint-config/compare/v2.2.4...v2.2.5) (2020-06-30)
 
 
