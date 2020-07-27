@@ -15,7 +15,7 @@ New High Score PostCSS rules come bundled in `@newhighsco/postcss-config`. To en
 
 ```javascript
 // `postcss.config.js`
-module.exports = '@newhighsco/postcss-config';
+module.exports = require('@newhighsco/postcss-config');
 ```
 
 ## [CHANGELOG](CHANGELOG.md)
