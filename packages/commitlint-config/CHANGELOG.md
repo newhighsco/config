@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/newhighsco/commitlint-config/compare/v1.0.4...v1.0.5) (2020-07-29)
+
+
+### Bug Fixes
+
+* restore peerDependencies ([e9bb1db](https://github.com/newhighsco/commitlint-config/commit/e9bb1db3daf67d0fe8cfa5ef8202a4d527f7ac21))
+
 ## [1.0.4](https://github.com/newhighsco/commitlint-config/compare/v1.0.3...v1.0.4) (2020-07-29)
 
 
