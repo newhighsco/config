@@ -32,9 +32,6 @@
     "prettier": "2.0.5",
     "semantic-release": "17.1.1"
   },
-  "peerDependencies": {
-    "@commitlint/cli": "9.1.1"
-  },
   "commitlint": {
     "extends": [
       "."
