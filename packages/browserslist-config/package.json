@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "9.1.2",
-    "@newhighsco/commitlint-config": "1.0.5",
+    "@newhighsco/commitlint-config": "1.0.6",
     "@newhighsco/editor-config": "1.1.1",
     "@newhighsco/eslint-config": "2.2.18",
     "@newhighsco/prettier-config": "2.0.3",
