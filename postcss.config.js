@@ -9,6 +9,9 @@ module.exports = {
       features: {
         'custom-properties': false
       }
+    },
+    '@fullhuman/postcss-purgecss': {
+      content: ['./src/{components,layouts,pages}/**/*.js?(x)']
     }
   }
 }
