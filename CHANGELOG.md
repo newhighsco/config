@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/newhighsco/postcss-config/compare/v1.0.3...v2.0.0) (2020-08-19)
+
+
+### Features
+
+* adds purgecss ([08ae808](https://github.com/newhighsco/postcss-config/commit/08ae808cace97587ae068a3b29f09c5d7ec3d359))
+
+
+### BREAKING CHANGES
+
+* May have undesired effect on output. testing required
+
 ## [1.0.3](https://github.com/newhighsco/postcss-config/compare/v1.0.2...v1.0.3) (2020-07-30)
 
 
