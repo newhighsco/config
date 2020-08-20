@@ -1,3 +1,10 @@
+## [2.2.19](https://github.com/newhighsco/eslint-config/compare/v2.2.18...v2.2.19) (2020-08-20)
+
+
+### Bug Fixes
+
+* typo ([0b1ddc9](https://github.com/newhighsco/eslint-config/commit/0b1ddc9ee7ab45f6729db51c9294110564cc1512))
+
 ## [2.2.18](https://github.com/newhighsco/eslint-config/compare/v2.2.17...v2.2.18) (2020-08-14)
 
 
