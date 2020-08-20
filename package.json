@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/newhighsco/postcss-config/issues"
   },
-  "main": "postcss.config.js",
+  "main": "index.js",
   "scripts": {
     "test": "npm run lint",
     "lint": "npm-run-all --parallel lint:*",
