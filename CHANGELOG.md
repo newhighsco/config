@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/newhighsco/postcss-config/compare/v2.0.1...v2.0.2) (2020-08-20)
+
+
+### Bug Fixes
+
+* **purgecss:** moves PurgeCSS settings to own config ([d90008f](https://github.com/newhighsco/postcss-config/commit/d90008f358477118338fd67dc49e94c60677c182))
+
 ## [2.0.1](https://github.com/newhighsco/postcss-config/compare/v2.0.0...v2.0.1) (2020-08-20)
 
 
