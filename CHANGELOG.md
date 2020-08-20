@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/newhighsco/postcss-config/compare/v2.0.2...v2.0.3) (2020-08-20)
+
+
+### Bug Fixes
+
+* remove purgecss my default ([0fb0823](https://github.com/newhighsco/postcss-config/commit/0fb082356ce561d67535121885d5057ae8426ad2))
+
 ## [2.0.2](https://github.com/newhighsco/postcss-config/compare/v2.0.1...v2.0.2) (2020-08-20)
 
 
