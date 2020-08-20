@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/newhighsco/postcss-config/compare/v2.0.0...v2.0.1) (2020-08-20)
+
+
+### Bug Fixes
+
+* **purgercss:** whitelist global and exports ([d81b596](https://github.com/newhighsco/postcss-config/commit/d81b59655767512e7319c2c3c5b06596d998b704))
+
 # [2.0.0](https://github.com/newhighsco/postcss-config/compare/v1.0.3...v2.0.0) (2020-08-19)
 
 
