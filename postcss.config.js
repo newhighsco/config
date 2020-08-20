@@ -11,7 +11,8 @@ module.exports = {
       }
     },
     '@fullhuman/postcss-purgecss': {
-      content: ['./src/{components,layouts,pages}/**/*.js?(x)']
+      content: ['./src/{components,layouts,pages}/**/*.js?(x)'],
+      whitelistPatternsChildren: [/^:(global|export)/]
     }
   }
 }
