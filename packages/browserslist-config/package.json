@@ -21,7 +21,7 @@
     "format:js": "npm run lint:js -- --fix"
   },
   "devDependencies": {
-    "@commitlint/cli": "9.1.2",
+    "@commitlint/cli": "11.0.0",
     "@newhighsco/commitlint-config": "1.0.6",
     "@newhighsco/editor-config": "1.1.1",
     "@newhighsco/eslint-config": "2.2.25",
