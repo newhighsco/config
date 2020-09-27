@@ -1,3 +1,10 @@
+## [2.2.31](https://github.com/newhighsco/eslint-config/compare/v2.2.30...v2.2.31) (2020-09-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v7.10.0 ([931c951](https://github.com/newhighsco/eslint-config/commit/931c9511a236b412941185b35d6217985621f1dc))
+
 ## [2.2.30](https://github.com/newhighsco/eslint-config/compare/v2.2.29...v2.2.30) (2020-09-25)
 
 
