@@ -68,7 +68,10 @@
   },
   "prettier": "@newhighsco/prettier-config",
   "release": {
-    "extends": "@newhighsco/release-config"
+    "extends": "@newhighsco/release-config",
+    "branches": [
+      "main"
+    ]
   },
   "renovate": {
     "extends": [
@@ -78,6 +81,9 @@
       {
         "extends": [
           "packages:eslint"
+        ],
+        "baseBranches": [
+          "main"
         ],
         "packageNames": [
           "prettier"
