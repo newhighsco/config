@@ -50,11 +50,17 @@
   },
   "prettier": "@newhighsco/prettier-config",
   "release": {
-    "extends": "@newhighsco/release-config"
+    "extends": "@newhighsco/release-config",
+    "branches": [
+      "main"
+    ]
   },
   "renovate": {
     "extends": [
       "@newhighsco"
+    ],
+    "baseBranches": [
+      "main"
     ]
   }
 }
