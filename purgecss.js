@@ -5,7 +5,9 @@ module.exports = {
     ...plugins,
     '@fullhuman/postcss-purgecss': {
       content: ['./src/{components,layouts,pages}/**/*.js?(x)'],
-      whitelistPatternsChildren: [/^:(global|export)/]
+      safelist: {
+        deep: [/^:(global|export)/]
+      }
     }
   }
 }

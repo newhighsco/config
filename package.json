@@ -21,7 +21,7 @@
     "format:js": "npm run lint:js -- --fix"
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "2.3.0",
+    "@fullhuman/postcss-purgecss": "3.0.0",
     "autoprefixer": "10.0.1",
     "postcss": "8.1.1",
     "postcss-flexbugs-fixes": "4.2.1",
