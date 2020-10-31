@@ -1,3 +1,10 @@
+## [3.0.12](https://github.com/newhighsco/postcss-config/compare/v3.0.11...v3.0.12) (2020-10-31)
+
+
+### Bug Fixes
+
+* **deps:** update dependency postcss-flexbugs-fixes to v5 ([9f2a92f](https://github.com/newhighsco/postcss-config/commit/9f2a92f3d6bd98a09566f89b716eae7eaae83021))
+
 ## [3.0.11](https://github.com/newhighsco/postcss-config/compare/v3.0.10...v3.0.11) (2020-10-24)
 
 
