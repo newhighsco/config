@@ -5,6 +5,7 @@ module.exports = {
   extends: [
     '.',
     'standard-react',
+    'standard-jsx',
     'prettier/react',
     'plugin:jsx-a11y/recommended',
     'plugin:mdx/recommended'
