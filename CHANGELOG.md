@@ -1,3 +1,10 @@
+## [2.2.46](https://github.com/newhighsco/eslint-config/compare/v2.2.45...v2.2.46) (2020-11-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-standard-react to v11 ([1cbc927](https://github.com/newhighsco/eslint-config/commit/1cbc9273deed8242229ca0d3c5daa7133f52fc72))
+
 ## [2.2.45](https://github.com/newhighsco/eslint-config/compare/v2.2.44...v2.2.45) (2020-10-31)
 
 
