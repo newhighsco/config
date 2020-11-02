@@ -1,6 +1,6 @@
 const execSync = require('child_process').execSync
 
-var gitRoot
+let gitRoot
 
 try {
   gitRoot = execSync('git rev-parse --show-toplevel').toString().trim()
