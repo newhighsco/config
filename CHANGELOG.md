@@ -1,3 +1,10 @@
+## [2.2.48](https://github.com/newhighsco/eslint-config/compare/v2.2.47...v2.2.48) (2020-11-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-standard to v4.1.0 ([20625c0](https://github.com/newhighsco/eslint-config/commit/20625c0ed5c5465b64c06f23d65d9052933bdf21))
+
 ## [2.2.47](https://github.com/newhighsco/eslint-config/compare/v2.2.46...v2.2.47) (2020-11-07)
 
 
