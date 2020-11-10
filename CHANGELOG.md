@@ -1,3 +1,10 @@
+## [3.0.16](https://github.com/newhighsco/postcss-config/compare/v3.0.15...v3.0.16) (2020-11-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency autoprefixer to v10.0.2 ([4cee46f](https://github.com/newhighsco/postcss-config/commit/4cee46f1973cb3e4f1d882161f751adc1f0a8199))
+
 ## [3.0.15](https://github.com/newhighsco/postcss-config/compare/v3.0.14...v3.0.15) (2020-11-08)
 
 
