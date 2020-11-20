@@ -24,7 +24,7 @@
     "@fullhuman/postcss-purgecss": "3.0.0",
     "autoprefixer": "10.0.2",
     "postcss": "8.1.8",
-    "postcss-flexbugs-fixes": "5.0.1",
+    "postcss-flexbugs-fixes": "5.0.2",
     "postcss-preset-env": "6.7.0"
   },
   "devDependencies": {
