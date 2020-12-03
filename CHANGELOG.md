@@ -1,3 +1,10 @@
+## [3.0.24](https://github.com/newhighsco/postcss-config/compare/v3.0.23...v3.0.24) (2020-12-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency postcss to v8.1.11 ([0d7106f](https://github.com/newhighsco/postcss-config/commit/0d7106f97fa2113826cc0a494ed9dcce663f4d0b))
+
 ## [3.0.23](https://github.com/newhighsco/postcss-config/compare/v3.0.22...v3.0.23) (2020-11-27)
 
 
