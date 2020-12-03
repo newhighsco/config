@@ -4,7 +4,8 @@ module.exports = {
   plugins: {
     ...plugins,
     '@fullhuman/postcss-purgecss': {
-      content: ['./src/{components,layouts,pages}/**/*.js?(x)']
+      content: ['./src/{components,layouts,pages}/**/*.js?(x)'],
+      safelist: [/^:(global|export)/]
     }
   }
 }
