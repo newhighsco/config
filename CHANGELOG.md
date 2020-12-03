@@ -1,3 +1,10 @@
+## [3.0.27](https://github.com/newhighsco/postcss-config/compare/v3.0.26...v3.0.27) (2020-12-03)
+
+
+### Bug Fixes
+
+* **purgecss:** adds CSS modules selectors to safelist ([863288a](https://github.com/newhighsco/postcss-config/commit/863288adebb22314a107c7cfedddc6114b988f3f))
+
 ## [3.0.26](https://github.com/newhighsco/postcss-config/compare/v3.0.25...v3.0.26) (2020-12-03)
 
 
