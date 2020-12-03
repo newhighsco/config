@@ -1,3 +1,10 @@
+## [3.0.26](https://github.com/newhighsco/postcss-config/compare/v3.0.25...v3.0.26) (2020-12-03)
+
+
+### Bug Fixes
+
+* **purgecss:** removes default safelist ([dcb76e4](https://github.com/newhighsco/postcss-config/commit/dcb76e4bbdc091ce15902a9570e663f0bc33143d))
+
 ## [3.0.25](https://github.com/newhighsco/postcss-config/compare/v3.0.24...v3.0.25) (2020-12-03)
 
 
