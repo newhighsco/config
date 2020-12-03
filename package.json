@@ -23,7 +23,7 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "3.0.0",
     "autoprefixer": "10.0.4",
-    "postcss": "8.1.10",
+    "postcss": "8.1.11",
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-preset-env": "6.7.0"
   },
