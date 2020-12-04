@@ -1,3 +1,10 @@
+## [3.0.29](https://github.com/newhighsco/postcss-config/compare/v3.0.28...v3.0.29) (2020-12-04)
+
+
+### Bug Fixes
+
+* **purgecss:** adds chipset to safe list ([383b871](https://github.com/newhighsco/postcss-config/commit/383b871edd7ed654ddeeac09c703d8af720b64b0))
+
 ## [3.0.28](https://github.com/newhighsco/postcss-config/compare/v3.0.27...v3.0.28) (2020-12-04)
 
 
