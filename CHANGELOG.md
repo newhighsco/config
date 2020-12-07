@@ -1,3 +1,10 @@
+## [3.0.30](https://github.com/newhighsco/postcss-config/compare/v3.0.29...v3.0.30) (2020-12-07)
+
+
+### Bug Fixes
+
+* **deps:** updates caniuse-lite ([b682f86](https://github.com/newhighsco/postcss-config/commit/b682f86d89e672ad21cfea530159e0bb9cf903fa))
+
 ## [3.0.29](https://github.com/newhighsco/postcss-config/compare/v3.0.28...v3.0.29) (2020-12-04)
 
 
