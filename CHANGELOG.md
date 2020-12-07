@@ -1,3 +1,10 @@
+## [2.2.55](https://github.com/newhighsco/eslint-config/compare/v2.2.54...v2.2.55) (2020-12-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to v7 ([7bee59a](https://github.com/newhighsco/eslint-config/commit/7bee59af37606b3fd72e5740a582a2c44dc114cc))
+
 ## [2.2.54](https://github.com/newhighsco/eslint-config/compare/v2.2.53...v2.2.54) (2020-12-05)
 
 
