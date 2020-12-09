@@ -24,7 +24,7 @@
     "@fullhuman/postcss-purgecss": "3.0.0",
     "autoprefixer": "10.1.0",
     "caniuse-lite": "1.0.30001165",
-    "postcss": "8.2.0",
+    "postcss": "8.2.1",
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-preset-env": "6.7.0"
   },
