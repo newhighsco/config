@@ -13,6 +13,9 @@
     "url": "https://github.com/newhighsco/postcss-config/issues"
   },
   "main": "index.js",
+  "files": [
+    "purgecss.js"
+  ],
   "scripts": {
     "test": "npm run lint",
     "lint": "npm-run-all --parallel lint:*",
