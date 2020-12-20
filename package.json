@@ -22,6 +22,9 @@
     "format:js": "npm run lint:js -- --fix",
     "format:jsx": "npm run lint:jsx -- --fix"
   },
+  "files": [
+    "react.js"
+  ],
   "dependencies": {
     "babel-eslint": "10.1.0",
     "eslint-config-prettier": "7.1.0",
