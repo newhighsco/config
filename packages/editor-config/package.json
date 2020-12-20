@@ -12,6 +12,10 @@
   "bugs": {
     "url": "https://github.com/newhighsco/editor-config/issues"
   },
+  "main": "index.js",
+  "files": [
+    ".editorconfig"
+  ],
   "scripts": {
     "postinstall": "node ./index.js",
     "test": "npm run lint",
