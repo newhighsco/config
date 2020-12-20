@@ -13,6 +13,7 @@
     "url": "https://github.com/newhighsco/browserslist-config/issues"
   },
   "main": "browserslist.config.js",
+  "files": [],
   "scripts": {
     "test": "npm run lint",
     "lint": "npm-run-all --parallel lint:*",
