@@ -22,7 +22,7 @@
     "format:js": "npm run lint:js -- --fix"
   },
   "devDependencies": {
-    "@commitlint/cli": "12.0.0",
+    "@commitlint/cli": "12.0.1",
     "@newhighsco/editor-config": "1.1.1",
     "@newhighsco/eslint-config": "2.2.67",
     "@newhighsco/prettier-config": "2.0.8",
@@ -34,7 +34,7 @@
     "semantic-release": "17.4.0"
   },
   "peerDependencies": {
-    "@commitlint/cli": "12.0.0"
+    "@commitlint/cli": "12.0.1"
   },
   "commitlint": {
     "extends": [
