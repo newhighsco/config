@@ -31,7 +31,7 @@
     "stylelint-scss": "3.19.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "12.0.0",
+    "@commitlint/cli": "12.0.1",
     "@newhighsco/commitlint-config": "1.0.8",
     "@newhighsco/editor-config": "1.1.1",
     "@newhighsco/eslint-config": "2.2.67",
