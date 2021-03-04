@@ -1,3 +1,10 @@
+## [3.0.67](https://github.com/newhighsco/postcss-config/compare/v3.0.66...v3.0.67) (2021-03-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency postcss to v8.2.7 ([#232](https://github.com/newhighsco/postcss-config/issues/232)) ([771cb50](https://github.com/newhighsco/postcss-config/commit/771cb50185ba6ed4a29176228139c78155fe770b))
+
 ## [3.0.66](https://github.com/newhighsco/postcss-config/compare/v3.0.65...v3.0.66) (2021-03-02)
 
 
