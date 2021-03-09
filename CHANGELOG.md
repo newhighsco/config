@@ -1,3 +1,10 @@
+## [2.0.34](https://github.com/newhighsco/stylelint-config/compare/v2.0.33...v2.0.34) (2021-03-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-config-standard to v21 ([#273](https://github.com/newhighsco/stylelint-config/issues/273)) ([069967b](https://github.com/newhighsco/stylelint-config/commit/069967bfca8ea8932561573f52d113f46f3b2ed5))
+
 ## [2.0.33](https://github.com/newhighsco/stylelint-config/compare/v2.0.32...v2.0.33) (2021-03-06)
 
 
