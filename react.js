@@ -6,7 +6,7 @@ module.exports = {
     '.',
     'standard-react',
     'standard-jsx',
-    'prettier/react',
+    'plugin:prettier/recommended',
     'plugin:jsx-a11y/recommended',
     'plugin:mdx/recommended'
   ],
