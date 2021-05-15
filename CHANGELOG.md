@@ -1,3 +1,10 @@
+## [2.2.90](https://github.com/newhighsco/eslint-config/compare/v2.2.89...v2.2.90) (2021-05-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-import to v2.23.2 ([#271](https://github.com/newhighsco/eslint-config/issues/271)) ([f230829](https://github.com/newhighsco/eslint-config/commit/f23082976a8edb1377c90df69e413c85e92f84d8))
+
 ## [2.2.89](https://github.com/newhighsco/eslint-config/compare/v2.2.88...v2.2.89) (2021-05-15)
 
 
