@@ -1,3 +1,10 @@
+## [2.2.93](https://github.com/newhighsco/eslint-config/compare/v2.2.92...v2.2.93) (2021-05-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-standard to v16.0.3 ([#274](https://github.com/newhighsco/eslint-config/issues/274)) ([06561fd](https://github.com/newhighsco/eslint-config/commit/06561fd2e482b994a1fc8a6d92b0342355cd8de6))
+
 ## [2.2.92](https://github.com/newhighsco/eslint-config/compare/v2.2.91...v2.2.92) (2021-05-22)
 
 
