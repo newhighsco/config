@@ -494,10 +494,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/commitlint-config/-/commitlint-config-1.0.12.tgz#5020e33efdfc84be68209e1cbaee10e337670dee"
   integrity sha512-AuEfpDDSINyZTgrYEbn2+lZ67VedRLybaYvt2TdJWCTfrWkuKYJOeLOZ0+w15bAZDgWNbCymZNPPoaBXIK9EIQ==
 
-"@newhighsco/eslint-config@2.2.95":
-  version "2.2.95"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-2.2.95.tgz#c5272c684c4e27983b4d6f8123f364b2596283f9"
-  integrity sha512-k4ik6R5i3Cvkm0NKY+NJbnzAigqnuYSCG5LBnj2FFC142uzTuQKT0m7L8Epn4Lrln9DDuAcBHFEveOmkZJDGBA==
+"@newhighsco/eslint-config@2.2.96":
+  version "2.2.96"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-2.2.96.tgz#8db58ddd67f26bbcc018b9cac0b97aeb6417ee4d"
+  integrity sha512-b/Uvyc6DgAJzW4ypwOCl4shEPhPZ9LO+t4hGwYLOLWNpS0BtSdhmYZhX3RZGMuCypTo7F5jN1Rn2fDbZZkJ5+g==
   dependencies:
     babel-eslint "10.1.0"
     eslint-config-prettier "8.3.0"
