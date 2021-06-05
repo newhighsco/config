@@ -499,10 +499,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.1.1.tgz#f90fe3bfb5aa4bb46c578338241b5a16c4a65f08"
   integrity sha512-9UL8Ip4BT2oIzIQoUu/onM9PEKh5+xdmTVFGuGudY4J6nxs4yg0/iPpe81hXGu5dvcMOX/YRS3vLvf/rpXAHxA==
 
-"@newhighsco/prettier-config@2.0.9":
-  version "2.0.9"
-  resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.0.9.tgz#b285a988f04608be83b4cd08719090e3ca2a4997"
-  integrity sha512-h0vam8qQGuQM9I/wyQKQqeMT3zZLIwllXdlQCgXElNIss6RbCic6nvxAse08r9+U9c1kUvjlpzbouu+tFMKBOA==
+"@newhighsco/prettier-config@2.0.10":
+  version "2.0.10"
+  resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.0.10.tgz#e0b9487ceca723cf39549586eb62b583c49dae66"
+  integrity sha512-LTx+LcO9xAQ+Jat7hysCMK26lWp+7vS40SeN6DDEp9sVIsUvZ/Iu1G+N6Z2pUx9qkGB/WMQI32xK06DOlNP7Ng==
 
 "@newhighsco/release-config@1.0.60":
   version "1.0.60"
