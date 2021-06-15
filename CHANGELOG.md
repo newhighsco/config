@@ -1,3 +1,10 @@
+## [2.2.98](https://github.com/newhighsco/eslint-config/compare/v2.2.97...v2.2.98) (2021-06-15)
+
+
+### Bug Fixes
+
+* **deps:** update @newhighsco/release-config ([f04781e](https://github.com/newhighsco/eslint-config/commit/f04781e7f5f2a33b06c0b4b5a74705b14854a957))
+
 ## [2.2.97](https://github.com/newhighsco/eslint-config/compare/v2.2.96...v2.2.97) (2021-06-05)
 
 
