@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/newhighsco/eslint-config/compare/v2.2.99...v2.3.0) (2021-06-15)
+
+
+### Features
+
+* **deps:** use `@babel/eslint-parser` ([94e6896](https://github.com/newhighsco/eslint-config/commit/94e6896aea24b579e6aadccb2b02173cadf34a20))
+
 ## [2.2.99](https://github.com/newhighsco/eslint-config/compare/v2.2.98...v2.2.99) (2021-06-15)
 
 
