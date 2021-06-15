@@ -26,7 +26,8 @@
     "react.js"
   ],
   "dependencies": {
-    "babel-eslint": "10.1.0",
+    "@babel/core": "7.14.6",
+    "@babel/eslint-parser": "7.14.5",
     "eslint-config-prettier": "8.3.0",
     "eslint-config-standard": "16.0.3",
     "eslint-config-standard-jsx": "10.0.0",
