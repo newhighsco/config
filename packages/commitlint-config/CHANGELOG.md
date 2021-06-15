@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/newhighsco/commitlint-config/compare/v1.0.12...v1.0.13) (2021-06-15)
+
+
+### Bug Fixes
+
+* **deps:** run `yarn upgrade` ([5c088e7](https://github.com/newhighsco/commitlint-config/commit/5c088e74bd25c32403461615f5c3a5971eea41df))
+
 ## [1.0.12](https://github.com/newhighsco/commitlint-config/compare/v1.0.11...v1.0.12) (2021-05-13)
 
 
