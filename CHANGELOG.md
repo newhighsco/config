@@ -1,3 +1,10 @@
+## [2.0.40](https://github.com/newhighsco/stylelint-config/compare/v2.0.39...v2.0.40) (2021-06-15)
+
+
+### Bug Fixes
+
+* **deps:** run `yarn upgrade` ([5ad27ed](https://github.com/newhighsco/stylelint-config/commit/5ad27ed66c7b7cd2c35cbe2ab15aa77df28a6dfd))
+
 ## [2.0.39](https://github.com/newhighsco/stylelint-config/compare/v2.0.38...v2.0.39) (2021-06-05)
 
 
