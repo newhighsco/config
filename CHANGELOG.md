@@ -1,3 +1,10 @@
+## [2.2.99](https://github.com/newhighsco/eslint-config/compare/v2.2.98...v2.2.99) (2021-06-15)
+
+
+### Bug Fixes
+
+* **deps:** ran `yarn upgrade` ([6353b0a](https://github.com/newhighsco/eslint-config/commit/6353b0a93d06d8246a94bcdae34ad17ce012c07e))
+
 ## [2.2.98](https://github.com/newhighsco/eslint-config/compare/v2.2.97...v2.2.98) (2021-06-15)
 
 
