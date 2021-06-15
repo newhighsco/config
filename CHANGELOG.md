@@ -1,3 +1,15 @@
+# [3.1.0](https://github.com/newhighsco/postcss-config/compare/v3.0.114...v3.1.0) (2021-06-15)
+
+
+### Bug Fixes
+
+* **deps:** run `yarn upgrade` ([2bc83ec](https://github.com/newhighsco/postcss-config/commit/2bc83ecbdf4b43f95b2f3011736bcb436873a066))
+
+
+### Features
+
+* **deps:** update newhigsco packages ([d025542](https://github.com/newhighsco/postcss-config/commit/d025542502cfeb1b2b5b8b7828f26938796695c6))
+
 ## [3.0.114](https://github.com/newhighsco/postcss-config/compare/v3.0.113...v3.0.114) (2021-06-14)
 
 
