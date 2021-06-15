@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/newhighsco/editor-config/compare/v1.1.1...v1.1.2) (2021-06-15)
+
+
+### Bug Fixes
+
+* **deps:** run `yarn upgrade` ([930becf](https://github.com/newhighsco/editor-config/commit/930becf59b99bd1b72b4e5ce7b6276de78ed5c34))
+
 ## [1.1.1](https://github.com/newhighsco/editor-config/compare/v1.1.0...v1.1.1) (2020-04-15)
 
 
