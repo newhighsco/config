@@ -444,15 +444,15 @@
   resolved "https://registry.yarnpkg.com/@mdx-js/util/-/util-1.6.22.tgz#219dfd89ae5b97a8801f015323ffa4b62f45718b"
   integrity sha512-H1rQc1ZOHANWBvPcW+JpGwr+juXSxM8Q8YCkm3GhZd8REu1fHR3z99CErO1p9pkcfcxZnMdIZdIsXkOHY0NilA==
 
-"@newhighsco/commitlint-config@1.0.12":
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/@newhighsco/commitlint-config/-/commitlint-config-1.0.12.tgz#5020e33efdfc84be68209e1cbaee10e337670dee"
-  integrity sha512-AuEfpDDSINyZTgrYEbn2+lZ67VedRLybaYvt2TdJWCTfrWkuKYJOeLOZ0+w15bAZDgWNbCymZNPPoaBXIK9EIQ==
+"@newhighsco/commitlint-config@1.0.13":
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/@newhighsco/commitlint-config/-/commitlint-config-1.0.13.tgz#61ca439487bb8d49125272bd575640f8027029e1"
+  integrity sha512-BgSXx40mtzwJl7Xe/HJuvj6VTPg2XpxXHinW/grcTtQroe+fGevDGsRfko3Rq+NBm+QOrpJ2+JkET5CBubE/2Q==
 
-"@newhighsco/editor-config@1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.1.1.tgz#f90fe3bfb5aa4bb46c578338241b5a16c4a65f08"
-  integrity sha512-9UL8Ip4BT2oIzIQoUu/onM9PEKh5+xdmTVFGuGudY4J6nxs4yg0/iPpe81hXGu5dvcMOX/YRS3vLvf/rpXAHxA==
+"@newhighsco/editor-config@1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.1.2.tgz#4f9d24749bf2db72e0af963052e9fa741ed749aa"
+  integrity sha512-MFzblCmgiEOte69Mv8dQTT6+4Rj27e3x6bA7tuxycCPCwo4CsP3vWAfEhcz9hDO3+S5Vs/AIpxWTqzt2m0RJNw==
 
 "@newhighsco/eslint-config@2.3.0":
   version "2.3.0"
