@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/newhighsco/browserslist-config/compare/v1.0.2...v1.0.3) (2021-06-15)
+
+
+### Bug Fixes
+
+* **deps:** run `yarn upgrade` ([b91a488](https://github.com/newhighsco/browserslist-config/commit/b91a4881d3e466340ae11cedc8cb430fd440db7c))
+
 ## [1.0.2](https://github.com/newhighsco/browserslist-config/compare/v1.0.1...v1.0.2) (2020-04-27)
 
 
