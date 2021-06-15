@@ -6,7 +6,7 @@ const packageName = require('./package.json').name
 const fileName = '.editorconfig'
 const execSync = require('child_process').execSync
 const source = path.join(__dirname, fileName)
-var gitRoot
+let gitRoot
 
 try {
   gitRoot = execSync('git rev-parse --show-toplevel').toString().trim()
