@@ -1,3 +1,10 @@
+## [2.0.43](https://github.com/newhighsco/stylelint-config/compare/v2.0.42...v2.0.43) (2021-07-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-scss to v3.20.1 ([#372](https://github.com/newhighsco/stylelint-config/issues/372)) ([4d44fb2](https://github.com/newhighsco/stylelint-config/commit/4d44fb2646e21e0d4d12c8c417c7b4ac15bbd975))
+
 ## [2.0.42](https://github.com/newhighsco/stylelint-config/compare/v2.0.41...v2.0.42) (2021-07-18)
 
 
