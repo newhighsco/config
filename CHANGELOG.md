@@ -1,3 +1,10 @@
+## [2.3.8](https://github.com/newhighsco/eslint-config/compare/v2.3.7...v2.3.8) (2021-07-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @babel/core to v7.14.8 ([#310](https://github.com/newhighsco/eslint-config/issues/310)) ([da760cc](https://github.com/newhighsco/eslint-config/commit/da760ccd0aef2819b55c69daf7d4eb4df005a2a0))
+
 ## [2.3.7](https://github.com/newhighsco/eslint-config/compare/v2.3.6...v2.3.7) (2021-07-18)
 
 
