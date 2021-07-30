@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/newhighsco/commitlint-config/compare/v1.0.13...v1.0.14) (2021-07-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @commitlint/cli to v13 ([#318](https://github.com/newhighsco/commitlint-config/issues/318)) ([8d4e24b](https://github.com/newhighsco/commitlint-config/commit/8d4e24bd5f2042a750f0a147059a5709e7d54ccf))
+
 ## [1.0.13](https://github.com/newhighsco/commitlint-config/compare/v1.0.12...v1.0.13) (2021-06-15)
 
 
