@@ -1,3 +1,10 @@
+## [2.3.10](https://github.com/newhighsco/eslint-config/compare/v2.3.9...v2.3.10) (2021-08-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @babel/eslint-parser to v7.14.9 ([#316](https://github.com/newhighsco/eslint-config/issues/316)) ([f9cdd0a](https://github.com/newhighsco/eslint-config/commit/f9cdd0a6c7e9e3b414c8c41ef699a044630b9bf0))
+
 ## [2.3.9](https://github.com/newhighsco/eslint-config/compare/v2.3.8...v2.3.9) (2021-07-31)
 
 
