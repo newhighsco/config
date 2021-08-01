@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "@babel/core": "7.14.8",
-    "@babel/eslint-parser": "7.14.7",
+    "@babel/eslint-parser": "7.14.9",
     "eslint-config-prettier": "8.3.0",
     "eslint-config-standard": "16.0.3",
     "eslint-config-standard-jsx": "10.0.0",
