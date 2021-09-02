@@ -1,3 +1,10 @@
+## [2.3.20](https://github.com/newhighsco/eslint-config/compare/v2.3.19...v2.3.20) (2021-09-02)
+
+
+### Bug Fixes
+
+* **deps:** upgrade and add resolution for `trim@0.0.1` ([#343](https://github.com/newhighsco/eslint-config/issues/343)) ([1ee1dc0](https://github.com/newhighsco/eslint-config/commit/1ee1dc0300e14b21bc8fbee4b7552ef3ad35562b))
+
 ## [2.3.19](https://github.com/newhighsco/eslint-config/compare/v2.3.18...v2.3.19) (2021-08-31)
 
 
