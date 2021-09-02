@@ -36,7 +36,7 @@ Now you can run ESLint by adding the following scripts to your `package.json`. S
 ```json
 "scripts": {
   "lint:js": "eslint --cache --ext .js,.json .",
-  "format:js": "npm run lint:js -- --fix"
+  "format:js": "yarn lint:js --fix"
 }
 ```
 
@@ -51,13 +51,13 @@ Now you can run ESLint by adding the following scripts to your `package.json`. S
 Lint it:
 
 ```
-npm run lint:js
+yarn lint:js
 ```
 
 Format it:
 
 ```
-npm run format:js
+yarn format:js
 ```
 
 ## [CHANGELOG](CHANGELOG.md)
