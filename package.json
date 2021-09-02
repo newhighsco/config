@@ -59,7 +59,7 @@
     "prettier": "2.3.2"
   },
   "resolutions": {
-    "trim": "^0.0.3"
+    "trim": "^1.0.0"
   },
   "commitlint": {
     "extends": [
