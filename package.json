@@ -14,13 +14,13 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "npm run lint",
+    "test": "yarn lint",
     "lint": "npm-run-all --parallel lint:*",
     "lint:js": "eslint --cache --ext .js,.json .",
-    "lint:jsx": "npm run lint:js -- --ext .js,.json,.jsx,.mdx --config ./react.js",
+    "lint:jsx": "yarn lint:js --ext .js,.json,.jsx,.mdx --config ./react.js",
     "format": "npm-run-all --parallel format:*",
-    "format:js": "npm run lint:js -- --fix",
-    "format:jsx": "npm run lint:jsx -- --fix"
+    "format:js": "yarn lint:js --fix",
+    "format:jsx": "yarn lint:jsx --fix"
   },
   "files": [
     "react.js"
