@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/newhighsco/postcss-config/compare/v3.1.25...v3.2.0) (2021-09-29)
+
+
+### Features
+
+* **purgecss:** support Typescript ([#442](https://github.com/newhighsco/postcss-config/issues/442)) ([d5c646a](https://github.com/newhighsco/postcss-config/commit/d5c646a6769ca8a47a238e920c6f162c90da30ff))
+
 ## [3.1.25](https://github.com/newhighsco/postcss-config/compare/v3.1.24...v3.1.25) (2021-09-13)
 
 
