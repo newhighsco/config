@@ -1,3 +1,10 @@
+# [3.3.0](https://github.com/newhighsco/postcss-config/compare/v3.2.3...v3.3.0) (2021-10-01)
+
+
+### Features
+
+* **purge:** support `@newhighsco/press-start` ([#453](https://github.com/newhighsco/postcss-config/issues/453)) ([553bdf0](https://github.com/newhighsco/postcss-config/commit/553bdf0f28842b58d7f4f98bbf8a455e4d082999))
+
 ## [3.2.3](https://github.com/newhighsco/postcss-config/compare/v3.2.2...v3.2.3) (2021-09-29)
 
 
