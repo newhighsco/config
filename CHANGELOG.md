@@ -1,3 +1,10 @@
+# [3.4.0](https://github.com/newhighsco/postcss-config/compare/v3.3.0...v3.4.0) (2021-10-01)
+
+
+### Features
+
+* **purgecss:** add `html` and `body` to the safelist ([50f71b0](https://github.com/newhighsco/postcss-config/commit/50f71b0ff7da38cc911655d5a2ac5cb7ff90ba07))
+
 # [3.3.0](https://github.com/newhighsco/postcss-config/compare/v3.2.3...v3.3.0) (2021-10-01)
 
 
