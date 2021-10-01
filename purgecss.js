@@ -8,7 +8,7 @@ module.exports = {
         './node_modules/@newhighsco/{chipset,press-start}/**/*.[j|t]s?(x)',
         './src/{components,layouts,pages}/**/*.[j|t]s?(x)'
       ],
-      safelist: [/^:(global|export)/]
+      safelist: [/^:(global|export)/, 'html', 'body']
     }
   }
 }
