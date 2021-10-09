@@ -43,7 +43,7 @@
     "eslint-plugin-standard": "4.1.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "13.2.0",
+    "@commitlint/cli": "13.2.1",
     "@newhighsco/commitlint-config": "1.0.15",
     "@newhighsco/editor-config": "1.1.2",
     "@newhighsco/prettier-config": "2.0.14",
