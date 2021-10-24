@@ -17,11 +17,11 @@
     "purgecss.js"
   ],
   "scripts": {
-    "test": "npm run lint",
+    "test": "yarn lint",
     "lint": "npm-run-all --parallel lint:*",
-    "lint:js": "eslint --cache --ext .js,.jsx,.json .",
+    "lint:js": "eslint --cache --ignore-path .gitignore --ext .js,.jsx,.json .",
     "format": "npm-run-all --parallel format:*",
-    "format:js": "npm run lint:js -- --fix"
+    "format:js": "yarn lint:js -- --fix"
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "4.0.3",

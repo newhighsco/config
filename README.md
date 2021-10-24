@@ -7,7 +7,7 @@ New High Score [shareable config](https://github.com/postcss/postcss#plugins) fo
 Install `@newhighsco/postcss-config`:
 
 ```
-npm install --save-dev @newhighsco/postcss-config
+yarn add -D @newhighsco/postcss-config postcss
 ```
 
 ## Usage
@@ -16,6 +16,13 @@ New High Score PostCSS rules come bundled in `@newhighsco/postcss-config`. To en
 ```javascript
 // `postcss.config.js`
 module.exports = require('@newhighsco/postcss-config');
+```
+
+### [PurgeCSS](https://purgecss.com/)
+
+```javascript
+// `postcss.config.js`
+module.exports = require('@newhighsco/postcss-config/purgecss');
 ```
 
 ## [CHANGELOG](CHANGELOG.md)
