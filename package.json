@@ -16,7 +16,7 @@
   "scripts": {
     "test": "yarn lint",
     "lint": "npm-run-all --parallel lint:*",
-    "lint:js": "eslint --ext .js,.json .",
+    "lint:js": "eslint --ignore-path .gitignore --ext .js,.json .",
     "lint:jsx": "yarn lint:js --ext .js,.json,.jsx,.mdx --config ./react.js",
     "format": "npm-run-all --parallel format:*",
     "format:js": "yarn lint:js --fix",
