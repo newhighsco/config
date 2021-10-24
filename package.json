@@ -27,7 +27,6 @@
     "@fullhuman/postcss-purgecss": "4.0.3",
     "autoprefixer": "10.3.7",
     "caniuse-lite": "1.0.30001271",
-    "postcss": "8.3.11",
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-preset-env": "6.7.0"
   },
@@ -43,6 +42,9 @@
     "npm-run-all": "4.1.5",
     "prettier": "2.4.1",
     "semantic-release": "18.0.0"
+  },
+  "peerDependencies": {
+    "postcss": "8.3.11"
   },
   "commitlint": {
     "extends": [
