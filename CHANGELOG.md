@@ -1,3 +1,10 @@
+## [2.3.37](https://github.com/newhighsco/eslint-config/compare/v2.3.36...v2.3.37) (2021-10-30)
+
+
+### Bug Fixes
+
+* **deps:** update babel monorepo to v7.16.0 ([#388](https://github.com/newhighsco/eslint-config/issues/388)) ([7aeafd3](https://github.com/newhighsco/eslint-config/commit/7aeafd362a53f9eba752e639f2089e8c1c1b4983))
+
 ## [2.3.36](https://github.com/newhighsco/eslint-config/compare/v2.3.35...v2.3.36) (2021-10-23)
 
 
