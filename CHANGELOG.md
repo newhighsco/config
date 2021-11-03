@@ -1,3 +1,10 @@
+## [3.4.14](https://github.com/newhighsco/postcss-config/compare/v3.4.13...v3.4.14) (2021-11-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency caniuse-lite to v1.0.30001275 ([#489](https://github.com/newhighsco/postcss-config/issues/489)) ([9a695c0](https://github.com/newhighsco/postcss-config/commit/9a695c0094dea370c850f45f86706d916e8dc895))
+
 ## [3.4.13](https://github.com/newhighsco/postcss-config/compare/v3.4.12...v3.4.13) (2021-10-31)
 
 
