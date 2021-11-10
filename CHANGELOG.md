@@ -1,3 +1,10 @@
+## [2.3.42](https://github.com/newhighsco/eslint-config/compare/v2.3.41...v2.3.42) (2021-11-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsx-a11y to v6.5.1 ([#398](https://github.com/newhighsco/eslint-config/issues/398)) ([9921b3f](https://github.com/newhighsco/eslint-config/commit/9921b3f89946608417fb969062e5ae6a63a17dcf))
+
 ## [2.3.41](https://github.com/newhighsco/eslint-config/compare/v2.3.40...v2.3.41) (2021-11-10)
 
 
