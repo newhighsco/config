@@ -1,3 +1,10 @@
+## [3.4.21](https://github.com/newhighsco/postcss-config/compare/v3.4.20...v3.4.21) (2021-11-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency postcss-preset-env to v7 ([#502](https://github.com/newhighsco/postcss-config/issues/502)) ([d87315b](https://github.com/newhighsco/postcss-config/commit/d87315b6c65b38f9b780d755bb3af77a2912da85))
+
 ## [3.4.20](https://github.com/newhighsco/postcss-config/compare/v3.4.19...v3.4.20) (2021-11-17)
 
 
