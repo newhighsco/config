@@ -24,7 +24,7 @@
     "format:js": "yarn lint:js -- --fix"
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "4.0.3",
+    "@fullhuman/postcss-purgecss": "4.1.1",
     "autoprefixer": "10.4.0",
     "caniuse-lite": "1.0.30001283",
     "postcss-flexbugs-fixes": "5.0.2",
