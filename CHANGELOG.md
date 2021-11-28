@@ -1,3 +1,10 @@
+## [3.4.24](https://github.com/newhighsco/postcss-config/compare/v3.4.23...v3.4.24) (2021-11-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @fullhuman/postcss-purgecss to v4.1.1 ([#521](https://github.com/newhighsco/postcss-config/issues/521)) ([2f25dbd](https://github.com/newhighsco/postcss-config/commit/2f25dbd3d8bbf81de0126be9729300d6f543ef3e))
+
 ## [3.4.23](https://github.com/newhighsco/postcss-config/compare/v3.4.22...v3.4.23) (2021-11-25)
 
 
