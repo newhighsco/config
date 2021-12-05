@@ -648,10 +648,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.1.2.tgz#4f9d24749bf2db72e0af963052e9fa741ed749aa"
   integrity sha512-MFzblCmgiEOte69Mv8dQTT6+4Rj27e3x6bA7tuxycCPCwo4CsP3vWAfEhcz9hDO3+S5Vs/AIpxWTqzt2m0RJNw==
 
-"@newhighsco/eslint-config@2.3.47":
-  version "2.3.47"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-2.3.47.tgz#120b1a69b3dc8863b46e89b087d9b3c1eccd6fe8"
-  integrity sha512-zON6rJlkttNWv1IFC4was+nIz3jwzgQh9/pGPirF5mxXpIIc3UVBCGdxApsKufy0uI5ONZkwP9QLCvxHOvAKBw==
+"@newhighsco/eslint-config@2.3.48":
+  version "2.3.48"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-2.3.48.tgz#0a7159412db1d05641f746b40fc126c8ab9355b3"
+  integrity sha512-pOkVTKxwYEUKPqSYQ1VzhswAjxGAR/HWtlKrujOP0IK14aotC6IswTOon1T6dodKFOJNI09b30Nmu4NM0MnTjg==
   dependencies:
     "@babel/core" "7.16.0"
     "@babel/eslint-parser" "7.16.3"
@@ -669,10 +669,10 @@
     eslint-plugin-react "7.27.1"
     eslint-plugin-standard "4.1.0"
 
-"@newhighsco/prettier-config@2.0.15":
-  version "2.0.15"
-  resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.0.15.tgz#41665bba6dd49d0f674a8492516acc0fb8afeac9"
-  integrity sha512-s4yCu6Qg2Gdda868+sIYlFDKaiI1ParDwHlCcPG0d71axW9JFzizTjmBbGtkZEzPcm0rjgUGOvtI3pEJ8J1cLg==
+"@newhighsco/prettier-config@2.0.16":
+  version "2.0.16"
+  resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.0.16.tgz#7ab7d99aeedce3dcf18bf8d4f333adcd8a45f00f"
+  integrity sha512-x/mtVFeBtxqFVs4SYuTwMhpZJUoUnMbmfDrkLDQjLaJ+WhGf/LoE/K6bSPVGnQ4q4ChvbAOJcKc1cLOQDSM3pw==
 
 "@newhighsco/release-config@1.1.4":
   version "1.1.4"
