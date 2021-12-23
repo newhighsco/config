@@ -24,7 +24,7 @@
   "devDependencies": {
     "@commitlint/cli": "15.0.0",
     "@newhighsco/editor-config": "1.1.2",
-    "@newhighsco/eslint-config": "2.3.51",
+    "@newhighsco/eslint-config": "2.3.52",
     "@newhighsco/prettier-config": "2.0.16",
     "@newhighsco/release-config": "1.1.4",
     "eslint": "8.5.0",
