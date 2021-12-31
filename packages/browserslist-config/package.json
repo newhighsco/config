@@ -22,7 +22,7 @@
     "format:js": "npm run lint:js -- --fix"
   },
   "devDependencies": {
-    "@commitlint/cli": "15.0.0",
+    "@commitlint/cli": "16.0.1",
     "@newhighsco/commitlint-config": "1.0.18",
     "@newhighsco/editor-config": "1.1.2",
     "@newhighsco/eslint-config": "2.3.53",
