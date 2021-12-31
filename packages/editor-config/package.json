@@ -26,8 +26,8 @@
   },
   "devDependencies": {
     "@commitlint/cli": "16.0.1",
-    "@newhighsco/commitlint-config": "1.0.18",
-    "@newhighsco/eslint-config": "2.3.53",
+    "@newhighsco/commitlint-config": "1.0.19",
+    "@newhighsco/eslint-config": "2.3.54",
     "@newhighsco/prettier-config": "2.0.16",
     "@newhighsco/release-config": "1.1.4",
     "eslint": "8.5.0",
