@@ -693,10 +693,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/commitlint-config/-/commitlint-config-1.0.22.tgz#adc84fc983d1fcd1ccd9fcb6bde9021f447b5f5f"
   integrity sha512-p5UGVpvEsWx4Whu7u5PMnsZ2qIrkEvmYIAj1WuaL+8B0jKbdrtsDDBYKHGbd0bqU1ADvKvBX+4fmCIJ/e2TutQ==
 
-"@newhighsco/eslint-config@2.3.59":
-  version "2.3.59"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-2.3.59.tgz#22e09ae2bc5832dfd56802f1309c154a3a644097"
-  integrity sha512-5eB5DMnW3gVnypy6s7DYV2aeISpgz6G7MA40lmhSYvSf4oH809iLMebMiLLpaJNVFoZHLMxznT5LFlM1ETFQpg==
+"@newhighsco/eslint-config@2.3.60":
+  version "2.3.60"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-2.3.60.tgz#07c592a28931eb4efe1670ff541495fab803ee1b"
+  integrity sha512-lmVxNIJ2aNcCBnRnu88LTcIUpaBxYvVyxoDaFszOO4x4r7zzkTEdcWAignSZVahOSVonSB+F+89IL8BVm4AY9Q==
   dependencies:
     "@babel/core" "7.16.12"
     "@babel/eslint-parser" "7.16.5"
