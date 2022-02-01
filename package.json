@@ -44,7 +44,7 @@
     "semantic-release": "19.0.2"
   },
   "peerDependencies": {
-    "postcss": "8.4.5"
+    "postcss": "8.4.6"
   },
   "commitlint": {
     "extends": [
