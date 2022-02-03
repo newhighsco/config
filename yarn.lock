@@ -1883,10 +1883,10 @@ camelcase@^5.0.0, camelcase@^5.3.1:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-5.3.1.tgz#e3c9b31569e106811df242f715725a1f4c494320"
   integrity sha512-L28STB170nwWS63UjtlEOE3dldQApaJXZkOI1uMFfzf3rRuPegHaHesyee+YxQ+W6SvRDQV6UrdOdRiR153wJg==
 
-caniuse-lite@1.0.30001305:
-  version "1.0.30001305"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001305.tgz#02cd8031df07c4fcb117aa2ecc4899122681bd4c"
-  integrity sha512-p7d9YQMji8haf0f+5rbcv9WlQ+N5jMPfRAnUmZRlNxsNeBO3Yr7RYG6M2uTY1h9tCVdlkJg6YNNc4kiAiBLdWA==
+caniuse-lite@1.0.30001306:
+  version "1.0.30001306"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001306.tgz#582592afe243bad2223081b8abab07bf289cc699"
+  integrity sha512-Wd1OuggRzg1rbnM5hv1wXs2VkxJH/AA+LuudlIqvZiCvivF+wJJe2mgBZC8gPMgI7D76PP5CTx8Luvaqc1V6OQ==
 
 caniuse-lite@^1.0.30001271:
   version "1.0.30001272"
