@@ -25,7 +25,7 @@
     "format:js": "npm run lint:js -- --fix"
   },
   "devDependencies": {
-    "@commitlint/cli": "16.1.0",
+    "@commitlint/cli": "16.2.1",
     "@newhighsco/commitlint-config": "1.0.22",
     "@newhighsco/eslint-config": "3.1.4",
     "@newhighsco/prettier-config": "2.0.16",
