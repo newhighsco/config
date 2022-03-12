@@ -459,10 +459,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/commitlint-config/-/commitlint-config-1.0.23.tgz#23e34d2201a8547fab6b44fd9c94f28ddf1a9d64"
   integrity sha512-oDu8sKpv72VEi75BTjDufqqN8j/FYkl2O7giCJCMVwVoWvUXp9cOtGdT8X8cvS9G/IObZF/VQzWQdJhwszHKTg==
 
-"@newhighsco/eslint-config@3.1.13":
-  version "3.1.13"
-  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-3.1.13.tgz#8696963cee2ba1a421f96baa0d363dceda1b3a2c"
-  integrity sha512-KCd3DtOU0rCQnnWYSzUTLqoNCt0/XoSN3lIft1xmPP/OJi4PshjCIAzNcI08NQ7x7i4A1n6dCRNyHBCFLbP4pA==
+"@newhighsco/eslint-config@3.1.14":
+  version "3.1.14"
+  resolved "https://registry.yarnpkg.com/@newhighsco/eslint-config/-/eslint-config-3.1.14.tgz#69244f6bf4eca4851a7feb9f8da4be34168611a5"
+  integrity sha512-18odJiztb4eYA3hcgSYK0wt4oOTP+I/LC4xBs4zlMcwo8cFTkO5OBw+Ojov3HmGmlh5tD1CcMe1VHaLU9zRF0w==
   dependencies:
     "@typescript-eslint/eslint-plugin" "5.14.0"
     "@typescript-eslint/parser" "5.14.0"
