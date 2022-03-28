@@ -527,15 +527,15 @@
   resolved "https://registry.yarnpkg.com/@mdx-js/util/-/util-1.6.22.tgz#219dfd89ae5b97a8801f015323ffa4b62f45718b"
   integrity sha512-H1rQc1ZOHANWBvPcW+JpGwr+juXSxM8Q8YCkm3GhZd8REu1fHR3z99CErO1p9pkcfcxZnMdIZdIsXkOHY0NilA==
 
-"@newhighsco/commitlint-config@1.0.24":
-  version "1.0.24"
-  resolved "https://registry.yarnpkg.com/@newhighsco/commitlint-config/-/commitlint-config-1.0.24.tgz#ab9e0d7ae8750b87383595940aa62bbd389b9bab"
-  integrity sha512-uxkAtgAbT2vsntQuuC1fG0Vy/SnykwlzCIyzLoU+DC/e4iRzIDKZ0HqTv8SYScpi9a/PAHm/L9WxZuKTzr3uLQ==
+"@newhighsco/commitlint-config@1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@newhighsco/commitlint-config/-/commitlint-config-1.1.0.tgz#d4060c18045a0699df25bf8e40f6efb466d48a28"
+  integrity sha512-4zc17HdyDMugBgo7X+0OJbvF5TAwJYgPTa7ekwuOCSSKhoAo/3VEDuZ9HYrE+cOUXqbqelTER7cEJfooqspFMg==
 
-"@newhighsco/editor-config@1.1.2":
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.1.2.tgz#4f9d24749bf2db72e0af963052e9fa741ed749aa"
-  integrity sha512-MFzblCmgiEOte69Mv8dQTT6+4Rj27e3x6bA7tuxycCPCwo4CsP3vWAfEhcz9hDO3+S5Vs/AIpxWTqzt2m0RJNw==
+"@newhighsco/editor-config@1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@newhighsco/editor-config/-/editor-config-1.2.0.tgz#a2b4771cb2cb05bc841fdb02fdf27ce7800947a2"
+  integrity sha512-dQYY50CJHdQR5X31xZM2YSTrCBE71mXuKzHTSwojWChPGJt4m/ZUNkcd4qZ+3HutuFIs+C5X+Focl/6nVIztQA==
 
 "@newhighsco/eslint-config@3.1.21":
   version "3.1.21"
@@ -563,10 +563,10 @@
   resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.0.18.tgz#a8ca13812e1ec2e5419c59f7222c05f81c826743"
   integrity sha512-d2tDzI4SnDIHp+Y76ugexKtLXNkvYz8b+Y31uciuN6S5z72TIA20n48MYz32+RtOW8lnC3AZLuJQxL8RrHYGnA==
 
-"@newhighsco/release-config@1.1.6":
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.1.6.tgz#66e8f0c44dd130de74b76122d41582fbde37d9b4"
-  integrity sha512-1mBXjjW1gB2xggjkE5HMaKVs2KLEXbwgSnjaNi0rTxLCcSO93WjK1UFShSo0ukdqtdGQaQqxVaT2SWlZPGtRng==
+"@newhighsco/release-config@1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@newhighsco/release-config/-/release-config-1.2.0.tgz#a8d15d5179f98b754d2e0fdddda5ebd5f7ec93d6"
+  integrity sha512-zf0ZjZxNihzORsnwon0dVHdNCV/lDEhtj74uHheODuNP1iTucg23DWFRcpGAqas6GXEhxBPRzEuyfr+asFibHA==
   dependencies:
     "@semantic-release/changelog" "6.0.1"
     "@semantic-release/commit-analyzer" "9.0.2"
