@@ -1,3 +1,10 @@
+# @newhighsco/editor-config [1.2.0](https://github.com/newhighsco/config/compare/@newhighsco/editor-config@1.1.2...@newhighsco/editor-config@1.2.0) (2022-03-28)
+
+
+### Features
+
+* **editor-config:** migrate to monorepo ([1d6c3b1](https://github.com/newhighsco/config/commit/1d6c3b17afcafb42f5c67f524a3fdb0afae1cc6e))
+
 ## [1.1.2](https://github.com/newhighsco/editor-config/compare/v1.1.1...v1.1.2) (2021-06-15)
 
 
