@@ -4,64 +4,16 @@
   "version": "1.0.3",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
+  "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/newhighsco/browserslist-config.git"
+    "url": "https://github.com/newhighsco/config.git",
+    "directory": "packages/browserslist-config"
   },
-  "homepage": "https://github.com/newhighsco/browserslist-config#readme",
+  "homepage": "https://github.com/newhighsco/config/tree/main/packages/browserslist-config#readme",
   "bugs": {
-    "url": "https://github.com/newhighsco/browserslist-config/issues"
+    "url": "https://github.com/newhighsco/config/issues"
   },
   "main": "browserslist.config.js",
-  "files": [],
-  "scripts": {
-    "test": "npm run lint",
-    "lint": "npm-run-all --parallel lint:*",
-    "lint:js": "eslint --cache --ext .js,.jsx,.json .",
-    "format": "npm-run-all --parallel format:*",
-    "format:js": "npm run lint:js -- --fix"
-  },
-  "devDependencies": {
-    "@commitlint/cli": "16.2.3",
-    "@newhighsco/commitlint-config": "1.0.24",
-    "@newhighsco/editor-config": "1.1.2",
-    "@newhighsco/eslint-config": "3.1.21",
-    "@newhighsco/prettier-config": "2.0.18",
-    "@newhighsco/release-config": "1.1.6",
-    "eslint": "8.12.0",
-    "husky": "7.0.4",
-    "npm-run-all": "4.1.5",
-    "prettier": "2.6.1",
-    "semantic-release": "19.0.2"
-  },
-  "commitlint": {
-    "extends": [
-      "@newhighsco"
-    ]
-  },
-  "eslintConfig": {
-    "extends": [
-      "@newhighsco"
-    ]
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
-  },
-  "prettier": "@newhighsco/prettier-config",
-  "release": {
-    "extends": "@newhighsco/release-config",
-    "branches": [
-      "main"
-    ]
-  },
-  "renovate": {
-    "extends": [
-      "@newhighsco"
-    ],
-    "baseBranches": [
-      "main"
-    ]
-  }
+  "files": []
 }
