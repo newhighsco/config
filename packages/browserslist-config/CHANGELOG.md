@@ -1,3 +1,10 @@
+# @newhighsco/browserslist-config [1.1.0](https://github.com/newhighsco/config/compare/@newhighsco/browserslist-config@1.0.0...@newhighsco/browserslist-config@1.1.0) (2022-03-28)
+
+
+### Features
+
+* **browserslist-config:** migrate to monorepo ([4234f74](https://github.com/newhighsco/config/commit/4234f74e704eefc61f3b8ddd7afc6e854d09fa15))
+
 ## [1.0.3](https://github.com/newhighsco/browserslist-config/compare/v1.0.2...v1.0.3) (2021-06-15)
 
 
