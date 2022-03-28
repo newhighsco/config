@@ -20,9 +20,9 @@
     "pretest": "yarn lint",
     "test": "yarn workspaces run test",
     "lint": "npm-run-all --parallel lint:*",
-    "lint:js": "eslint --cache --ext .js,.jsx,.json .",
+    "lint:js": "eslint --cache --ignore-path .gitignore --ext .js,.jsx,.json .",
     "format": "npm-run-all --parallel format:*",
-    "format:js": "npm run lint:js -- --fix"
+    "format:js": "yarn lint:js -- --fix"
   },
   "devDependencies": {
     "@commitlint/cli": "16.2.3",
