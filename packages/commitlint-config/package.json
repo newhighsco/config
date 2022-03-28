@@ -12,7 +12,7 @@
   },
   "homepage": "https://github.com/newhighsco/config/tree/main/packages/commitlint-config#readme",
   "bugs": {
-    "url": "https://github.com/newhighsco/commitlint-config/issues"
+    "url": "https://github.com/newhighsco/config/issues"
   },
   "main": "commitlint.config.js",
   "files": [],
