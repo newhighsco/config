@@ -1,0 +1,36 @@
+{
+  "name": "@newhighsco/release-config",
+  "description": "New High Score shareable config for semantic-release",
+  "version": "1.2.0",
+  "author": "New High Score <hello@newhighsco.re>",
+  "license": "ISC",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newhighsco/config.git",
+    "directory": "packages/release-config"
+  },
+  "homepage": "https://github.com/newhighsco/config/tree/main/packages/release-config#readme",
+  "bugs": {
+    "url": "https://github.com/newhighsco/config/issues"
+  },
+  "main": "index.js",
+  "files": [
+    "orb.js"
+  ],
+  "scripts": {
+    "test": "echo 'No test specified'"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "6.0.1",
+    "@semantic-release/commit-analyzer": "9.0.2",
+    "@semantic-release/git": "10.0.1",
+    "@semantic-release/github": "8.0.2",
+    "@semantic-release/npm": "9.0.1",
+    "@semantic-release/release-notes-generator": "10.0.3",
+    "semantic-release-circleci-orb": "1.1.1"
+  },
+  "peerDependencies": {
+    "semantic-release": "19.0.2"
+  }
+}
