@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/svgo-config",
   "description": "New High Score shareable config for SVGO",
-  "version": "3.4.73",
+  "version": "1.0.0",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
   "private": false,
