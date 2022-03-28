@@ -1,3 +1,10 @@
+# @newhighsco/release-config [1.3.0](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.2.0...@newhighsco/release-config@1.3.0) (2022-03-28)
+
+
+### Features
+
+* **release-config:** migrate to monorepo ([ee07c81](https://github.com/newhighsco/config/commit/ee07c81e1ea4853342d96b94e098eec071bfdbe5))
+
 # [1.2.0](https://github.com/newhighsco/release-config/compare/v1.1.6...v1.2.0) (2022-03-28)
 
 
