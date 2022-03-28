@@ -15,5 +15,8 @@
     "url": "https://github.com/newhighsco/config/issues"
   },
   "main": "browserslist.config.js",
-  "files": []
+  "files": [],
+  "scripts": {
+    "test": "echo 'No test specified'"
+  }
 }

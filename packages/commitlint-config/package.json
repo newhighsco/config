@@ -16,6 +16,9 @@
   },
   "main": "commitlint.config.js",
   "files": [],
+  "scripts": {
+    "test": "echo 'No test specified'"
+  },
   "peerDependencies": {
     "@commitlint/cli": "16.2.3"
   }

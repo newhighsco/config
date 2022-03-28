@@ -19,6 +19,7 @@
     ".editorconfig"
   ],
   "scripts": {
-    "postinstall": "node ./index.js"
+    "postinstall": "node ./index.js",
+    "test": "echo 'No test specified'"
   }
 }

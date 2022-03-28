@@ -17,7 +17,8 @@
   },
   "scripts": {
     "prepare": "is-ci || husky install",
-    "test": "yarn lint",
+    "pretest": "yarn lint",
+    "test": "yarn workspaces run test",
     "lint": "npm-run-all --parallel lint:*",
     "lint:js": "eslint --cache --ext .js,.jsx,.json .",
     "format": "npm-run-all --parallel format:*",
