@@ -7,7 +7,7 @@ New High Score [shareable config](https://github.com/browserslist/browserslist#s
 Install `@newhighsco/browserslist-config`:
 
 ```
-npm install --save-dev @newhighsco/browserslist-config
+yarn add -D @newhighsco/browserslist-config
 ```
 
 ## Usage
