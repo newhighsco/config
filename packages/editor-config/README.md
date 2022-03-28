@@ -7,7 +7,7 @@ New High Score [shareable config](https://editorconfig.org/#example-file) for [E
 Install stylelint and `@newhighsco/editor-config`:
 
 ```
-npm install --save-dev @newhighsco/editor-config
+yarn add -D @newhighsco/editor-config
 ```
 
 ## Usage
