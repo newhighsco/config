@@ -7,7 +7,7 @@ New High Score [shareable config](https://commitlint.js.org/#/concepts-shareable
 Install `@newhighsco/commitlint-config`:
 
 ```
-npm install --save-dev @commitlint/cli @newhighsco/commitlint-config
+yarn add -D @commitlint/cli @newhighsco/commitlint-config
 ```
 
 ### Husky
