@@ -1,3 +1,37 @@
+# @newhighsco/commitlint-config [1.1.0](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.0.24...@newhighsco/commitlint-config@1.1.0) (2022-03-28)
+
+
+### Bug Fixes
+
+* **deps:** bumps lock file ([9a20e6d](https://github.com/newhighsco/config/commit/9a20e6d9d61fb8803a31e4fb505afa9b6fdc75cc))
+* **deps:** run `yarn upgrade` ([0ddc6a9](https://github.com/newhighsco/config/commit/0ddc6a9567a7fb9ee38ebb65aa0ebbe4b84e7a25))
+* **deps:** update dependency @commitlint/cli to v12 ([#214](https://github.com/newhighsco/config/issues/214)) ([70ae937](https://github.com/newhighsco/config/commit/70ae937cba7393ade9cd84a1bd7e037d9a0ea482))
+* **deps:** update dependency @commitlint/cli to v12.0.1 ([#219](https://github.com/newhighsco/config/issues/219)) ([8747f72](https://github.com/newhighsco/config/commit/8747f72633faff5ea74e235902d7cf5c5cb90064))
+* **deps:** update dependency @commitlint/cli to v12.1.1 ([#242](https://github.com/newhighsco/config/issues/242)) ([23e5bbf](https://github.com/newhighsco/config/commit/23e5bbf441391ff7c3020f38f1937f1b87a9f85c))
+* **deps:** update dependency @commitlint/cli to v12.1.3 ([#267](https://github.com/newhighsco/config/issues/267)) ([d7715ce](https://github.com/newhighsco/config/commit/d7715ced9fba58fd1170fd5dc540ce651e21e0ee))
+* **deps:** update dependency @commitlint/cli to v12.1.4 ([#270](https://github.com/newhighsco/config/issues/270)) ([d408056](https://github.com/newhighsco/config/commit/d408056c94b3ad2fca0c859dd098ff0011825f1c))
+* **deps:** update dependency @commitlint/cli to v13 ([#318](https://github.com/newhighsco/config/issues/318)) ([e960859](https://github.com/newhighsco/config/commit/e96085900ec7e9e021ebfb87a08b7a6c4a52a7f9))
+* **deps:** update dependency @commitlint/cli to v13.2.0 ([#372](https://github.com/newhighsco/config/issues/372)) ([c751ba8](https://github.com/newhighsco/config/commit/c751ba831677692649175dc35b95d272b307768f))
+* **deps:** update dependency @commitlint/cli to v13.2.1 ([#376](https://github.com/newhighsco/config/issues/376)) ([bdb3593](https://github.com/newhighsco/config/commit/bdb35932c6d60dfd9205ac250ee120efb05e3d40))
+* **deps:** update dependency @commitlint/cli to v14 ([#395](https://github.com/newhighsco/config/issues/395)) ([3cea83d](https://github.com/newhighsco/config/commit/3cea83d1cb0c3ca08f452853e1671b4bc4cb33d0))
+* **deps:** update dependency @commitlint/cli to v15 ([#403](https://github.com/newhighsco/config/issues/403)) ([791fe58](https://github.com/newhighsco/config/commit/791fe58145c741e240f3f46fc8a8888f4ee4924f))
+* **deps:** update dependency @commitlint/cli to v16 ([#426](https://github.com/newhighsco/config/issues/426)) ([6f37bb7](https://github.com/newhighsco/config/commit/6f37bb7d4ffa899a665f3281644863231c68df7b))
+* **deps:** update dependency @commitlint/cli to v16.0.2 ([#432](https://github.com/newhighsco/config/issues/432)) ([e6dfd47](https://github.com/newhighsco/config/commit/e6dfd478ca146e78034d22c85dc639d5137e955b))
+* **deps:** update dependency @commitlint/cli to v16.0.3 ([#437](https://github.com/newhighsco/config/issues/437)) ([168f1f0](https://github.com/newhighsco/config/commit/168f1f0b4c7edc82611bd23b026d48556732fa42))
+* **deps:** update dependency @commitlint/cli to v16.1.0 ([#441](https://github.com/newhighsco/config/issues/441)) ([84d014d](https://github.com/newhighsco/config/commit/84d014d29c9a4200a4ab4b5ddf627a0d0160a650))
+* **deps:** update dependency @commitlint/cli to v16.2.1 ([#453](https://github.com/newhighsco/config/issues/453)) ([950ef91](https://github.com/newhighsco/config/commit/950ef91b6219bb72490f4bdb453f71105d27bfab))
+* **deps:** update dependency @commitlint/cli to v16.2.3 ([#469](https://github.com/newhighsco/config/issues/469)) ([e3ace60](https://github.com/newhighsco/config/commit/e3ace601c31ad299156db00e847fa731627d11e1))
+* **deps:** update dependency @commitlint/cli to v9.1.1 ([3232b53](https://github.com/newhighsco/config/commit/3232b53b92a90d5203047ab447c53ce8e9bac100))
+* **deps:** update dependency @commitlint/cli to v9.1.2 ([462fb71](https://github.com/newhighsco/config/commit/462fb7188a3008c269e21e25ae12ab9dc1301932))
+* remove peerDependencies ([6f034c1](https://github.com/newhighsco/config/commit/6f034c14c701082ed1f492b82b429b75f202c267))
+* restore peerDependencies ([3a7571f](https://github.com/newhighsco/config/commit/3a7571f72975dff96e4af2f59a1ca86b21900376))
+
+
+### Features
+
+* **commitlint-config:** migrate to monorepo ([eb800bb](https://github.com/newhighsco/config/commit/eb800bb43d7938025c0a14d599b53ee2270b5b4f))
+* initial release ([44f046f](https://github.com/newhighsco/config/commit/44f046f8549892fd6ae694d8171611419ea09ee1))
+
 ## [1.0.24](https://github.com/newhighsco/commitlint-config/compare/v1.0.23...v1.0.24) (2022-03-16)
 
 
