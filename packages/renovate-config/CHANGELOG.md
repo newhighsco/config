@@ -1,3 +1,10 @@
+# @newhighsco/renovate-config [1.6.0](https://github.com/newhighsco/config/compare/@newhighsco/renovate-config@1.5.0...@newhighsco/renovate-config@1.6.0) (2022-03-28)
+
+
+### Features
+
+* **renovate-config:** migrate to monorepo ([8013c04](https://github.com/newhighsco/config/commit/8013c04620f219433ab4f5c7489c86923c95e92c))
+
 # [1.5.0](https://github.com/newhighsco/renovate-config/compare/v1.4.4...v1.5.0) (2021-09-02)
 
 
