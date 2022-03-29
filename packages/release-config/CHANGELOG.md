@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.3.1](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.0...@newhighsco/release-config@1.3.1) (2022-03-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/github to v8.0.4 ([#5](https://github.com/newhighsco/config/issues/5)) ([c52871c](https://github.com/newhighsco/config/commit/c52871c220fcde04552c393100ce150925a0a76a))
+
 # @newhighsco/release-config [1.3.0](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.2.0...@newhighsco/release-config@1.3.0) (2022-03-28)
 
 
