@@ -18,7 +18,7 @@
     "test": "renovate-config-validator"
   },
   "devDependencies": {
-    "renovate": "32.9.2"
+    "renovate": "32.9.3"
   },
   "renovate-config": {
     "default": {
