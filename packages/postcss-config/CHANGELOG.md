@@ -1,3 +1,10 @@
+# @newhighsco/postcss-config [3.5.0](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.4.74...@newhighsco/postcss-config@3.5.0) (2022-03-30)
+
+
+### Features
+
+* **postcss-config:** migrate to monorepo ([158377b](https://github.com/newhighsco/config/commit/158377b5429d064e0629287b143e8ac441e46990))
+
 ## [3.4.74](https://github.com/newhighsco/postcss-config/compare/v3.4.73...v3.4.74) (2022-03-29)
 
 
