@@ -1,23 +1,8 @@
 version: 2.1
 
 orbs:
-  newhighsco: newhighsco/orb@1.3.0
+  newhighsco: newhighsco/orb@1.4.0
   node: circleci/node@5.0.2
-
-jobs:
-  test:
-    executor: node/default
-    steps:
-      - attach_workspace:
-          at: .
-      - run: yarn test
-  release:
-    executor: node/default
-    steps:
-      - attach_workspace:
-          at: .
-      - deploy:
-          command: npx multi-semantic-release --sequential-init
 
 workflows:
   version: 2
@@ -25,10 +10,13 @@ workflows:
     jobs:
       - newhighsco/setup:
           name: setup
-      - test:
+      - newhighsco/test:
+          name: test
           requires:
             - setup
-      - release:
+      - newhighsco/release:
+          name: release
+          command: npx multi-semantic-release --sequential-init
           requires:
             - test
           filters:
