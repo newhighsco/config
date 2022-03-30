@@ -1,3 +1,10 @@
+# @newhighsco/prettier-config [2.1.0](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.0.18...@newhighsco/prettier-config@2.1.0) (2022-03-30)
+
+
+### Features
+
+* **prettier-config:** migrate to monorepo ([ed873ac](https://github.com/newhighsco/config/commit/ed873ac6dbef07fd4f4e8280ca1172bda13ea2f3))
+
 ## [2.0.18](https://github.com/newhighsco/prettier-config/compare/v2.0.17...v2.0.18) (2022-03-25)
 
 
