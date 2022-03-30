@@ -1,0 +1,28 @@
+{
+  "name": "@newhighsco/prettier-config",
+  "description": "New High Score shareable config for prettier",
+  "version": "2.0.18",
+  "author": "New High Score <hello@newhighsco.re>",
+  "license": "ISC",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newhighsco/config.git",
+    "directory": "packages/prettier-config"
+  },
+  "homepage": "https://github.com/newhighsco/config/tree/main/packages/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/newhighsco/config/issues"
+  },
+  "main": "prettier.config.js",
+  "files": [],
+  "scripts": {
+    "test": "prettier --check __tests__"
+  },
+  "devDependencies": {
+    "prettier": "2.6.1"
+  },
+  "peerDependencies": {
+    "prettier": "2.6.1"
+  }
+}

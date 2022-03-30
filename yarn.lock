@@ -1229,11 +1229,6 @@
     eslint-plugin-react "7.29.4"
     eslint-plugin-tsc "2.0.0"
 
-"@newhighsco/prettier-config@2.0.18":
-  version "2.0.18"
-  resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-2.0.18.tgz#a8ca13812e1ec2e5419c59f7222c05f81c826743"
-  integrity sha512-d2tDzI4SnDIHp+Y76ugexKtLXNkvYz8b+Y31uciuN6S5z72TIA20n48MYz32+RtOW8lnC3AZLuJQxL8RrHYGnA==
-
 "@node-redis/bloom@1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@node-redis/bloom/-/bloom-1.0.1.tgz#144474a0b7dc4a4b91badea2cfa9538ce0a1854e"

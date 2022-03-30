@@ -29,7 +29,7 @@
     "@newhighsco/commitlint-config": "*",
     "@newhighsco/editor-config": "*",
     "@newhighsco/eslint-config": "3.1.22",
-    "@newhighsco/prettier-config": "2.0.18",
+    "@newhighsco/prettier-config": "*",
     "@newhighsco/release-config": "*",
     "@qiwi/multi-semantic-release": "6.0.2",
     "eslint": "8.12.0",
@@ -72,6 +72,12 @@
       {
         "extends": [
           "monorepo:semantic-release"
+        ],
+        "semanticCommitType": "fix"
+      },
+      {
+        "packageNames": [
+          "prettier"
         ],
         "semanticCommitType": "fix"
       }
