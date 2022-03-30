@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.3.4](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.3...@newhighsco/release-config@1.3.4) (2022-03-30)
+
+
+### Bug Fixes
+
+* **orb:** simplify path ([9c26905](https://github.com/newhighsco/config/commit/9c26905d8f822b23bdb28676e85a1b08cb3cb553))
+
 ## @newhighsco/release-config [1.3.3](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.2...@newhighsco/release-config@1.3.3) (2022-03-30)
 
 
