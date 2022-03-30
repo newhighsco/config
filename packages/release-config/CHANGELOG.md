@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.3.2](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.1...@newhighsco/release-config@1.3.2) (2022-03-30)
+
+
+### Bug Fixes
+
+* **release-config:** update path to match orb-tools v11 ([53266b7](https://github.com/newhighsco/config/commit/53266b7f1dc13d713ea355d10aef92a56f5bbedf))
+
 ## @newhighsco/release-config [1.3.1](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.0...@newhighsco/release-config@1.3.1) (2022-03-29)
 
 
