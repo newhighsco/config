@@ -1,17 +1,17 @@
 version: 2.1
 
 orbs:
-  newhighsco: newhighsco/orb@1.0.3
+  newhighsco: newhighsco/orb@dev:53c111fffa61288f4f455090409c673ee3180cd2
 
 jobs:
   test:
-    executor: newhighsco/node
+    executor: node/default
     steps:
       - attach_workspace:
           at: .
       - run: yarn test
   release:
-    executor: newhighsco/node
+    executor: node/default
     steps:
       - attach_workspace:
           at: .
