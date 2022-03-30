@@ -3,21 +3,15 @@ version: 2.1
 orbs:
   newhighsco: newhighsco/orb@1.0.3
 
-executors:
-  node-executor:
-    docker:
-      - image: circleci/node:latest
-    working_directory: ~/repo
-
 jobs:
   test:
-    executor: node-executor
+    executor: newhighsco/node
     steps:
       - attach_workspace:
           at: .
       - run: yarn test
   release:
-    executor: node-executor
+    executor: newhighsco/node
     steps:
       - attach_workspace:
           at: .
