@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.3.3](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.2...@newhighsco/release-config@1.3.3) (2022-03-30)
+
+
+### Bug Fixes
+
+* **orb:** set correct packed orb path ([0dd12ef](https://github.com/newhighsco/config/commit/0dd12ef51f920a98df56e2c794de840b7e2f6270))
+
 ## @newhighsco/release-config [1.3.2](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.1...@newhighsco/release-config@1.3.2) (2022-03-30)
 
 
