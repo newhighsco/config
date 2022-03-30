@@ -1,17 +1,18 @@
 version: 2.1
 
 orbs:
-  newhighsco: newhighsco/orb@1.0.3
+  newhighsco: newhighsco/orb@1.3.0
+  node: circleci/node@5.0.2
 
 jobs:
   test:
-    executor: newhighsco/node
+    executor: node/default
     steps:
       - attach_workspace:
           at: .
       - run: yarn test
   release:
-    executor: newhighsco/node
+    executor: node/default
     steps:
       - attach_workspace:
           at: .
