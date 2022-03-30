@@ -1,0 +1,34 @@
+{
+  "name": "@newhighsco/postcss-config",
+  "description": "New High Score shareable config for PostCSS",
+  "version": "3.4.74",
+  "author": "New High Score <hello@newhighsco.re>",
+  "license": "ISC",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newhighsco/config.git",
+    "directory": "packages/postcss-config"
+  },
+  "homepage": "https://github.com/newhighsco/config/tree/main/packages/postcss-config#readme",
+  "bugs": {
+    "url": "https://github.com/newhighsco/config/issues"
+  },
+  "main": "index.js",
+  "files": [
+    "purgecss.js"
+  ],
+  "scripts": {
+    "test": "echo 'No test specified'"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "4.1.3",
+    "autoprefixer": "10.4.4",
+    "caniuse-lite": "1.0.30001322",
+    "postcss-flexbugs-fixes": "5.0.2",
+    "postcss-preset-env": "7.4.3"
+  },
+  "peerDependencies": {
+    "postcss": "8.4.12"
+  }
+}
