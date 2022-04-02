@@ -1,0 +1,35 @@
+{
+  "name": "@newhighsco/stylelint-config",
+  "description": "New High Score shareable config for stylelint",
+  "version": "3.0.23",
+  "author": "New High Score <hello@newhighsco.re>",
+  "license": "ISC",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newhighsco/config.git",
+    "directory": "packages/stylelint-config"
+  },
+  "homepage": "https://github.com/newhighsco/config/tree/main/packages/stylelint-config#readme",
+  "bugs": {
+    "url": "https://github.com/newhighsco/config/issues"
+  },
+  "main": "stylelint.config.js",
+  "files": [],
+  "scripts": {
+    "test": "stylelint --config stylelint.config.js --formatter verbose __tests__"
+  },
+  "dependencies": {
+    "stylelint-config-css-modules": "4.1.0",
+    "stylelint-config-prettier": "9.0.3",
+    "stylelint-config-standard-scss": "3.0.0",
+    "stylelint-prettier": "2.0.0"
+  },
+  "devDependencies": {
+    "stylelint": "14.6.1"
+  },
+  "peerDependencies": {
+    "prettier": "2.6.1",
+    "stylelint": "14.6.1"
+  }
+}

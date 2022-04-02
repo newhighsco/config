@@ -9,4 +9,5 @@ New High Score shareable configs:
 - :package: :nail_care: [`prettier-config`](packages/prettier-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/prettier-config.svg)](https://www.npmjs.com/package/@newhighsco/prettier-config)
 - :package: :rocket: [`release-config`](packages/release-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/release-config.svg)](https://www.npmjs.com/package/@newhighsco/release-config)
 - :package: :recycle: [`renovate-config`](packages/renovate-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/renovate-config.svg)](https://www.npmjs.com/package/@newhighsco/renovate-config)
+- :package: :necktie: [`stylelint-config`](packages/stylelint-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/stylelint-config.svg)](https://www.npmjs.com/package/@newhighsco/stylelint-config)
 - :package: :gear: [`svgo-config`](packages/svgo-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/svgo-config.svg)](https://www.npmjs.com/package/@newhighsco/svgo-config)
