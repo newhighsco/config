@@ -1,3 +1,10 @@
+# @newhighsco/eslint-config [3.2.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.1.22...@newhighsco/eslint-config@3.2.0) (2022-04-02)
+
+
+### Features
+
+* **eslint-config:** migrate to monorepo ([ff0f628](https://github.com/newhighsco/config/commit/ff0f6281cf563f09789f9d20b22839f6d7873921))
+
 ## [3.1.22](https://github.com/newhighsco/eslint-config/compare/v3.1.21...v3.1.22) (2022-03-28)
 
 
