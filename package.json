@@ -21,8 +21,10 @@
     "test": "yarn workspaces run test",
     "lint": "npm-run-all --parallel lint:*",
     "lint:js": "eslint --cache --ignore-path .gitignore --ext .js,.jsx,.json .",
+    "lint:css": "stylelint '**/*.{css,scss}' --ignore-path .gitignore",
     "format": "npm-run-all --parallel format:*",
-    "format:js": "yarn lint:js -- --fix"
+    "format:js": "yarn lint:js -- --fix",
+    "format:css": "yarn lint:css -- --fix"
   },
   "devDependencies": {
     "@commitlint/cli": "16.2.3",
@@ -31,12 +33,14 @@
     "@newhighsco/eslint-config": "3.1.22",
     "@newhighsco/prettier-config": "*",
     "@newhighsco/release-config": "*",
+    "@newhighsco/stylelint-config": "*",
     "@qiwi/multi-semantic-release": "6.1.0",
     "eslint": "8.12.0",
     "husky": "7.0.4",
     "is-ci": "3.0.1",
     "npm-run-all": "4.1.5",
-    "prettier": "2.6.1"
+    "prettier": "2.6.1",
+    "stylelint": "14.6.1"
   },
   "commitlint": {
     "extends": [
@@ -72,6 +76,12 @@
       {
         "extends": [
           "monorepo:semantic-release"
+        ],
+        "semanticCommitType": "fix"
+      },
+      {
+        "extends": [
+          "packages:stylelint"
         ],
         "semanticCommitType": "fix"
       },

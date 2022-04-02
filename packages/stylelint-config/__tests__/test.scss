@@ -1,0 +1,197 @@
+@use 'sass:color';
+@use 'functions';
+
+@import url('x.css');
+@import url('y.css');
+
+$avatar-width-small: functions.rem(48);
+
+.test {
+  content: 'test';
+}
+
+/**
+ * Multi-line comment
+ */
+
+.selector-1,
+.selector-2,
+.selector-3[type='text'] {
+  background: linear-gradient(#fff, rgb(0 0 0 / 80%));
+  box-sizing: border-box;
+  display: block;
+  color: #333;
+
+  &:hover {
+    color: red;
+  }
+}
+
+.selector-a,
+.selector-b:not(:first-child) {
+  padding: 10px !important;
+  top: calc(calc(1em * 2) / 3);
+}
+
+.selector-x {
+  width: 10%;
+  color: currentColor;
+
+  .first {
+    color: red;
+  }
+
+  .second {
+    color: green;
+  }
+}
+
+.selector-y {
+  width: 20%;
+}
+
+.selector-z {
+  width: 30%;
+}
+
+/* Single-line comment */
+
+@media (min-width >= 60em) {
+  .selector {
+    /* Flush to parent comment */
+    transform: translate(1, 1) scale(3);
+  }
+}
+
+@media (orientation: portrait), projection and (color) {
+  .selector-i + .selector-ii {
+    background: color(sRGB 0 0 0 / 50%);
+    color: color.adjust(#998099, $lightness: -30%, $alpha: -0.4);
+    font-family: helvetica, 'arial black', sans-serif;
+  }
+}
+
+/* Flush single line comment */
+@media screen and (min-resolution: 192dpi), screen and (min-resolution: 2dppx) {
+  .selector {
+    background-image: repeating-linear-gradient(
+      -45deg,
+      transparent,
+      #fff 25px,
+      rgba(255 255 255 / 100%) 50px
+    );
+    margin: 10px;
+    margin-bottom: 5px;
+    box-shadow: 0 1px 1px #000, 0 1px 0 #fff, 2px 2px 1px 1px #ccc inset;
+    height: 10rem;
+  }
+
+  /* Flush nested single line comment */
+  .selector::after {
+    content: '→';
+    background-image: url('x.svg');
+  }
+}
+
+$light-background: #f2ece4;
+$light-text: #036;
+$dark-background: #6b717f;
+$dark-text: #d2e1dd;
+
+@mixin theme-colors-nest($light-theme: true) {
+  @if $light-theme {
+    background-color: $light-background;
+    color: $light-text;
+  } @else {
+    background-color: $dark-background;
+    color: $dark-text;
+  }
+
+  @if true {
+    background: red;
+  }
+
+  .test {
+    content: 'p';
+  }
+}
+
+@mixin theme-colors($light-theme: true) {
+  background: red;
+}
+
+.banner {
+  @include theme-colors($light-theme: true);
+
+  body.dark & {
+    @include theme-colors($light-theme: false);
+  }
+}
+
+@keyframes carousel {
+  0% {
+    transform: translate3d(0, 0, 0);
+    filter: blur(0);
+  }
+
+  17.5% {
+    transform: translate3d(0, 0, 0);
+    filter: blur(0);
+  }
+
+  20.625%,
+  38.125% {
+    transform: translate3d(-20%, 0, 0);
+    filter: blur(0);
+  }
+}
+
+@for $i from 1 through 4 {
+  .item-#{$i} {
+    left: 20px * $i;
+  }
+}
+
+$backgrounds: (home, 'home.jpg'), (about, 'about.jpg');
+
+@each $id, $image in $backgrounds {
+  .photo-#{$id} {
+    background: url($image);
+  }
+}
+
+$menu-items: home about services contact;
+
+@each $item in $menu-items {
+  .photo-#{$item} {
+    background: url('images/#{$item}.jpg');
+  }
+}
+
+$i: 6;
+
+@while $i > 0 {
+  $foo: red;
+
+  .item-#{$i} {
+    width: 2em * $i;
+  }
+
+  .banana {
+    color: red;
+  }
+
+  $i: $i - 2;
+}
+
+$base-color: #c6538c;
+$border-dark: rgb($base-color / 88%);
+$test-var: 'Something', something;
+
+// test
+.alert {
+  // Test
+  $testing: 'green';
+
+  border: 1px solid $border-dark;
+}

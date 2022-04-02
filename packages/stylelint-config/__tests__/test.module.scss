@@ -1,0 +1,92 @@
+.selector {
+  background: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    #fff 25px,
+    rgb(255 255 255 / 100%) 50px
+  );
+}
+
+:global {
+  body {
+    background: red;
+  }
+}
+
+:export {
+  test: red;
+}
+
+@if true {
+  // ...
+}
+
+.a {
+  content: '→';
+}
+
+@if true {
+  // ...
+} @else {
+  // ...
+}
+
+.b {
+  content: '→';
+}
+
+@if true {
+  // ...
+} @else if false {
+  // ...
+} @else {
+  // ...
+}
+
+@if true {
+  // ...
+} @else if false {
+  // ...
+} @else {
+  // ...
+}
+
+.c {
+  content: '→';
+}
+
+.className {
+  color: green;
+  background: red;
+}
+
+.otherClassName {
+  composes: className;
+  color: yellow;
+}
+
+.otherClassNameGlobal {
+  composes: globalClassName from global;
+}
+
+.base {
+  content: 'base';
+  color: primary;
+}
+
+.composed {
+  composes: base;
+}
+
+.composedWith {
+  compose-with: base;
+}
+
+.flexible {
+  composes: flex from './utils.css';
+  flex-direction: column;
+}
+
+:global(.js) .progressive {
+  display: block;
+}
