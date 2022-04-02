@@ -1,0 +1,51 @@
+{
+  "name": "@newhighsco/eslint-config",
+  "description": "New High Score shareable config for ESLint",
+  "version": "3.1.22",
+  "author": "New High Score <hello@newhighsco.re>",
+  "license": "ISC",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newhighsco/config.git",
+    "directory": "packages/eslint-config"
+  },
+  "homepage": "https://github.com/newhighsco/config/tree/main/packages/eslint-config#readme",
+  "bugs": {
+    "url": "https://github.com/newhighsco/config/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint --format tap __tests__"
+  },
+  "files": [],
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "5.17.0",
+    "@typescript-eslint/parser": "5.17.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-config-standard-jsx": "10.0.0",
+    "eslint-config-standard-react": "11.0.1",
+    "eslint-config-standard-with-typescript": "21.0.1",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-json-format": "2.0.1",
+    "eslint-plugin-jsx-a11y": "6.5.1",
+    "eslint-plugin-mdx": "1.17.0",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "eslint-plugin-promise": "6.0.0",
+    "eslint-plugin-react": "7.29.4",
+    "eslint-plugin-tsc": "2.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.43",
+    "eslint": "8.12.0"
+  },
+  "peerDependencies": {
+    "eslint": "8.12.0",
+    "prettier": "2.6.1"
+  },
+  "eslintConfig": {
+    "root": true,
+    "extends": "."
+  }
+}
