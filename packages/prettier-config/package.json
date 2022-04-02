@@ -17,7 +17,7 @@
   "main": "prettier.config.js",
   "files": [],
   "scripts": {
-    "test": "prettier --check __tests__"
+    "test": "prettier --config prettier.config.js --loglevel debug --check __tests__"
   },
   "devDependencies": {
     "prettier": "2.6.1"
