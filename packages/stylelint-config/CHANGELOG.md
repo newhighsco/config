@@ -1,3 +1,10 @@
+# @newhighsco/stylelint-config [3.1.0](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.0.23...@newhighsco/stylelint-config@3.1.0) (2022-04-02)
+
+
+### Features
+
+* **stylelint-config:** migrates to monorepo ([3031b33](https://github.com/newhighsco/config/commit/3031b332da8c46c9d91b694c646229a4bd21089e))
+
 ## [3.0.23](https://github.com/newhighsco/stylelint-config/compare/v3.0.22...v3.0.23) (2022-03-25)
 
 
