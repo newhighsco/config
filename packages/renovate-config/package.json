@@ -26,7 +26,6 @@
       "extends": [
         "config:base"
       ],
-      "dependencyDashboard": false,
       "packageRules": [
         {
           "automerge": true,
