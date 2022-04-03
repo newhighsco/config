@@ -1,3 +1,10 @@
+# @newhighsco/renovate-config [1.7.0](https://github.com/newhighsco/config/compare/@newhighsco/renovate-config@1.6.0...@newhighsco/renovate-config@1.7.0) (2022-04-03)
+
+
+### Features
+
+* re-enable dependency dashboard ([e50432a](https://github.com/newhighsco/config/commit/e50432ac8c8c594f539140799f6771ffacad03af))
+
 # @newhighsco/renovate-config [1.6.0](https://github.com/newhighsco/config/compare/@newhighsco/renovate-config@1.5.0...@newhighsco/renovate-config@1.6.0) (2022-03-28)
 
 
