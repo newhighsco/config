@@ -9277,10 +9277,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@32.18.0:
-  version "32.18.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.18.0.tgz#9aa8d4b20c2daaa34f2b5e91894dbdaf47ecd02b"
-  integrity sha512-pnfM6K7NA9ghSjStZ+YmWwXJ+/y3S2Yb4cTfdu5WrbS+8hwjKkhWa1nEm2e9WxIW8eO2wrj0Yh2uwYO1Txknnw==
+renovate@32.19.0:
+  version "32.19.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.19.0.tgz#8206b51f6217ffdb1b3fc49feb2bd62a8c46940a"
+  integrity sha512-b8nNdWpPHHco7FksDWgaILf7Wf+I8o0ucIidVxKTv5fTJAin19emeX7KrpADOrZpi7ZGWC/fjuL8QNUe3rVPDA==
   dependencies:
     "@aws-sdk/client-ec2" "3.50.0"
     "@aws-sdk/client-ecr" "3.50.0"
