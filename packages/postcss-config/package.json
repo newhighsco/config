@@ -26,7 +26,7 @@
     "autoprefixer": "10.4.5",
     "caniuse-lite": "1.0.30001332",
     "postcss-flexbugs-fixes": "5.0.2",
-    "postcss-preset-env": "7.4.3"
+    "postcss-preset-env": "7.4.4"
   },
   "peerDependencies": {
     "postcss": "8.4.12"
