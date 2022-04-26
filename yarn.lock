@@ -1611,17 +1611,17 @@
   dependencies:
     "@octokit/openapi-types" "^11.2.0"
 
-"@pnpm/constants@6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@pnpm/constants/-/constants-6.0.0.tgz#1b316124618c44ee0e4308321a6f5268a5145543"
-  integrity sha512-r/DDueDU2rskc8yhMYLCqgY0ttaWRxJEvg+bLvUYINCTzJmirsVtPcEgRnNORKYO0trbF+BWB69N435HhHPBcA==
+"@pnpm/constants@6.1.0":
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/@pnpm/constants/-/constants-6.1.0.tgz#2db43ae0e029095df7959bc640081beae38a631b"
+  integrity sha512-L6AiU3OXv9kjKGTJN9j8n1TeJGDcLX9atQlZvAkthlvbXjvKc5SKNWESc/eXhr5nEfuMWhQhiKHDJCpYejmeCQ==
 
-"@pnpm/error@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@pnpm/error/-/error-3.0.0.tgz#2a780aa6cc10067c827ec1eccbb4b9974387e3d8"
-  integrity sha512-47anCwsVA6Wrbh1niHpNYctA5w4UG0kFBiO+PaQzpYfxoC1Fo+UuTyyUukfjA1/GJBkO7z+dWiJ+HMMR8A+jJg==
+"@pnpm/error@3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@pnpm/error/-/error-3.0.1.tgz#dc232f1717eba895eb842624755c753599b10c9b"
+  integrity sha512-hMlbWbFcfcfolNfSjKjpeaZFow71kNg438LZ8rAd01swiVIYRUf/sRv8gGySru6AijYfz5UqslpIJRDbYBkgQA==
   dependencies:
-    "@pnpm/constants" "6.0.0"
+    "@pnpm/constants" "6.1.0"
 
 "@pnpm/graceful-fs@2.0.0":
   version "2.0.0"
@@ -1630,12 +1630,12 @@
   dependencies:
     graceful-fs "^4.2.6"
 
-"@pnpm/read-project-manifest@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@pnpm/read-project-manifest/-/read-project-manifest-3.0.0.tgz#fbc8c5e5fb73474f71df65a1cd9d8456a05cd13c"
-  integrity sha512-pDwfkONvwvfZV+2ZaepKPmbO4XsZRWPlBsIZZ128qymilU05F9gTxANAtd4xSc/eWNhAY4l0VEz/jkyf1VS68g==
+"@pnpm/read-project-manifest@3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@pnpm/read-project-manifest/-/read-project-manifest-3.0.1.tgz#ba50b2a08eae1333139fddeced8627e8a409f261"
+  integrity sha512-s1dsOQRnLkbUgr3CkZgZ/vbNq7vUYOAaFquRbQmkxO5fPsOyvUnDXOOh6fcr6ynRfG07qg7i6K4OX6UdPgsQNw==
   dependencies:
-    "@pnpm/error" "3.0.0"
+    "@pnpm/error" "3.0.1"
     "@pnpm/graceful-fs" "2.0.0"
     "@pnpm/types" "8.0.0"
     "@pnpm/write-project-manifest" "3.0.0"
@@ -4715,12 +4715,12 @@ find-npm-prefix@^1.0.2:
   resolved "https://registry.yarnpkg.com/find-npm-prefix/-/find-npm-prefix-1.0.2.tgz#8d8ce2c78b3b4b9e66c8acc6a37c231eb841cfdf"
   integrity sha512-KEftzJ+H90x6pcKtdXZEPsQse8/y/UnvzRKrOSQFprnrGaFuJ62fVkP34Iu2IYuMvyauCyoLTNkJZgrrGA2wkA==
 
-find-packages@9.0.0:
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/find-packages/-/find-packages-9.0.0.tgz#a4a3237bb298b4a50bebc47780cc5ffc405e89a6"
-  integrity sha512-NHnAqurXW/bM+yfsjKhaStODIbSMNAzdlF5lyrnimjhTcEmsCQ28FdFvln0DLciG00San2VD2KuX8dNUy5k5fg==
+find-packages@9.0.1:
+  version "9.0.1"
+  resolved "https://registry.yarnpkg.com/find-packages/-/find-packages-9.0.1.tgz#734dc4f94c6df0a2cff146ab0b1078b863b39962"
+  integrity sha512-0xl1nboFd1GFDll4cYMjFCsbcW5prb7r2YOWjuunalWOu0O+ZWmmyIZlYJ7HOEMvn3b62VKxs5ZUCvUFTAFu3A==
   dependencies:
-    "@pnpm/read-project-manifest" "3.0.0"
+    "@pnpm/read-project-manifest" "3.0.1"
     "@pnpm/types" "8.0.0"
     fast-glob "^3.2.4"
     p-filter "^2.1.0"
@@ -9481,10 +9481,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@32.32.0:
-  version "32.32.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.32.0.tgz#f2aabb70138694f2110be0261dcce97e23a99246"
-  integrity sha512-YCsCpy8GRCKc1Nc8hRlwg3bzvGxfDZ+iD7/w+cs4oWRva/mA/gS/Kk2Mt98rpPbrvTZIcpJeO+Y/WNB2yLl/Rg==
+renovate@32.32.2:
+  version "32.32.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.32.2.tgz#478ee227af27933f87f5933878b30117abeded73"
+  integrity sha512-raa0D1RpXVCaCPoNuUcYUp+fNPKm9Vyv3/cwLxxJBZykui/hh8lyCpnozKVjmZjzo8RfY7AElsChYh2XGsEnNQ==
   dependencies:
     "@aws-sdk/client-ec2" "3.71.0"
     "@aws-sdk/client-ecr" "3.67.0"
@@ -9518,7 +9518,7 @@ renovate@32.32.0:
     emojibase-regex "6.0.1"
     extract-zip "2.0.1"
     fast-safe-stringify "2.1.1"
-    find-packages "9.0.0"
+    find-packages "9.0.1"
     find-up "5.0.0"
     fs-extra "10.1.0"
     git-url-parse "11.6.0"
@@ -9555,7 +9555,7 @@ renovate@32.32.0:
     semver-stable "3.0.0"
     semver-utils "1.1.4"
     shlex "2.1.0"
-    simple-git "3.6.0"
+    simple-git "3.7.0"
     slugify "1.6.5"
     traverse "0.6.6"
     tslib "2.3.1"
@@ -9948,10 +9948,10 @@ signale@^1.2.1, signale@^1.4.0:
     figures "^2.0.0"
     pkg-conf "^2.1.0"
 
-simple-git@3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.6.0.tgz#28a9ebb7ca55495bb4e6cc5d367b4543e2d857a4"
-  integrity sha512-2e+4QhOVO59GeLsHgwSMKNrSKCnuACeA/gMNrLCYR8ID9qwm4hViVt4WsODcUGjx//KDv6GMLC6Hs/MeosgXxg==
+simple-git@3.7.0:
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.7.0.tgz#b0aac4c2e6e8118c115460ed93d072cda966dd42"
+  integrity sha512-O9HlI83ywqkYqnr7Wh3CqKNNrMkfjzpKQSGtJAhk7+H5P+lAxHBTIPgu/eO/0D9pMciepgs433p0d5S+NYv5Jg==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
