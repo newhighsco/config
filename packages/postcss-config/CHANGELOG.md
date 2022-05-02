@@ -1,3 +1,11 @@
+## @newhighsco/postcss-config [3.5.12](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.11...@newhighsco/postcss-config@3.5.12) (2022-05-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency autoprefixer to v10.4.7 ([#91](https://github.com/newhighsco/config/issues/91)) ([5f4a57f](https://github.com/newhighsco/config/commit/5f4a57f837da40de0716aa8a3ee4c64a8052edab))
+* **deps:** update dependency caniuse-lite to v1.0.30001335 ([#89](https://github.com/newhighsco/config/issues/89)) ([79fec22](https://github.com/newhighsco/config/commit/79fec2261f917251155acb8721e5a1c92b7c0701))
+
 ## @newhighsco/postcss-config [3.5.11](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.10...@newhighsco/postcss-config@3.5.11) (2022-05-02)
 
 
