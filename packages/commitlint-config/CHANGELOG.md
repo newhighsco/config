@@ -1,3 +1,10 @@
+## @newhighsco/commitlint-config [1.1.4](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.1.3...@newhighsco/commitlint-config@1.1.4) (2022-05-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @commitlint/cli to v17.0.1 ([#155](https://github.com/newhighsco/config/issues/155)) ([38905e7](https://github.com/newhighsco/config/commit/38905e77ec9e70c4b8803f6f64f7bd3eb9aa9e44))
+
 ## @newhighsco/commitlint-config [1.1.3](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.1.2...@newhighsco/commitlint-config@1.1.3) (2022-05-18)
 
 
