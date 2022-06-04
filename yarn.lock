@@ -3686,10 +3686,10 @@ combined-stream@^1.0.6, combined-stream@~1.0.6:
   dependencies:
     delayed-stream "~1.0.0"
 
-commander@9.2.0:
-  version "9.2.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-9.2.0.tgz#6e21014b2ed90d8b7c9647230d8b7a94a4a419a9"
-  integrity sha512-e2i4wANQiSXgnrBlIatyHtP1odfUp0BbV5Y5nEGbxtIrStkEOAAzCUirvLBNXHLr7kwLvJl6V+4V3XV9x7Wd9w==
+commander@9.3.0:
+  version "9.3.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-9.3.0.tgz#f619114a5a2d2054e0d9ff1b31d5ccf89255e26b"
+  integrity sha512-hv95iU5uXPbK83mjrJKuZyFM/LBAoCV/XhVGkS5Je6tl7sxr6A0ITMw5WoRV46/UaJ46Nllm3Xt7IaJhXTIkzw==
 
 commander@^2.19.0:
   version "2.20.3"
@@ -9907,10 +9907,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@32.73.3:
-  version "32.73.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.73.3.tgz#380c20f42e1f3b9fda83e9f2a4dee5be32aeee9c"
-  integrity sha512-alIbS8Uj+vPcQTra9BCKmjU1nBD2XnsbtcFVpJGg0i3+2J3jDA7tGkBs/8dlr5Ie1MJN2bDMxx3cKgcu2R8gEg==
+renovate@32.74.2:
+  version "32.74.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.74.2.tgz#7877b0088677a6b11d8c744d117794524f2dafd4"
+  integrity sha512-i5wSQhmH84hst9zcKBfkEYFcZgYBfriLDFF5zefO4gRt5sQKnxqoW9125uTL9AkDciocKD93Kh8Q9ZTq+A/kxg==
   dependencies:
     "@aws-sdk/client-ec2" "3.72.0"
     "@aws-sdk/client-ecr" "3.72.0"
@@ -9931,7 +9931,7 @@ renovate@32.73.3:
     chalk "4.1.2"
     changelog-filename-regex "2.0.1"
     clean-git-ref "2.0.1"
-    commander "9.2.0"
+    commander "9.3.0"
     conventional-commits-detector "1.0.3"
     crypto-random-string "3.3.1"
     deepmerge "4.2.2"
