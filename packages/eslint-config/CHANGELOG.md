@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [3.2.26](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.2.25...@newhighsco/eslint-config@3.2.26) (2022-06-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-react to v7.30.1 ([#226](https://github.com/newhighsco/config/issues/226)) ([9af4480](https://github.com/newhighsco/config/commit/9af4480b09625284d34912fc28a9f416f1bb040d))
+
 ## @newhighsco/eslint-config [3.2.25](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.2.24...@newhighsco/eslint-config@3.2.25) (2022-06-20)
 
 
