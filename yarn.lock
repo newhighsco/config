@@ -2060,10 +2060,10 @@
   resolved "https://registry.yarnpkg.com/@redis/bloom/-/bloom-1.0.2.tgz#42b82ec399a92db05e29fffcdfd9235a5fc15cdf"
   integrity sha512-EBw7Ag1hPgFzdznK2PBblc1kdlj5B5Cw3XwI9/oG7tSn85/HKy3X9xHy/8tm/eNXJYHLXHJL/pkwBpFMVVefkw==
 
-"@redis/client@1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@redis/client/-/client-1.1.1.tgz#24cb933f9f5be55b8262270a9dd6da5d3d93785a"
-  integrity sha512-IGGyazghVYuqsXv7/AxzMS0HmCPj0JRQX4l0XZ52BdJTUv2lNSnPgfWEE65HnC2gZCEO7STyaJbNultn1i0Y3g==
+"@redis/client@1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@redis/client/-/client-1.2.0.tgz#be2ef974881e57276123cb76d08756c03eed946f"
+  integrity sha512-a8Nlw5fv2EIAFJxTDSSDVUT7yfBGpZO96ybZXzQpgkyLg/dxtQ1uiwTc0EGfzg1mrPjZokeBSEGTbGXekqTNOg==
   dependencies:
     cluster-key-slot "1.1.0"
     generic-pool "3.8.2"
@@ -9880,13 +9880,13 @@ redeyed@~2.1.0:
   dependencies:
     esprima "~4.0.0"
 
-redis@4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/redis/-/redis-4.1.1.tgz#a366a15d47819e11f7cdd35dd9860e1839bc2b35"
-  integrity sha512-vVLYD0RMiDH4YQ1dtmtNU0RX5MAsvEA35Wj+4ZhrSNZXtGK87ktQ0lmI3O3Qn/omoIW456wfOUanqI/RNxagLw==
+redis@4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/redis/-/redis-4.2.0.tgz#1278a265b8aa1e096a585d103bdead027cd04e43"
+  integrity sha512-bCR0gKVhIXFg8zCQjXEANzgI01DDixtPZgIUZHBCmwqixnu+MK3Tb2yqGjh+HCLASQVVgApiwhNkv+FoedZOGQ==
   dependencies:
     "@redis/bloom" "1.0.2"
-    "@redis/client" "1.1.1"
+    "@redis/client" "1.2.0"
     "@redis/graph" "1.0.1"
     "@redis/json" "1.0.3"
     "@redis/search" "1.0.6"
@@ -10034,10 +10034,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@32.111.0:
-  version "32.111.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.111.0.tgz#a1bedf23dcef13b980db73d8b3ea2a075b518661"
-  integrity sha512-EKe/gpH4cb9tjpj5RHClJJN3yIy2KKuU1WZQ+xFUXkgdFmc/AKTWUc1H+8IjrLJLBjWnTWdo8kZchE2FaG1qWw==
+renovate@32.111.1:
+  version "32.111.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.111.1.tgz#c5d7cf71e8a116d34279ca2e7d69d34869a1b494"
+  integrity sha512-JzV78FaVbI65wy+tCVA+e9R1fAWfBztSYbZ9mroChW9HJ/P79ODbcq3VfwUdaKD8hlQ7pV8MuFp6HFXZG74UCw==
   dependencies:
     "@aws-sdk/client-ec2" "3.112.0"
     "@aws-sdk/client-ecr" "3.112.0"
@@ -10103,7 +10103,7 @@ renovate@32.111.0:
     p-map "4.0.0"
     p-queue "6.6.2"
     parse-link-header "2.0.0"
-    redis "4.1.1"
+    redis "4.2.0"
     remark "13.0.0"
     remark-github "10.1.0"
     semver "7.3.7"
