@@ -10034,10 +10034,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@32.122.1:
-  version "32.122.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.122.1.tgz#b614c79575445a96b9de0da47533d3e905730f23"
-  integrity sha512-AwUeFfaHZKH4uLfaSLEg7bqbutCMKNOs1Uj6hg8bhZHNdPBWKnrb7lUyKhxQKF7rPPLT7p1lUUXp8UUKo2gqtA==
+renovate@32.122.2:
+  version "32.122.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.122.2.tgz#53f2390ec87fb1fd29f66281449e36d0fad6f6d2"
+  integrity sha512-meraSJ4ccgDIzBSX/y6ZUlU/DsCOemMFtJ3IO47YlkXhvfmZiacV97NMleG/BOwCgxSTEFrnuqzkpRyCPOI/Ww==
   dependencies:
     "@aws-sdk/client-ec2" "3.112.0"
     "@aws-sdk/client-ecr" "3.112.0"
@@ -10118,7 +10118,7 @@ renovate@32.122.1:
     upath "2.0.1"
     url-join "4.0.1"
     validate-npm-package-name "4.0.0"
-    xmldoc "1.1.4"
+    xmldoc "1.2.0"
   optionalDependencies:
     re2 "1.17.7"
 
@@ -11964,10 +11964,10 @@ xdg-basedir@^3.0.0:
   resolved "https://registry.yarnpkg.com/xdg-basedir/-/xdg-basedir-3.0.0.tgz#496b2cc109eca8dbacfe2dc72b603c17c5870ad4"
   integrity sha1-SWsswQnsqNus/i3HK2A8F8WHCtQ=
 
-xmldoc@1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/xmldoc/-/xmldoc-1.1.4.tgz#ea4e26dca76b1d218a2f777018bce404ba374a86"
-  integrity sha512-rQshsBGR5s7pUNENTEncpI2LTCuzicri0DyE4SCV5XmS0q81JS8j1iPijP0Q5c4WLGbKh3W92hlOwY6N9ssW1w==
+xmldoc@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/xmldoc/-/xmldoc-1.2.0.tgz#7554371bfd8c138287cff01841ae4566d26e5541"
+  integrity sha512-2eN8QhjBsMW2uVj7JHLHkMytpvGHLHxKXBy4J3fAT/HujsEtM6yU84iGjpESYGHg6XwK0Vu4l+KgqQ2dv2cCqg==
   dependencies:
     sax "^1.2.4"
 
