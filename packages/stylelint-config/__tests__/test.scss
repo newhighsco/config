@@ -1,8 +1,8 @@
 @use 'sass:color';
 @use 'functions';
 
-@import url('x.css');
-@import url('y.css');
+@import 'x.css';
+@import 'y.css';
 
 $avatar-width-small: functions.rem(48);
 
