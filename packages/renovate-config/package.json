@@ -58,6 +58,9 @@
           ]
         }
       ],
+      "postUpdateOptions": [
+        "yarnDedupeHighest"
+      ],
       "prCreation": "not-pending",
       "reviewers": [
         "team:@newhighsco/reviewers"
