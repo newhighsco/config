@@ -5,9 +5,10 @@ import {
   IconItem,
   Meta,
   Typeset
-} from '@storybook/addon-docs/blocks'
+} from '@storybook/addon-docs'
 import colors from './theme/colors'
-const fontSizes = [
+
+export const fontSizes = [
   '12px',
   '14px',
   '16px',
@@ -40,5 +41,7 @@ const fontSizes = [
 # Icons
 
 <IconGallery>
-  <IconItem name="add">blah</IconItem>
+  <IconItem name="add">
+    <svg />
+  </IconItem>
 </IconGallery>
