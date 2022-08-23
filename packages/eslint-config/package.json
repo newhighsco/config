@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/eslint-config",
   "description": "New High Score shareable config for ESLint",
-  "version": "3.2.45",
+  "version": "3.2.46",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
   "private": false,
@@ -29,7 +29,7 @@
     "eslint-plugin-import": "2.26.0",
     "eslint-plugin-json-format": "2.0.1",
     "eslint-plugin-jsx-a11y": "6.6.1",
-    "eslint-plugin-mdx": "1.17.1",
+    "eslint-plugin-mdx": "2.0.2",
     "eslint-plugin-n": "15.2.5",
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-prettier": "4.2.1",
