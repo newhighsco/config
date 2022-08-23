@@ -1,3 +1,10 @@
+# @newhighsco/renovate-config [1.8.0](https://github.com/newhighsco/config/compare/@newhighsco/renovate-config@1.7.0...@newhighsco/renovate-config@1.8.0) (2022-08-23)
+
+
+### Features
+
+* **renovate:** enable Yarn dedupe ([#377](https://github.com/newhighsco/config/issues/377)) ([e977256](https://github.com/newhighsco/config/commit/e977256173531c1e190d0f9a463c6d5f06f1ae3d))
+
 # @newhighsco/renovate-config [1.7.0](https://github.com/newhighsco/config/compare/@newhighsco/renovate-config@1.6.0...@newhighsco/renovate-config@1.7.0) (2022-04-03)
 
 
