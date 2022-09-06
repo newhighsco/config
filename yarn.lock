@@ -2662,6 +2662,14 @@ agentkeepalive@^3.4.1:
   dependencies:
     humanize-ms "^1.2.1"
 
+aggregate-error@3.1.0, aggregate-error@^3.0.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/aggregate-error/-/aggregate-error-3.1.0.tgz#92670ff50f5359bdb7a3e0d40d0ec30c5737687a"
+  integrity sha512-4I7Td01quW/RpocfNayFdFVk1qSuoh0E7JrbRJ16nH01HhKFQ88INq9Sd+nd72zqRySlr9BmDA8xlEJ6vJMrYA==
+  dependencies:
+    clean-stack "^2.0.0"
+    indent-string "^4.0.0"
+
 aggregate-error@^2.0.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/aggregate-error/-/aggregate-error-2.2.0.tgz#f54b464db18cc77c907ae084451f39134707134a"
@@ -2669,14 +2677,6 @@ aggregate-error@^2.0.0:
   dependencies:
     clean-stack "^2.0.0"
     indent-string "^3.0.0"
-
-aggregate-error@^3.0.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/aggregate-error/-/aggregate-error-3.1.0.tgz#92670ff50f5359bdb7a3e0d40d0ec30c5737687a"
-  integrity sha512-4I7Td01quW/RpocfNayFdFVk1qSuoh0E7JrbRJ16nH01HhKFQ88INq9Sd+nd72zqRySlr9BmDA8xlEJ6vJMrYA==
-  dependencies:
-    clean-stack "^2.0.0"
-    indent-string "^4.0.0"
 
 ajv@^6.10.0, ajv@^6.12.3, ajv@^6.12.4:
   version "6.12.6"
@@ -10129,10 +10129,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@32.190.6:
-  version "32.190.6"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.190.6.tgz#2bf9eccb9d65e485d29a89547655f9f79f898543"
-  integrity sha512-GNA+pYvsGeymwXdOe39JDjXth1uT75yewQUbsF4SxYzgbozUIoXdXxtNjxxp2bp1XGXEZKI/rKdzfxtoYncygA==
+renovate@32.192.3:
+  version "32.192.3"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.192.3.tgz#6cbe44f11c2c12f9935246cbd94b8c6a9384ab65"
+  integrity sha512-m6aBPAYnTcSq8xf+JUSIeBCUM3LZAhL4MhBUD1wx3wK6i2lXbXQog3gzMsBIMPW5nuO7Fi3hTOE4Aj0L+LZf9Q==
   dependencies:
     "@aws-sdk/client-ec2" "3.155.0"
     "@aws-sdk/client-ecr" "3.154.0"
@@ -10149,6 +10149,7 @@ renovate@32.190.6:
     "@yarnpkg/core" "3.2.4"
     "@yarnpkg/parsers" "2.5.1"
     agentkeepalive "4.2.1"
+    aggregate-error "3.1.0"
     auth-header "1.0.0"
     azure-devops-node-api "11.2.0"
     bunyan "1.8.15"
