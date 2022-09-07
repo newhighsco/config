@@ -8151,10 +8151,10 @@ node-gyp@^9.0.0:
     tar "^6.1.2"
     which "^2.0.2"
 
-node-html-parser@5.4.1:
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/node-html-parser/-/node-html-parser-5.4.1.tgz#c9938b9521ef542c2374e4923078f8f2a365f50d"
-  integrity sha512-xy/O2wOEBJsIRLs4avwa1lVY7tIpXXOoHHUJLa0GvnoPPqMG1hgBVl1tNI3GHOwRktTVZy+Y6rjghk4B9/NLyg==
+node-html-parser@5.4.2:
+  version "5.4.2"
+  resolved "https://registry.yarnpkg.com/node-html-parser/-/node-html-parser-5.4.2.tgz#93e004038c17af80226c942336990a0eaed8136a"
+  integrity sha512-RaBPP3+51hPne/OolXxcz89iYvQvKOydaqoePpOgXcrOKZhjVIzmpKZz+Hd/RBO2/zN2q6CNJhQzucVz+u3Jyw==
   dependencies:
     css-select "^4.2.1"
     he "1.2.0"
@@ -8783,10 +8783,10 @@ opener@^1.5.2:
   resolved "https://registry.yarnpkg.com/opener/-/opener-1.5.2.tgz#5d37e1f35077b9dcac4301372271afdeb2a13598"
   integrity sha512-ur5UIdyw5Y7yEj9wLzhqXiy6GZ3Mwx0yGI+5sMn2r0N0v3cKJvUmFH5yPP+WXh9e0xfyzyJX95D8l088DNFj7A==
 
-openpgp@5.4.0:
-  version "5.4.0"
-  resolved "https://registry.yarnpkg.com/openpgp/-/openpgp-5.4.0.tgz#679e7ce1c97994d72545bf5be818de15e5707b52"
-  integrity sha512-XgQnK8SYy4Ycg9BDvrXTE4foMwME/+1EfGZWZirUU2VPzU1X3xx094fChjbP10+gUJifAcoWTsT2zAbdhFUxyg==
+openpgp@5.5.0:
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/openpgp/-/openpgp-5.5.0.tgz#235ae5a49d5fda5cfd1d82c4c42cd91433478c14"
+  integrity sha512-SpwcJnxrK9Y0HRM6KxSFqkAEOSWEabCH/c8dII/+y2e5f6KvuDG5ZE7JXaPBaVJNE4VUZZeTphxXDoZD0KOHrw==
   dependencies:
     asn1.js "^5.0.0"
 
@@ -10129,10 +10129,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@32.192.3:
-  version "32.192.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.192.3.tgz#6cbe44f11c2c12f9935246cbd94b8c6a9384ab65"
-  integrity sha512-m6aBPAYnTcSq8xf+JUSIeBCUM3LZAhL4MhBUD1wx3wK6i2lXbXQog3gzMsBIMPW5nuO7Fi3hTOE4Aj0L+LZf9Q==
+renovate@32.194.0:
+  version "32.194.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.194.0.tgz#3d657b3efe62fd216cf944fe62c5b17d3738986a"
+  integrity sha512-8v28v2Jvq/zNznhQeYPiHsUd4tPTMnCXbfaErY72YMQlCMtijfziChS+2A1YHAgQjuNsa5RU/Uet+f9RNKotjQ==
   dependencies:
     "@aws-sdk/client-ec2" "3.155.0"
     "@aws-sdk/client-ecr" "3.154.0"
@@ -10195,8 +10195,8 @@ renovate@32.192.3:
     minimatch "5.1.0"
     moo "0.5.1"
     nanoid "3.3.4"
-    node-html-parser "5.4.1"
-    openpgp "5.4.0"
+    node-html-parser "5.4.2"
+    openpgp "5.5.0"
     p-all "3.0.0"
     p-map "4.0.0"
     p-queue "6.6.2"
