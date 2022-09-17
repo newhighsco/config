@@ -10126,10 +10126,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@32.197.0:
-  version "32.197.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.197.0.tgz#2a2ded971719216fa6918e8e46670e4eebefba24"
-  integrity sha512-6LLXyYmzrts1WETLDVnWFykSRAHrEjX9sdzWmipNKUaWZQp5AL0y1XNUaxmtBCP+6Cw16O+uRHwtrXrLx1bkCQ==
+renovate@32.197.1:
+  version "32.197.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.197.1.tgz#0c891ec8b04877d525e1d18242dd789756d3481d"
+  integrity sha512-dxZprEzdFfRB/eUOka8Ky/y/rCpEGdOm4OAxVWN+RLwI1LgfKTC9KwehkuonR+K/PIsnyUc0bJHXac0a1/OeSA==
   dependencies:
     "@aws-sdk/client-ec2" "3.155.0"
     "@aws-sdk/client-ecr" "3.154.0"
@@ -10208,7 +10208,7 @@ renovate@32.197.0:
     semver-stable "3.0.0"
     semver-utils "1.1.4"
     shlex "2.1.2"
-    simple-git "3.14.0"
+    simple-git "3.14.1"
     slugify "1.6.5"
     traverse "0.6.6"
     tslib "2.4.0"
@@ -10599,10 +10599,10 @@ signale@^1.2.1, signale@^1.4.0:
     figures "^2.0.0"
     pkg-conf "^2.1.0"
 
-simple-git@3.14.0:
-  version "3.14.0"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.14.0.tgz#6b98b445635ea778e8af9baa299dca71ede896ec"
-  integrity sha512-Paad1BkrI7vWhImLybDRYOHnh3WPsHSKXJpmKM+iGjjKNV91XaOdd+yIdZ/gqdzncHDEKYff4k+74oNo1R+U8Q==
+simple-git@3.14.1:
+  version "3.14.1"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.14.1.tgz#68018a5f168f8a568862e30b692004b37c3b5ced"
+  integrity sha512-1ThF4PamK9wBORVGMK9HK5si4zoGS2GpRO7tkAFObA4FZv6dKaCVHLQT+8zlgiBm6K2h+wEU9yOaFCu/SR3OyA==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
