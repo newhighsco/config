@@ -10120,10 +10120,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@32.202.3:
-  version "32.202.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.202.3.tgz#02570b23f80e9fb94264c6cb5806a46571304380"
-  integrity sha512-sRf46Kqfgpf1iQOQivFQtpx7jBA3oerRj9DeN5omdTnlfrL1tW7VeHBHUNeaH31u2ir6IuOxYj3EHZ0FujORZg==
+renovate@32.202.4:
+  version "32.202.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-32.202.4.tgz#d7b65f6871f3fd22e3ec5f4180839c689bd91174"
+  integrity sha512-iFKgQIR2r2/DBTPR/Hfvx7rAntkwsq9uh5RixHzl7Hzld060YwiNnFvhApfQuKHz9eovb/7ky/NuI/H9sQ7pNw==
   dependencies:
     "@aws-sdk/client-ec2" "3.155.0"
     "@aws-sdk/client-ecr" "3.154.0"
@@ -10197,7 +10197,7 @@ renovate@32.202.3:
     redis "4.3.1"
     remark "13.0.0"
     remark-github "10.1.0"
-    safe-stable-stringify "2.3.1"
+    safe-stable-stringify "2.4.0"
     semver "7.3.7"
     semver-stable "3.0.0"
     semver-utils "1.1.4"
@@ -10399,10 +10399,10 @@ safe-json-stringify@~1:
   resolved "https://registry.yarnpkg.com/safe-json-stringify/-/safe-json-stringify-1.2.0.tgz#356e44bc98f1f93ce45df14bcd7c01cda86e0afd"
   integrity sha512-gH8eh2nZudPQO6TytOvbxnuhYBOvDBBLW52tz5q6X58lJcd/tkmqFR+5Z9adS8aJtURSXWThWy/xJtJwixErvg==
 
-safe-stable-stringify@2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/safe-stable-stringify/-/safe-stable-stringify-2.3.1.tgz#ab67cbe1fe7d40603ca641c5e765cb942d04fc73"
-  integrity sha512-kYBSfT+troD9cDA85VDnHZ1rpHC50O0g1e6WlGHVCz/g+JS+9WKLj+XwFYyR8UbrZN8ll9HUpDAAddY58MGisg==
+safe-stable-stringify@2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/safe-stable-stringify/-/safe-stable-stringify-2.4.0.tgz#95fadb1bcf8057a1363e11052122f5da36a69215"
+  integrity sha512-eehKHKpab6E741ud7ZIMcXhKcP6TSIezPkNZhy5U8xC6+VvrRdUA2tMgxGxaGl4cz7c2Ew5+mg5+wNB16KQqrA==
 
 "safer-buffer@>= 2.1.2 < 3.0.0", safer-buffer@^2.0.2, safer-buffer@^2.1.0, safer-buffer@~2.1.0:
   version "2.1.2"
