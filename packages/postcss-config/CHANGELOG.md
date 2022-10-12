@@ -1,3 +1,10 @@
+## @newhighsco/postcss-config [3.5.85](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.84...@newhighsco/postcss-config@3.5.85) (2022-10-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @fullhuman/postcss-purgecss to v5 ([#449](https://github.com/newhighsco/config/issues/449)) ([cc5c6e7](https://github.com/newhighsco/config/commit/cc5c6e7f65328e0a20ab74875c41e5670108ee37))
+
 ## @newhighsco/postcss-config [3.5.84](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.83...@newhighsco/postcss-config@3.5.84) (2022-10-07)
 
 
