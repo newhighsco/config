@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [3.2.80](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.2.79...@newhighsco/eslint-config@3.2.80) (2022-10-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-promise to v6.1.1 ([#544](https://github.com/newhighsco/config/issues/544)) ([d5d8ecd](https://github.com/newhighsco/config/commit/d5d8ecda919f797c87245ad12761a20ff14ed4ef))
+
 ## @newhighsco/eslint-config [3.2.79](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.2.78...@newhighsco/eslint-config@3.2.79) (2022-10-17)
 
 
