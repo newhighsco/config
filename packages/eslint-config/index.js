@@ -12,6 +12,8 @@ module.exports = {
     'json/sort-package-json': false
   },
   overrides: [
+    // JSON
+    { files: ['*.json'] },
     // Typescript
     {
       files: ['*.ts?(x)'],

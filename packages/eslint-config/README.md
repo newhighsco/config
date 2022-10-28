@@ -27,7 +27,7 @@ Now you can run ESLint by adding the following scripts to your `package.json`. S
 
 ```json
 "scripts": {
-  "lint:js": "eslint --cache --ignore-path .gitignore --ext .js,.json,.jsx,.mdx,.ts,.tsx .",
+  "lint:js": "eslint --cache --ignore-path .gitignore .",
   "format:js": "yarn lint:js --fix"
 }
 ```
