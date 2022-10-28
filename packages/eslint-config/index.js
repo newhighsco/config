@@ -56,6 +56,14 @@ module.exports = {
         // Overrides standard-react
         'jsx-quotes': ['error', 'prefer-double']
       }
+    },
+    // Storybook
+    {
+      files: ['**/*.stories.*'],
+      extends: ['plugin:storybook/recommended', 'plugin:storybook/csf-strict'],
+      rules: {
+        'storybook/meta-inline-properties': 'error'
+      }
     }
   ]
 }
