@@ -20,11 +20,11 @@
     "pretest": "yarn lint",
     "test": "yarn workspaces run test",
     "lint": "npm-run-all --parallel lint:*",
-    "lint:js": "eslint --cache --ignore-path .gitignore --ext .js,.jsx,.json .",
-    "lint:css": "stylelint '**/*.?(s)css' --ignore-path .gitignore",
+    "lint:js": "eslint --ignore-path .gitignore .",
+    "lint:css": "stylelint --ignore-path .gitignore '**/*.?(s)css'",
     "format": "npm-run-all --parallel format:*",
-    "format:js": "yarn lint:js -- --fix",
-    "format:css": "yarn lint:css -- --fix"
+    "format:js": "yarn lint:js --fix",
+    "format:css": "yarn lint:css --fix"
   },
   "devDependencies": {
     "@commitlint/cli": "17.1.2",
