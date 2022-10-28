@@ -27,8 +27,8 @@ Now you can run stylelint by adding the following scripts to your `package.json`
 
 ```json
 "scripts": {
-  "lint:css": "stylelint '**/*.?(s)css' --cache  --ignore-path .gitignore",
-  "format:css": "yarn lint:css -- --fix"
+  "lint:css": "stylelint --cache --ignore-path .gitignore '**/*.?(s)css'",
+  "format:css": "yarn lint:css --fix"
 }
 ```
 
