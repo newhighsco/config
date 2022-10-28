@@ -1,3 +1,10 @@
+# @newhighsco/eslint-config [3.3.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.2.82...@newhighsco/eslint-config@3.3.0) (2022-10-28)
+
+
+### Features
+
+* **eslint:** automatically link JSON files without `--ext` option ([b65e404](https://github.com/newhighsco/config/commit/b65e404eae2bcefe16d7370c9f575eba35dba1e9))
+
 ## @newhighsco/eslint-config [3.2.82](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.2.81...@newhighsco/eslint-config@3.2.82) (2022-10-25)
 
 
