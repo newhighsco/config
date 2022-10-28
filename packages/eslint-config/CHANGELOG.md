@@ -1,3 +1,10 @@
+# @newhighsco/eslint-config [3.4.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.3.0...@newhighsco/eslint-config@3.4.0) (2022-10-28)
+
+
+### Features
+
+* **eslint:** configure `eslint-plugin-storybook` ([54d6542](https://github.com/newhighsco/config/commit/54d654281383e120a475c5c8a4bce2d6c8d04484))
+
 # @newhighsco/eslint-config [3.3.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.2.82...@newhighsco/eslint-config@3.3.0) (2022-10-28)
 
 
