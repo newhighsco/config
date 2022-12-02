@@ -5450,10 +5450,10 @@ fs-extra@10.1.0, fs-extra@^10.0.0:
     jsonfile "^6.0.1"
     universalify "^2.0.0"
 
-fs-extra@^11.0.0:
-  version "11.0.0"
-  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.0.0.tgz#5c50cf225ab1b16804cabd4249b7e58feb4bdbe7"
-  integrity sha512-4YxRvMi4P5C3WQTvdRfrv5UVqbISpqjORFQAW5QPiKAauaxNCwrEdIi6pG3tDFhKKpMen+enEhHIzB/tvIO+/w==
+fs-extra@11.1.0, fs-extra@^11.0.0:
+  version "11.1.0"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.1.0.tgz#5784b102104433bb0e090f48bfc4a30742c357ed"
+  integrity sha512-0rcTq621PD5jM/e0a3EJoGC/1TC5ZBCERW82LQuwfGnCa1V8w7dpYH1yNu+SLb6E5dkeCBzKEyLGlFrnr+dUyw==
   dependencies:
     graceful-fs "^4.2.0"
     jsonfile "^6.0.1"
@@ -10491,10 +10491,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@34.47.1:
-  version "34.47.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.47.1.tgz#1f94f1f43bd7b8ee07605f851fb3e86868796567"
-  integrity sha512-NqZAAmZQRD3gY2Viq/m8W2tjxOZUJYnwC7N9XN09dGqo2j7Em1kmCsSoGnkK9kHliTFoaOT4pWO2YIQfhgcOkA==
+renovate@34.48.0:
+  version "34.48.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.48.0.tgz#a4d3ec78873fe46a0dacb6bca46c22fd674ce0ae"
+  integrity sha512-oU0c+69kQuEuE75dU2EJmwWa2uop8j6aS27hzwLo8thETQPzjID5Ml3khPuJQCpJm4W6T6JwBqf8q3qOe10Neg==
   dependencies:
     "@aws-sdk/client-codecommit" "3.154.0"
     "@aws-sdk/client-ec2" "3.155.0"
@@ -10548,7 +10548,7 @@ renovate@34.47.1:
     extract-zip "2.0.1"
     find-packages "10.0.2"
     find-up "5.0.0"
-    fs-extra "10.1.0"
+    fs-extra "11.1.0"
     git-url-parse "13.1.0"
     github-url-from-git "1.5.0"
     global-agent "3.0.0"
