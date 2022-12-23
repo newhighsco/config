@@ -6834,10 +6834,10 @@ json-stringify-safe@^5.0.1, json-stringify-safe@~5.0.1:
   resolved "https://registry.yarnpkg.com/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz#1296a2d58fd45f19a0f6ce01d65701e2c735b6eb"
   integrity sha512-ZClg6AaYvamvYEE82d3Iyd3vSSIjQ+odgjaTzRuO3s7toCdFKczob2i0zCh7JE8kWn17yvAWhUVxvqGwUalsRA==
 
-json5@2.2.1, json5@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.1.tgz#655d50ed1e6f95ad1a3caababd2b0efda10b395c"
-  integrity sha512-1hqLFMSrGHRHxav9q9gNjJ5EXznIxGVO09xQRrwplcS8qs28pZ8s8hupZAmqDwZUmVZ2Qb2jnyPOWcDH8m8dlA==
+json5@2.2.2, json5@^2.2.1:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.2.tgz#64471c5bdcc564c18f7c1d4df2e2297f2457c5ab"
+  integrity sha512-46Tk9JiOL2z7ytNQWFLpj99RZkVgeHf87yGQKsIkaPz1qSH9UczKH1rO7K3wgRselo0tYMUNfecYpm/p1vC7tQ==
 
 json5@^1.0.1:
   version "1.0.1"
@@ -10542,10 +10542,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@34.70.4:
-  version "34.70.4"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.70.4.tgz#fd439953a6fccef72d8a0a042725e0d6ee2a57e4"
-  integrity sha512-TpqUVfu0qiPVSiKmJPEt8UCjuKXdX3FKDPyKMqaPGgECqyDTnGkjXzpYcf8igAnCbWEAxP6iVHxCpN33RLwLgA==
+renovate@34.72.1:
+  version "34.72.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.72.1.tgz#3d8ab9539162005f6f46d650d137c08c9c9ae073"
+  integrity sha512-2RnD/rV6qpca65Z/LpQdiN13TdjkGrqyuYGDGRT1Vq/sFZGuyi/o2oEU9xTeuoIzB7C/iF4lJ+hnPa+3QEoaSA==
   dependencies:
     "@aws-sdk/client-codecommit" "3.226.0"
     "@aws-sdk/client-ec2" "3.226.0"
@@ -10613,7 +10613,7 @@ renovate@34.70.4:
     js-yaml "4.1.0"
     json-dup-key-validator "1.0.3"
     json-stringify-pretty-compact "3.0.0"
-    json5 "2.2.1"
+    json5 "2.2.2"
     luxon "3.1.1"
     markdown-it "13.0.1"
     markdown-table "2.0.0"
@@ -10640,6 +10640,7 @@ renovate@34.70.4:
     shlex "2.1.2"
     simple-git "3.15.1"
     slugify "1.6.5"
+    source-map-support "0.5.21"
     traverse "0.6.7"
     tslib "2.4.1"
     upath "2.0.1"
@@ -11187,7 +11188,15 @@ source-map-js@^1.0.2:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.0.2.tgz#adbc361d9c62df380125e7f161f71c826f1e490c"
   integrity sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==
 
-source-map@^0.6.1:
+source-map-support@0.5.21:
+  version "0.5.21"
+  resolved "https://registry.yarnpkg.com/source-map-support/-/source-map-support-0.5.21.tgz#04fe7c7f9e1ed2d662233c28cb2b35b9f63f6e4f"
+  integrity sha512-uBHU3L3czsIyYXKX88fdrGovxdSCoTGDRZ6SYXtSRxLZUzHg5P/66Ht6uoUlHu9EZod+inXhKo3qQgwXUT/y1w==
+  dependencies:
+    buffer-from "^1.0.0"
+    source-map "^0.6.0"
+
+source-map@^0.6.0, source-map@^0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
