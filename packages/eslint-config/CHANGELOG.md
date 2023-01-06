@@ -1,3 +1,17 @@
+## @newhighsco/eslint-config [3.4.20](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.4.19...@newhighsco/eslint-config@3.4.20) (2023-01-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v8.30.0 ([#685](https://github.com/newhighsco/config/issues/685)) ([797ef65](https://github.com/newhighsco/config/commit/797ef653b8de51af0b18bb377b88479687215252))
+* **deps:** update dependency eslint to v8.31.0 ([#716](https://github.com/newhighsco/config/issues/716)) ([573b517](https://github.com/newhighsco/config/commit/573b517565b3b9fafa8ca220aef63d8e97ecef30))
+* **deps:** update dependency eslint-config-prettier to v8.6.0 ([#720](https://github.com/newhighsco/config/issues/720)) ([3f97c95](https://github.com/newhighsco/config/commit/3f97c956cec39304acfcd4ad968201f2870955fd))
+* **deps:** update typescript-eslint monorepo to v5.46.0 ([#669](https://github.com/newhighsco/config/issues/669)) ([5127305](https://github.com/newhighsco/config/commit/5127305e14e7dfcdf70baafea2172d6106a0fba5))
+* **deps:** update typescript-eslint monorepo to v5.46.1 ([#677](https://github.com/newhighsco/config/issues/677)) ([5154411](https://github.com/newhighsco/config/commit/5154411f88c2aab45ffdae73f82859baf317aa3a))
+* **deps:** update typescript-eslint monorepo to v5.47.0 ([#691](https://github.com/newhighsco/config/issues/691)) ([4191e18](https://github.com/newhighsco/config/commit/4191e18216560fb5358798ea110cc1561ce830d1))
+* **deps:** update typescript-eslint monorepo to v5.47.1 ([#709](https://github.com/newhighsco/config/issues/709)) ([046b47e](https://github.com/newhighsco/config/commit/046b47e773e8b96c509af7c14dc5252e8c27f8ff))
+* **deps:** update typescript-eslint monorepo to v5.48.0 ([#721](https://github.com/newhighsco/config/issues/721)) ([6b4b988](https://github.com/newhighsco/config/commit/6b4b988b00c82dd33c08476d37ed7320ef64b47b))
+
 ## @newhighsco/eslint-config [3.4.19](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.4.18...@newhighsco/eslint-config@3.4.19) (2022-12-07)
 
 
