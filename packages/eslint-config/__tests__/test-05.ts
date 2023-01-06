@@ -43,7 +43,7 @@ export type AppDispatch = typeof nextConfig.exportPathMap
 
 const KB = 1024
 const UNITS = ['bytes', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB']
-const BYTES: { [unitKey: string]: number } = UNITS.reduce((acc, v, i) => {
+const BYTES: Record<string, number> = UNITS.reduce((acc, v, i) => {
   acc[v] = Math.pow(KB, i)
   return acc
 }, {})
