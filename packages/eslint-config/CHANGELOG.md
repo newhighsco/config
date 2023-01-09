@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [3.4.24](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.4.23...@newhighsco/eslint-config@3.4.24) (2023-01-09)
+
+
+### Bug Fixes
+
+* **eslint:** disable `@typescript-eslint/prefer-nullish-coalescing` ([585eba5](https://github.com/newhighsco/config/commit/585eba5b456a2fc1570600d6e8e6cf94d408df76))
+
 ## @newhighsco/eslint-config [3.4.23](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.4.22...@newhighsco/eslint-config@3.4.23) (2023-01-07)
 
 
