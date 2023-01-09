@@ -36,6 +36,7 @@ module.exports = {
             objectLiteralTypeAssertions: 'allow'
           }
         ],
+        '@typescript-eslint/prefer-nullish-coalescing': 'off',
         '@typescript-eslint/strict-boolean-expressions': 'off'
       }
     },
