@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [3.4.35](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.4.34...@newhighsco/eslint-config@3.4.35) (2023-01-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-standard-with-typescript to v27 ([#759](https://github.com/newhighsco/config/issues/759)) ([0a5fc4d](https://github.com/newhighsco/config/commit/0a5fc4d402f2c2a16005f5865c56beec74eaddaa))
+
 ## @newhighsco/eslint-config [3.4.34](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.4.33...@newhighsco/eslint-config@3.4.34) (2023-01-15)
 
 
