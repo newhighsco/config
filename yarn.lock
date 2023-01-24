@@ -3996,7 +3996,12 @@ combined-stream@^1.0.6, combined-stream@~1.0.6:
   dependencies:
     delayed-stream "~1.0.0"
 
-commander@9.5.0, commander@^9.0.0, commander@^9.4.1:
+commander@10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-10.0.0.tgz#71797971162cd3cf65f0b9d24eb28f8d303acdf1"
+  integrity sha512-zS5PnTI22FIRM6ylNW8G4Ap0IEOyk62fhLSD0+uHRT9McRCLGpkVNvao4bjimpK/GShynyQkFFxHhwMcETmduA==
+
+commander@^9.0.0, commander@^9.4.1:
   version "9.5.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-9.5.0.tgz#bc08d1eb5cedf7ccb797a96199d41c7bc3e60d30"
   integrity sha512-KRs7WVDKg86PWiuAqhDrAQnTXZKraVcCc6vFdL14qrZ/DcWwuRo7VoiYXalXO7S5GKpqYiVEwCbgFDfxNHKJBQ==
@@ -6002,10 +6007,10 @@ graceful-fs@4.2.10, graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.10.tgz#147d3a006da4ca3ce14728c7aefc287c367d7a6c"
   integrity sha512-9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==
 
-graph-data-structure@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/graph-data-structure/-/graph-data-structure-2.0.0.tgz#a95762a067f81f0fe4ea77525253b946a941fa89"
-  integrity sha512-ravWDe9LaV0u27ZDme/8w5xHyyTqIWQsetpzDvBNJsGy4nZQB5IVw/u+7ngdEMZWsHYim+PAHatV4cGQX1XKpQ==
+graph-data-structure@3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/graph-data-structure/-/graph-data-structure-3.1.0.tgz#8c9e78ed3262ace1d2efa796e5dcc0e439c8a53e"
+  integrity sha512-eP6R9RQ0TGS+276/CY5uO2OrEUvJbltpyFju+5TB18fpcufDZ7ftL7a2xtd9XM9fqQQIt5oKVXDe814mXb9GXg==
 
 grapheme-splitter@^1.0.4:
   version "1.0.4"
@@ -10665,10 +10670,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@34.111.1:
-  version "34.111.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.111.1.tgz#44a684e4c34781613bcb7ad75c6fa141d8e44634"
-  integrity sha512-AiD/FUzgPLv4psHtuz6DrfSuJDwdDJLmnUmqac5iYydY9+FddUwv1Bw2mdr3SVarzhSDUbdFXIYbCdiLSpUAGA==
+renovate@34.112.1:
+  version "34.112.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-34.112.1.tgz#f575b7d176ee2427f0255cca1267f5dafe803b21"
+  integrity sha512-2w9supWL3eCkJIzMiu7OZURcvU72rqW8S3xj2d/d98Flbhc5Y5z33QqVq5pqwCouCSNrtyse8QyJm3VhtIwxtg==
   dependencies:
     "@aws-sdk/client-codecommit" "3.226.0"
     "@aws-sdk/client-ec2" "3.226.0"
@@ -10708,7 +10713,7 @@ renovate@34.111.1:
     chalk "4.1.2"
     changelog-filename-regex "2.0.1"
     clean-git-ref "2.0.1"
-    commander "9.5.0"
+    commander "10.0.0"
     conventional-commits-detector "1.0.3"
     crypto-random-string "3.3.1"
     deepmerge "4.2.2"
@@ -10729,7 +10734,7 @@ renovate@34.111.1:
     global-agent "3.0.0"
     good-enough-parser "1.1.22"
     got "11.8.6"
-    graph-data-structure "2.0.0"
+    graph-data-structure "3.1.0"
     handlebars "4.7.7"
     hasha "5.2.2"
     hcl2-parser "1.0.3"
