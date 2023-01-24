@@ -60,4 +60,4 @@ export function buzz(bool?: boolean): string | undefined {
 
 export default {
   fizz: 'buzz'
-} as Object
+} as Record<string, unknown>
