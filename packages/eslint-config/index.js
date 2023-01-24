@@ -70,6 +70,11 @@ module.exports = {
     {
       files: ['**/*.spec.*'],
       extends: ['plugin:testing-library/react']
+    },
+    // Cypress
+    {
+      files: ['**/*.cy.*'],
+      extends: ['plugin:cypress/recommended']
     }
   ]
 }
