@@ -2826,7 +2826,7 @@
     semver "^7.3.7"
     tsutils "^3.21.0"
 
-"@typescript-eslint/utils@5.49.0", "@typescript-eslint/utils@^5.45.0":
+"@typescript-eslint/utils@5.49.0", "@typescript-eslint/utils@^5.43.0", "@typescript-eslint/utils@^5.45.0":
   version "5.49.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/utils/-/utils-5.49.0.tgz#1c07923bc55ff7834dfcde487fff8d8624a87b32"
   integrity sha512-cPJue/4Si25FViIb74sHCLtM4nTSBXtLx1d3/QT6mirQ/c65bV8arBEebBJJizfq8W2YyMoPI/WWPFWitmNqnQ==
@@ -5092,6 +5092,13 @@ eslint-plugin-storybook@0.6.10:
     "@typescript-eslint/utils" "^5.45.0"
     requireindex "^1.1.0"
     ts-dedent "^2.2.0"
+
+eslint-plugin-testing-library@5.10.0:
+  version "5.10.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-5.10.0.tgz#7fc5fec639ae7f84f434562560cf26cfc0ab329d"
+  integrity sha512-aTOsCAEI9trrX3TLOnsskfhe57DmsjP/yMKLPqg4ftdRvfR4qut2PGWUa8TwP7whZbwMzJjh98tgAPcE8vdHow==
+  dependencies:
+    "@typescript-eslint/utils" "^5.43.0"
 
 eslint-plugin-tsc@2.0.0:
   version "2.0.0"

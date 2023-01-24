@@ -65,6 +65,11 @@ module.exports = {
       rules: {
         'storybook/meta-inline-properties': 'error'
       }
+    },
+    // Testing Library
+    {
+      files: ['**/*.spec.*'],
+      extends: ['plugin:testing-library/react']
     }
   ]
 }
