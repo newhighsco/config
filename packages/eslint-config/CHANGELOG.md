@@ -1,3 +1,10 @@
+# @newhighsco/eslint-config [3.6.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.5.0...@newhighsco/eslint-config@3.6.0) (2023-01-24)
+
+
+### Features
+
+* **eslint:** configure `eslint-plugin-cypress` ([#798](https://github.com/newhighsco/config/issues/798)) ([fda28d6](https://github.com/newhighsco/config/commit/fda28d69115d12b117b58cbf5022144f52cb4c28))
+
 # @newhighsco/eslint-config [3.5.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.4.40...@newhighsco/eslint-config@3.5.0) (2023-01-24)
 
 
