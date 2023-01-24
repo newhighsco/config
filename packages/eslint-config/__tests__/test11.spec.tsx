@@ -1,10 +1,12 @@
 /* eslint-disable tsc/config */
-import React from 'react'
-import { rest } from 'msw'
-import { setupServer } from 'msw/node'
+import '@testing-library/jest-dom/extend-expect'
+
 import { render, screen, waitFor } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
-import '@testing-library/jest-dom/extend-expect'
+import { rest } from 'msw'
+import { setupServer } from 'msw/node'
+import React from 'react'
+
 import { FetchGreeting } from '../fetch-greeting'
 
 const server = setupServer(
