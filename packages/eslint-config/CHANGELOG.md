@@ -1,3 +1,10 @@
+# @newhighsco/eslint-config [3.5.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.4.40...@newhighsco/eslint-config@3.5.0) (2023-01-24)
+
+
+### Features
+
+* **eslint:** configure `eslint-plugin-testing-library` ([#797](https://github.com/newhighsco/config/issues/797)) ([7a0f3f9](https://github.com/newhighsco/config/commit/7a0f3f90fa0f6026d9c3117137df9ec60346a0ea))
+
 ## @newhighsco/eslint-config [3.4.40](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.4.39...@newhighsco/eslint-config@3.4.40) (2023-01-24)
 
 
