@@ -1,3 +1,13 @@
+# @newhighsco/eslint-config [4.0.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.6.0...@newhighsco/eslint-config@4.0.0) (2023-01-24)
+
+
+* feat(eslint)!: adds `eslint-plugin-simple-import-sort` (#799) ([cad6993](https://github.com/newhighsco/config/commit/cad69935781e6746d7f9098705a3b6881a92fc13)), closes [#799](https://github.com/newhighsco/config/issues/799)
+
+
+### BREAKING CHANGES
+
+* Will need to run `--fix` in order to resolve formatting issues
+
 # @newhighsco/eslint-config [3.6.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.5.0...@newhighsco/eslint-config@3.6.0) (2023-01-24)
 
 
