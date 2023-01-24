@@ -69,7 +69,6 @@ module.exports = {
     // Testing Library
     {
       files: ['**/*.spec.*'],
-      plugins: ['testing-library'],
       extends: ['plugin:testing-library/react']
     }
   ]

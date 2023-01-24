@@ -26,6 +26,9 @@ describe('Timer', () => {
     await screen.findByRole('heading', { name: 'hello there' })
 
     expect(screen.getByRole('button')).toHaveAttribute('disabled')
+
+    // eslint-disable-next-line testing-library/prefer-presence-queries
+    expect(screen.getByText('Fizz')).not.toBeInTheDocument()
   })
 
   it('handles server error', async () => {
