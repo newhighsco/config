@@ -6,7 +6,7 @@ module.exports = {
     jest: true
   },
   extends: ['standard-with-typescript', 'plugin:prettier/recommended'],
-  plugins: ['json-format'],
+  plugins: ['json-format', 'simple-import-sort'],
   settings: {
     'json/json-with-comments-files': [],
     'json/sort-package-json': false
@@ -22,6 +22,8 @@ module.exports = {
       },
       plugins: ['tsc'],
       rules: {
+        'simple-import-sort/imports': 'error',
+        'simple-import-sort/exports': 'error',
         'tsc/config': [
           'error',
           {
