@@ -76,7 +76,13 @@ module.exports = {
     // Testing Library
     {
       files: ['**/*.spec.*'],
-      extends: ['plugin:testing-library/react']
+      extends: ['plugin:testing-library/react'],
+      rules: {
+        'testing-library/no-node-access': [
+          'error',
+          { allowContainerFirstChild: true }
+        ]
+      }
     },
     // Cypress
     {

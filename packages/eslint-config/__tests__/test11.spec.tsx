@@ -21,13 +21,14 @@ describe('Timer', () => {
   afterAll(() => server.close())
 
   it('loads and displays greeting', async () => {
-    render(<FetchGreeting />)
+    const { container } = render(<FetchGreeting />)
 
     userEvent.click(screen.getByText('Load Greeting'))
 
     await screen.findByRole('heading', { name: 'hello there' })
 
     expect(screen.getByRole('button')).toHaveAttribute('disabled')
+    expect(container.firstChild).toBeNull()
 
     // eslint-disable-next-line testing-library/prefer-presence-queries
     expect(screen.getByText('Fizz')).not.toBeInTheDocument()
