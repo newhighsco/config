@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.0.3](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.2...@newhighsco/eslint-config@4.0.3) (2023-01-25)
+
+
+### Bug Fixes
+
+* **eslint:** allow `container.firstChild` in Testing Library ([59ed178](https://github.com/newhighsco/config/commit/59ed1782d25b1c3b25116272e4b8a6751169dcf7))
+
 ## @newhighsco/eslint-config [4.0.2](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.1...@newhighsco/eslint-config@4.0.2) (2023-01-25)
 
 
