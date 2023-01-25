@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.0.2](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.1...@newhighsco/eslint-config@4.0.2) (2023-01-25)
+
+
+### Bug Fixes
+
+* **eslint:** only run json formatting on `.json` files ([f8c7b62](https://github.com/newhighsco/config/commit/f8c7b629f1a50898d042fdd973c2deb3fc26be94))
+
 ## @newhighsco/eslint-config [4.0.1](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.0...@newhighsco/eslint-config@4.0.1) (2023-01-25)
 
 
