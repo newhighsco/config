@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.0.1](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.0...@newhighsco/eslint-config@4.0.1) (2023-01-25)
+
+
+### Bug Fixes
+
+* **eslint:** apply import sorting to all files ([95faaee](https://github.com/newhighsco/config/commit/95faaee2f918ff5b2614cce9d91e1a677eb568f5))
+
 # @newhighsco/eslint-config [4.0.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@3.6.0...@newhighsco/eslint-config@4.0.0) (2023-01-24)
 
 
