@@ -6,18 +6,21 @@ module.exports = {
     jest: true
   },
   extends: ['standard-with-typescript', 'plugin:prettier/recommended'],
-  plugins: ['json-format', 'simple-import-sort'],
-  settings: {
-    'json/json-with-comments-files': [],
-    'json/sort-package-json': false
-  },
+  plugins: ['simple-import-sort'],
   rules: {
     'simple-import-sort/imports': 'error',
     'simple-import-sort/exports': 'error'
   },
   overrides: [
     // JSON
-    { files: ['*.json'] },
+    {
+      files: ['*.json'],
+      plugins: ['json-format'],
+      settings: {
+        'json/json-with-comments-files': [],
+        'json/sort-package-json': false
+      }
+    },
     // Typescript
     {
       files: ['*.ts?(x)'],
