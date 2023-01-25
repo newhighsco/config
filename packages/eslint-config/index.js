@@ -11,6 +11,10 @@ module.exports = {
     'json/json-with-comments-files': [],
     'json/sort-package-json': false
   },
+  rules: {
+    'simple-import-sort/imports': 'error',
+    'simple-import-sort/exports': 'error'
+  },
   overrides: [
     // JSON
     { files: ['*.json'] },
@@ -22,8 +26,6 @@ module.exports = {
       },
       plugins: ['tsc'],
       rules: {
-        'simple-import-sort/imports': 'error',
-        'simple-import-sort/exports': 'error',
         'tsc/config': [
           'error',
           {

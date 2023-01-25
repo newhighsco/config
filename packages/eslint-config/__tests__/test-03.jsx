@@ -1,8 +1,8 @@
-import React from 'react'
-import Link from 'next/link'
 import { ContentContainer, Landmark, SmartLink } from '@newhighsco/chipset'
-import { LogoLockup } from '../LogoLockup'
+import Link from 'next/link'
+import React from 'react'
 
+import { LogoLockup } from '../LogoLockup'
 import theme from './theme.module.scss'
 
 const Header = () => (
