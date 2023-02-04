@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/renovate-config",
   "description": "New High Score shareable config for Renovate",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
   "private": false,

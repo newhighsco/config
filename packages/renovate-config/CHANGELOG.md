@@ -1,3 +1,10 @@
+## @newhighsco/renovate-config [1.8.1](https://github.com/newhighsco/config/compare/@newhighsco/renovate-config@1.8.0...@newhighsco/renovate-config@1.8.1) (2023-02-04)
+
+
+### Bug Fixes
+
+* **reviewers:** use correct syntax to assign a team ([2dc88c3](https://github.com/newhighsco/config/commit/2dc88c3535310229baa3fc0aa92ebbaa50d365c7))
+
 # @newhighsco/renovate-config [1.8.0](https://github.com/newhighsco/config/compare/@newhighsco/renovate-config@1.7.0...@newhighsco/renovate-config@1.8.0) (2022-08-23)
 
 
