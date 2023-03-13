@@ -3088,13 +3088,13 @@ agent-base@~4.2.1:
   dependencies:
     es6-promisify "^5.0.0"
 
-agentkeepalive@4.2.1, agentkeepalive@^4.1.3, agentkeepalive@^4.2.1:
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/agentkeepalive/-/agentkeepalive-4.2.1.tgz#a7975cbb9f83b367f06c90cc51ff28fe7d499717"
-  integrity sha512-Zn4cw2NEqd+9fiSVWMscnjyQ1a8Yfoc5oBajLeo5w+YBHgDUcEBY2hS4YpTz6iN5f/2zQiktcuM6tS8x1p9dpA==
+agentkeepalive@4.3.0, agentkeepalive@^4.1.3, agentkeepalive@^4.2.1:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/agentkeepalive/-/agentkeepalive-4.3.0.tgz#bb999ff07412653c1803b3ced35e50729830a255"
+  integrity sha512-7Epl1Blf4Sy37j4v9f9FjICCh4+KAQOyXgHEwlyBiAQLbhKdq/i2QQU3amQalS/wPhdPzDXPL5DMR5bkn+YeWg==
   dependencies:
     debug "^4.1.0"
-    depd "^1.1.2"
+    depd "^2.0.0"
     humanize-ms "^1.2.1"
 
 agentkeepalive@^3.4.1:
@@ -4568,10 +4568,10 @@ delegates@^1.0.0:
   resolved "https://registry.yarnpkg.com/delegates/-/delegates-1.0.0.tgz#84c6e159b81904fdca59a0ef44cd870d31250f9a"
   integrity sha512-bd2L678uiWATM6m5Z1VzNCErI3jiGzt6HGY8OVICs40JQq/HALfbyNJmp0UDakEY4pMMaN0Ly5om/B1VI/+xfQ==
 
-depd@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/depd/-/depd-1.1.2.tgz#9bcd52e14c097763e749b274c4346ed2e560b5a9"
-  integrity sha512-7emPTl6Dpo6JRXOXjLRxck+FlLRX5847cLKEn00PLAgc3g2hTZZgr+e4c2v6QpSmLeFP3n5yUo7ft6avBK/5jQ==
+depd@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/depd/-/depd-2.0.0.tgz#b696163cc757560d09cf22cc8fad1571b79e76df"
+  integrity sha512-g7nH6P6dyDioJogAAGprGpCtVImJhpPk/roCzdb3fIh61/s/nPsfR6onyMwkCAR/OlC3yBC0lESvUoQEAssIrw==
 
 deprecation@^2.0.0, deprecation@^2.3.1:
   version "2.3.1"
@@ -10802,10 +10802,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@35.2.0:
-  version "35.2.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.2.0.tgz#1edf83ece7e28bf58b6bae69f95ba96267dbf564"
-  integrity sha512-WPPjaGbQP1ffR49lMAemA/ROD1puK2EnaQUaVo/jcRaR9OeAAakCxyl2+Cof7wx0xczQmC3i5qcVDbyOlfSKHw==
+renovate@35.2.3:
+  version "35.2.3"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.2.3.tgz#6819122f519e69887320303cb230b5615710ed15"
+  integrity sha512-Ae48Bl6S8nNhrCpjhExhnTlyUt1cvIe+n+E25UHydaeULI6H6GW41l89Kv4oC8rS5Fyk6mnqDGmGfRu7ZJpXSg==
   dependencies:
     "@aws-sdk/client-codecommit" "3.282.0"
     "@aws-sdk/client-ec2" "3.282.0"
@@ -10835,7 +10835,7 @@ renovate@35.2.0:
     "@types/tmp" "0.2.3"
     "@yarnpkg/core" "3.4.0"
     "@yarnpkg/parsers" "2.5.1"
-    agentkeepalive "4.2.1"
+    agentkeepalive "4.3.0"
     aggregate-error "3.1.0"
     auth-header "1.0.0"
     aws4 "1.12.0"
@@ -10911,7 +10911,7 @@ renovate@35.2.0:
     validate-npm-package-name "5.0.0"
     vuln-vects "1.1.0"
     xmldoc "1.2.0"
-    zod "3.21.0"
+    zod "3.21.2"
   optionalDependencies:
     re2 "1.18.0"
 
@@ -13055,10 +13055,10 @@ yocto-queue@^0.1.0:
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 
-zod@3.21.0:
-  version "3.21.0"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-3.21.0.tgz#9e3cbbf741071bfed9c000d2b4e64d4d97291d12"
-  integrity sha512-UYdykTcVxB6lfdyLzAqLyyYAlOcpoluECvjsdoaqfQmz9p+3LRaIqYcNiL/J2kFYp66fBM8wwBvIGVEjq7KtZw==
+zod@3.21.2:
+  version "3.21.2"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.21.2.tgz#a25425916d63b74d5ddd0b2a1bf733ecc093964b"
+  integrity sha512-0Ygy2/IZNIxHterZdHjE5Vb8hp1fUHJD/BGvSHj8QJx+UipEVNvo9WLchoyBpz5JIaN6KmdGDGYdloGzpFK98g==
 
 zwitch@^1.0.0:
   version "1.0.5"
