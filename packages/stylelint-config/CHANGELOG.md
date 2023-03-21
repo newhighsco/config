@@ -1,3 +1,10 @@
+## @newhighsco/stylelint-config [3.1.44](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.1.43...@newhighsco/stylelint-config@3.1.44) (2023-03-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prettier to v2.8.6 ([#931](https://github.com/newhighsco/config/issues/931)) ([8444401](https://github.com/newhighsco/config/commit/844440187bbafb47aede5918c64a6723658cb919))
+
 ## @newhighsco/stylelint-config [3.1.43](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.1.42...@newhighsco/stylelint-config@3.1.43) (2023-03-20)
 
 
