@@ -4781,10 +4781,10 @@ deep-is@^0.1.3:
   resolved "https://registry.yarnpkg.com/deep-is/-/deep-is-0.1.4.tgz#a6f2dce612fadd2ef1f519b73551f17e85199831"
   integrity sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ==
 
-deepmerge@4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.3.0.tgz#65491893ec47756d44719ae520e0e2609233b59b"
-  integrity sha512-z2wJZXrmeHdvYJp/Ux55wIjqo81G5Bp4c+oELTW+7ar6SogWHajt5a9gO3s3IDaGSAXjDk0vlQKN3rms8ab3og==
+deepmerge@4.3.1:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.3.1.tgz#44b5f2147cd3b00d4b56137685966f26fd25dd4a"
+  integrity sha512-3sUqbMEc77XqpdNO7FRyRog+eW3ph+GYCbj+rK+uYyRMuwsVy0rMiVtPn+QJlKFvWP/1PYpapqYn0Me2knFn+A==
 
 defaults@^1.0.3:
   version "1.0.3"
@@ -11634,10 +11634,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@35.19.0:
-  version "35.19.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.19.0.tgz#8b55787efc933eb829eb5004280afd4949cf401f"
-  integrity sha512-rqruZPg3ayuwOJesI+zuufgHspGgHeYTj/7qlaQCzof/41oqTWY4QaR5CzwoxOXkEcX7px88gPE0zCusafvLgg==
+renovate@35.19.2:
+  version "35.19.2"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.19.2.tgz#a0a6d7c217a29c3632cc7c961d171f2ac124ab9a"
+  integrity sha512-VNnTSvjleCzTCge9vu6jBC69k5h35jGiF/XoESHUdK/O0j+IERkzNZmc4LiCsP+MEXkdr35N+4znTwuP0V/gRw==
   dependencies:
     "@aws-sdk/client-codecommit" "3.290.0"
     "@aws-sdk/client-ec2" "3.291.0"
@@ -11681,7 +11681,7 @@ renovate@35.19.0:
     commander "10.0.0"
     conventional-commits-detector "1.0.3"
     crypto-random-string "3.3.1"
-    deepmerge "4.3.0"
+    deepmerge "4.3.1"
     delay "5.0.0"
     dequal "2.0.3"
     detect-indent "6.1.0"
