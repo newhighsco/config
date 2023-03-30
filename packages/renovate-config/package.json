@@ -19,7 +19,7 @@
     "test": "renovate-config-validator"
   },
   "devDependencies": {
-    "renovate": "35.25.1"
+    "renovate": "35.27.0"
   },
   "renovate-config": {
     "default": {
