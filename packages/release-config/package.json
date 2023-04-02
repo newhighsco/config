@@ -31,6 +31,6 @@
     "semantic-release-circleci-orb": "1.1.1"
   },
   "peerDependencies": {
-    "semantic-release": "21.0.0"
+    "semantic-release": "21.0.1"
   }
 }
