@@ -6820,15 +6820,20 @@ inherits@2, inherits@^2.0.1, inherits@^2.0.3, inherits@^2.0.4, inherits@~2.0.1, 
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.4.tgz#0fa2c64f932917c3433a0ded55363aae37416b7c"
   integrity sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==
 
-ini@3.0.1, ini@^3.0.0, ini@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-3.0.1.tgz#c76ec81007875bc44d544ff7a11a55d12294102d"
-  integrity sha512-it4HyVAUTKBc6m8e1iXWvXSTdndF7HbdN713+kvLrymxTaU4AUBWrJ4vEooP+V7fexnVD3LKcBshjGGPefSMUQ==
+ini@4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-4.1.0.tgz#3bca65a0ae224f07f8f8b3392d8c94a7f1bb007b"
+  integrity sha512-HLR38RSF2iulAzc3I/sma4CoYxQP844rPYCNfzGDOHqa/YqVlwuuZgBx6M50/X8dKgzk0cm1qRg3+47mK2N+cQ==
 
 ini@^1.3.4, ini@^1.3.5, ini@^1.3.8, ini@~1.3.0:
   version "1.3.8"
   resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
   integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
+
+ini@^3.0.0, ini@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-3.0.1.tgz#c76ec81007875bc44d544ff7a11a55d12294102d"
+  integrity sha512-it4HyVAUTKBc6m8e1iXWvXSTdndF7HbdN713+kvLrymxTaU4AUBWrJ4vEooP+V7fexnVD3LKcBshjGGPefSMUQ==
 
 init-package-json@^1.10.3:
   version "1.10.3"
@@ -11667,10 +11672,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@35.64.0:
-  version "35.64.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.64.0.tgz#75b68903bd4b6be888b9bfebcaac3d3d44013d36"
-  integrity sha512-rHri1unmxqsMQOqoFEXOzLJr+tQt9bK8r7MIgGDAjpcuCcDB+kPoffXa6UtR3g7Dc/hTeBuG8Y9Rywwt2OB60w==
+renovate@35.65.1:
+  version "35.65.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.65.1.tgz#ccbd1ae1a18b7868b0f89f3010c2030882146ebf"
+  integrity sha512-NoJPQMzX+uRHmUJRY0VVGRJbePC+J3seZoSZYXLCh/w9TyYiH1lvz2Am7Qy74mbITF5TTDKl3qZ7wZi9D8+7hw==
   dependencies:
     "@aws-sdk/client-codecommit" "3.312.0"
     "@aws-sdk/client-ec2" "3.312.0"
@@ -11737,7 +11742,7 @@ renovate@35.64.0:
     hasha "5.2.2"
     hcl2-parser "1.0.3"
     ignore "5.2.4"
-    ini "3.0.1"
+    ini "4.1.0"
     js-yaml "4.1.0"
     json-dup-key-validator "1.0.3"
     json-stringify-pretty-compact "3.0.0"
