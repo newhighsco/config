@@ -6362,7 +6362,7 @@ glob-parent@^6.0.2:
   dependencies:
     is-glob "^4.0.3"
 
-glob@^10.2.2:
+glob@10.2.2, glob@^10.2.2:
   version "10.2.2"
   resolved "https://registry.yarnpkg.com/glob/-/glob-10.2.2.tgz#ce2468727de7e035e8ecf684669dc74d0526ab75"
   integrity sha512-Xsa0BcxIC6th9UwNjZkhrMtNo/MnyRL8jGCP+uEwhA5oFOCY1f2s1/oNKY47xQ0Bg5nkjsfAEIej1VeH62bDDQ==
@@ -11878,10 +11878,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@35.75.0:
-  version "35.75.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.75.0.tgz#cf91474fa1182fe21bd1d759ebda7c9fa3f4e84a"
-  integrity sha512-MsGSiRwF7HDJs20eOPfCsG0irLiprdB6GhvxHm9arM1K6orNBiY7iqjFcB7hWxz89ZAvKGY8CCAkCycKvsNrEA==
+renovate@35.77.0:
+  version "35.77.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.77.0.tgz#d875703e5d417d8c6773825df972ec768f934e78"
+  integrity sha512-GhAmYMUOLqitKRei9HIwsl40AtDm1BwRUf38LwiTg9uWLWiLm6Vuw4Epov4fkmCToulOuoS+VDlwasPoc5/c7w==
   dependencies:
     "@aws-sdk/client-codecommit" "3.312.0"
     "@aws-sdk/client-ec2" "3.312.0"
@@ -11941,6 +11941,7 @@ renovate@35.75.0:
     fs-extra "11.1.1"
     git-url-parse "13.1.0"
     github-url-from-git "1.5.0"
+    glob "10.2.2"
     global-agent "3.0.0"
     good-enough-parser "1.1.22"
     got "11.8.6"
