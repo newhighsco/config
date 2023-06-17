@@ -2657,10 +2657,10 @@
     luxon "^3.3.0"
     node-fetch "^2.6.11"
 
-"@renovatebot/pep440@2.1.16":
-  version "2.1.16"
-  resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.1.16.tgz#952940991a51240e9c15b2dfd4f903c7f1c81c01"
-  integrity sha512-Zuiw9Zaa4b/fZ0+Aw/fu2eJw+U+9To5dsx45DOWWa4jh7BFW1RGKZbJaGBZJou1iLI6Ao7d3ICcQlUsTRsmmbQ==
+"@renovatebot/pep440@2.1.17":
+  version "2.1.17"
+  resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.1.17.tgz#0dc619a05dff425205b18c7103b323cd4b7601c6"
+  integrity sha512-DemYbeE224nT7Rn3y5FjOI///031awjlFebpO2+e3NLBRx0yuZhga8Ogf9jJKCLMmwkEF/ndhQ0QCaWDv6M4bw==
 
 "@renovatebot/ruby-semver@3.0.2":
   version "3.0.2"
@@ -12008,10 +12008,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@35.124.0:
-  version "35.124.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.124.0.tgz#8cc18c64a96a13f6dd8620e0f7dddfa4fc397d30"
-  integrity sha512-Kc2l7r8kLYlum41skJB8k/adYaYUSMXDsMICBLz4VfVqz4Vs9VDbIfmvq8L2ksmBhyn7nECwQATIYzHq2Kb39A==
+renovate@35.124.1:
+  version "35.124.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.124.1.tgz#39f8d31ad081530de937cdf731e4e329c63df0af"
+  integrity sha512-GhN3c4BILNBzXen3b32gLsq//Tn3OLF5Pr0eONZRI9zznQ8Btw1QvFn14BbSPozjVwoWlXv493LSTkQSZVEHuw==
   dependencies:
     "@aws-sdk/client-codecommit" "3.348.0"
     "@aws-sdk/client-ec2" "3.348.0"
@@ -12035,7 +12035,7 @@ renovate@35.124.0:
     "@opentelemetry/semantic-conventions" "1.13.0"
     "@qnighy/marshal" "0.1.3"
     "@renovatebot/osv-offline" "1.2.12"
-    "@renovatebot/pep440" "2.1.16"
+    "@renovatebot/pep440" "2.1.17"
     "@renovatebot/ruby-semver" "3.0.2"
     "@sindresorhus/is" "4.6.0"
     "@types/ms" "0.7.31"
