@@ -26,10 +26,10 @@
     "stylelint-prettier": "3.0.0"
   },
   "devDependencies": {
-    "stylelint": "15.8.0"
+    "stylelint": "15.9.0"
   },
   "peerDependencies": {
     "prettier": "2.8.8",
-    "stylelint": "15.8.0"
+    "stylelint": "15.9.0"
   }
 }
