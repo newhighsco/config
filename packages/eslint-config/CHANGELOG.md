@@ -1,3 +1,42 @@
+## @newhighsco/eslint-config [4.0.28](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.27...@newhighsco/eslint-config@4.0.28) (2023-06-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v8.37.0 ([#959](https://github.com/newhighsco/config/issues/959)) ([0e88cb6](https://github.com/newhighsco/config/commit/0e88cb63d4270ff5477bb81c14e6341c29f93cb9))
+* **deps:** update dependency eslint to v8.38.0 ([#990](https://github.com/newhighsco/config/issues/990)) ([6d5b6d8](https://github.com/newhighsco/config/commit/6d5b6d8ea9c0e54aaac6fb4b2edfd42e04e1b25b))
+* **deps:** update dependency eslint to v8.39.0 ([#1030](https://github.com/newhighsco/config/issues/1030)) ([d6b88a3](https://github.com/newhighsco/config/commit/d6b88a37a0a9b9bcff9dd6653eadc6c2e420ed81))
+* **deps:** update dependency eslint to v8.40.0 ([#1069](https://github.com/newhighsco/config/issues/1069)) ([761af71](https://github.com/newhighsco/config/commit/761af711b0eb3beb4904403e6310b14618e6e024))
+* **deps:** update dependency eslint to v8.41.0 ([#1098](https://github.com/newhighsco/config/issues/1098)) ([c51ee14](https://github.com/newhighsco/config/commit/c51ee14350e0eadbed2ab9de8f95b07580a6b2e8))
+* **deps:** update dependency eslint to v8.42.0 ([#1142](https://github.com/newhighsco/config/issues/1142)) ([151259a](https://github.com/newhighsco/config/commit/151259a6250e424e1c578da072796bf32d60292c))
+* **deps:** update dependency eslint to v8.43.0 ([#1171](https://github.com/newhighsco/config/issues/1171)) ([d73bef1](https://github.com/newhighsco/config/commit/d73bef1fea8370098da3dc0d537825c86549c57f))
+* **deps:** update dependency eslint-config-standard-with-typescript to v35 ([#1139](https://github.com/newhighsco/config/issues/1139)) ([5e7bdab](https://github.com/newhighsco/config/commit/5e7bdab0de26252406dd373484bf1cfead43837e))
+* **deps:** update dependency eslint-plugin-cypress to v2.13.1 ([#955](https://github.com/newhighsco/config/issues/955)) ([eb30b68](https://github.com/newhighsco/config/commit/eb30b68236f7a5eb580ad47ce432920a12f8c899))
+* **deps:** update dependency eslint-plugin-cypress to v2.13.2 ([#960](https://github.com/newhighsco/config/issues/960)) ([5d8808b](https://github.com/newhighsco/config/commit/5d8808ba61a95e6b45e0d12de18320e2c97825aa))
+* **deps:** update dependency eslint-plugin-cypress to v2.13.3 ([#1043](https://github.com/newhighsco/config/issues/1043)) ([0708619](https://github.com/newhighsco/config/commit/07086199805b2a49b4a91304e435489682c339dc))
+* **deps:** update dependency eslint-plugin-mdx to v2.1.0 ([#1064](https://github.com/newhighsco/config/issues/1064)) ([2d9462a](https://github.com/newhighsco/config/commit/2d9462a4563693488e2feebec60a634f12e90ffa))
+* **deps:** update dependency eslint-plugin-n to v15.7.0 ([#962](https://github.com/newhighsco/config/issues/962)) ([86ab6a1](https://github.com/newhighsco/config/commit/86ab6a173833ea428522e6e3fad48bf803873057))
+* **deps:** update dependency eslint-plugin-n to v16 ([#1090](https://github.com/newhighsco/config/issues/1090)) ([c250802](https://github.com/newhighsco/config/commit/c25080228730b3a5760ab417548b40354e47e7f8))
+* **deps:** update dependency eslint-plugin-n to v16.0.1 ([#1200](https://github.com/newhighsco/config/issues/1200)) ([317f6c7](https://github.com/newhighsco/config/commit/317f6c791169373b79fd32084729576e0724dbee))
+* **deps:** update dependency eslint-plugin-storybook to v0.6.12 ([#1056](https://github.com/newhighsco/config/issues/1056)) ([e41f63d](https://github.com/newhighsco/config/commit/e41f63d6ff2b0df6235566a7dcaef429090c4e18))
+* **deps:** update dependency eslint-plugin-testing-library to v5.10.3 ([#1004](https://github.com/newhighsco/config/issues/1004)) ([fcc202f](https://github.com/newhighsco/config/commit/fcc202fba9764d8b63e4c2608deb654ff1613471))
+* **deps:** update dependency eslint-plugin-testing-library to v5.11.0 ([#1080](https://github.com/newhighsco/config/issues/1080)) ([efa37c2](https://github.com/newhighsco/config/commit/efa37c25cef7cd106622c08e8e387d5e639b9244))
+* **deps:** update dependency prettier to v2.8.7 ([#941](https://github.com/newhighsco/config/issues/941)) ([2304b79](https://github.com/newhighsco/config/commit/2304b79817ffbbf75a7982421d7607c3eb4adb50))
+* **deps:** update dependency prettier to v2.8.8 ([#1033](https://github.com/newhighsco/config/issues/1033)) ([7d74c84](https://github.com/newhighsco/config/commit/7d74c84e5fb67a16f18e161e22f4fb22cf259c45))
+* **deps:** update typescript-eslint monorepo to v5.57.0 ([#950](https://github.com/newhighsco/config/issues/950)) ([66ad699](https://github.com/newhighsco/config/commit/66ad6992c2c31418fe69cb96e269f92b4d4814f0))
+* **deps:** update typescript-eslint monorepo to v5.57.1 ([#978](https://github.com/newhighsco/config/issues/978)) ([3166334](https://github.com/newhighsco/config/commit/31663342358ad4c7ec0977fd08c1611edebdf950))
+* **deps:** update typescript-eslint monorepo to v5.58.0 ([#997](https://github.com/newhighsco/config/issues/997)) ([f8468d4](https://github.com/newhighsco/config/commit/f8468d409b4c2092379a98299c4c6953323b1607))
+* **deps:** update typescript-eslint monorepo to v5.59.0 ([#1020](https://github.com/newhighsco/config/issues/1020)) ([051f891](https://github.com/newhighsco/config/commit/051f891f7ff1d9a5c8c7e2992b63ef1f2cc3d8ba))
+* **deps:** update typescript-eslint monorepo to v5.59.1 ([#1036](https://github.com/newhighsco/config/issues/1036)) ([6132287](https://github.com/newhighsco/config/commit/6132287bd83d3b912d3ad90bff713e042518afb1))
+* **deps:** update typescript-eslint monorepo to v5.59.11 ([#1165](https://github.com/newhighsco/config/issues/1165)) ([6a53f9c](https://github.com/newhighsco/config/commit/6a53f9c656a516ca17d45f51f21929d110550e49))
+* **deps:** update typescript-eslint monorepo to v5.59.2 ([#1050](https://github.com/newhighsco/config/issues/1050)) ([0df6cc4](https://github.com/newhighsco/config/commit/0df6cc49647b278f3ea6b439359bc56c941667b0))
+* **deps:** update typescript-eslint monorepo to v5.59.5 ([#1076](https://github.com/newhighsco/config/issues/1076)) ([f9b4c54](https://github.com/newhighsco/config/commit/f9b4c54f66a099ab0c48db23edc3fdcb79021390))
+* **deps:** update typescript-eslint monorepo to v5.59.6 ([#1088](https://github.com/newhighsco/config/issues/1088)) ([5d72a1c](https://github.com/newhighsco/config/commit/5d72a1c7ae3c3f697af2700476fd436d8d140108))
+* **deps:** update typescript-eslint monorepo to v5.59.7 ([#1105](https://github.com/newhighsco/config/issues/1105)) ([68827a4](https://github.com/newhighsco/config/commit/68827a498aaee551606b6c6cbba4671718d7df6e))
+* **deps:** update typescript-eslint monorepo to v5.59.8 ([#1125](https://github.com/newhighsco/config/issues/1125)) ([3d1d24e](https://github.com/newhighsco/config/commit/3d1d24e28b02293b1294bcfd815f991057d80f47))
+* **deps:** update typescript-eslint monorepo to v5.59.9 ([#1149](https://github.com/newhighsco/config/issues/1149)) ([bb78045](https://github.com/newhighsco/config/commit/bb780459c667c7accd40e6474fb9a045cae0431c))
+* **deps:** update typescript-eslint monorepo to v5.60.0 ([#1182](https://github.com/newhighsco/config/issues/1182)) ([67be2d5](https://github.com/newhighsco/config/commit/67be2d562b3fb5958211dc72212a31b76a3938c2))
+
 ## @newhighsco/eslint-config [4.0.27](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.26...@newhighsco/eslint-config@4.0.27) (2023-03-21)
 
 
