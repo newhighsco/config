@@ -1,3 +1,16 @@
+## @newhighsco/commitlint-config [1.1.16](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.1.15...@newhighsco/commitlint-config@1.1.16) (2023-06-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @commitlint/cli to v17.5.0 ([#935](https://github.com/newhighsco/config/issues/935)) ([aa74ead](https://github.com/newhighsco/config/commit/aa74ead266816724ae18488da191ef977836544b))
+* **deps:** update dependency @commitlint/cli to v17.5.1 ([#953](https://github.com/newhighsco/config/issues/953)) ([4527c37](https://github.com/newhighsco/config/commit/4527c37a7ffed961082a4b017e45222f1f8ed06b))
+* **deps:** update dependency @commitlint/cli to v17.6.0 ([#1006](https://github.com/newhighsco/config/issues/1006)) ([8180fc3](https://github.com/newhighsco/config/commit/8180fc38ccb4f20f33cabe397292227b79bf0648))
+* **deps:** update dependency @commitlint/cli to v17.6.1 ([#1009](https://github.com/newhighsco/config/issues/1009)) ([774b88b](https://github.com/newhighsco/config/commit/774b88bfa37d41f23e121bd09465959e00f63ee8))
+* **deps:** update dependency @commitlint/cli to v17.6.3 ([#1061](https://github.com/newhighsco/config/issues/1061)) ([88a1123](https://github.com/newhighsco/config/commit/88a112397ace0cd4e2c1b11387d90e56687abad7))
+* **deps:** update dependency @commitlint/cli to v17.6.5 ([#1128](https://github.com/newhighsco/config/issues/1128)) ([c3aa962](https://github.com/newhighsco/config/commit/c3aa962a790fcf1397265ec40d20a80f235f4511))
+* **deps:** update dependency @commitlint/cli to v17.6.6 ([#1196](https://github.com/newhighsco/config/issues/1196)) ([5637f2f](https://github.com/newhighsco/config/commit/5637f2fa3180b5321bd6016234023d7ff07f47c7))
+
 ## @newhighsco/commitlint-config [1.1.15](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.1.14...@newhighsco/commitlint-config@1.1.15) (2023-02-17)
 
 
