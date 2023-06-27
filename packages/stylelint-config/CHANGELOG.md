@@ -1,3 +1,22 @@
+## @newhighsco/stylelint-config [3.1.45](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.1.44...@newhighsco/stylelint-config@3.1.45) (2023-06-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prettier to v2.8.7 ([#941](https://github.com/newhighsco/config/issues/941)) ([2304b79](https://github.com/newhighsco/config/commit/2304b79817ffbbf75a7982421d7607c3eb4adb50))
+* **deps:** update dependency prettier to v2.8.8 ([#1033](https://github.com/newhighsco/config/issues/1033)) ([7d74c84](https://github.com/newhighsco/config/commit/7d74c84e5fb67a16f18e161e22f4fb22cf259c45))
+* **deps:** update dependency stylelint to v15.4.0 ([#971](https://github.com/newhighsco/config/issues/971)) ([0cfb39a](https://github.com/newhighsco/config/commit/0cfb39a883229d654378e192da23c00a9117e859))
+* **deps:** update dependency stylelint to v15.5.0 ([#1012](https://github.com/newhighsco/config/issues/1012)) ([b78c99c](https://github.com/newhighsco/config/commit/b78c99cef1aa1bec346f6ddf5b011e04d8848bcd))
+* **deps:** update dependency stylelint to v15.6.0 ([#1032](https://github.com/newhighsco/config/issues/1032)) ([bc805c1](https://github.com/newhighsco/config/commit/bc805c185dcfeb52543068e396cc496b4f849420))
+* **deps:** update dependency stylelint to v15.6.1 ([#1054](https://github.com/newhighsco/config/issues/1054)) ([4e52bbc](https://github.com/newhighsco/config/commit/4e52bbc5cfb731fabd4dab8c613856cf826711e7))
+* **deps:** update dependency stylelint to v15.6.2 ([#1091](https://github.com/newhighsco/config/issues/1091)) ([5a9af3d](https://github.com/newhighsco/config/commit/5a9af3dd52fb1f86cc17f8f3ac606e64ab5404a1))
+* **deps:** update dependency stylelint to v15.6.3 ([#1145](https://github.com/newhighsco/config/issues/1145)) ([1d25f91](https://github.com/newhighsco/config/commit/1d25f91a743815437d43409e28c375efb7385835))
+* **deps:** update dependency stylelint to v15.7.0 ([#1150](https://github.com/newhighsco/config/issues/1150)) ([56a7c27](https://github.com/newhighsco/config/commit/56a7c278e7373336f8590afc6f4b79520866a281))
+* **deps:** update dependency stylelint to v15.8.0 ([#1175](https://github.com/newhighsco/config/issues/1175)) ([f57dd6d](https://github.com/newhighsco/config/commit/f57dd6de69199dfdc4454a23ae3e433f0d0f180e))
+* **deps:** update dependency stylelint to v15.9.0 ([#1193](https://github.com/newhighsco/config/issues/1193)) ([56fddfc](https://github.com/newhighsco/config/commit/56fddfcafc355bde556fdc163ce44ca04b1cc0e7))
+* **deps:** update dependency stylelint-config-standard-scss to v8 ([#999](https://github.com/newhighsco/config/issues/999)) ([dbfea7b](https://github.com/newhighsco/config/commit/dbfea7be123734623fbc28e1d1c962064bd78590))
+* **deps:** update dependency stylelint-config-standard-scss to v9 ([#1038](https://github.com/newhighsco/config/issues/1038)) ([9bebde7](https://github.com/newhighsco/config/commit/9bebde796dc7815a6c498cde1100e98daf3dade8))
+
 ## @newhighsco/stylelint-config [3.1.44](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.1.43...@newhighsco/stylelint-config@3.1.44) (2023-03-21)
 
 
