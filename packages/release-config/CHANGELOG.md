@@ -1,3 +1,25 @@
+## @newhighsco/release-config [1.3.18](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.17...@newhighsco/release-config@1.3.18) (2023-06-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/changelog to v6.0.3 ([#939](https://github.com/newhighsco/config/issues/939)) ([f730154](https://github.com/newhighsco/config/commit/f7301542eb33db9ee0ac7dd77de7237ccf862bc0))
+* **deps:** update dependency @semantic-release/github to v8.0.8 ([#1118](https://github.com/newhighsco/config/issues/1118)) ([a9830ca](https://github.com/newhighsco/config/commit/a9830cade82195110d07fbce9436a7ef755289b4))
+* **deps:** update dependency @semantic-release/github to v8.1.0 ([#1122](https://github.com/newhighsco/config/issues/1122)) ([3fc9222](https://github.com/newhighsco/config/commit/3fc92220a45603746de494b74108f4cd74b0a2f9))
+* **deps:** update dependency @semantic-release/github to v9.0.2 ([#1146](https://github.com/newhighsco/config/issues/1146)) ([4ee9691](https://github.com/newhighsco/config/commit/4ee9691b64fc6c08772e638e6536dfcffc5da61a))
+* **deps:** update dependency @semantic-release/github to v9.0.3 ([#1156](https://github.com/newhighsco/config/issues/1156)) ([56d8fd4](https://github.com/newhighsco/config/commit/56d8fd4e0004b3d2590652fb70b5913058c2f4d4))
+* **deps:** update dependency @semantic-release/npm to v10 ([#933](https://github.com/newhighsco/config/issues/933)) ([476bd3f](https://github.com/newhighsco/config/commit/476bd3f326de0f0ec2874ef79e289830cb6601d6))
+* **deps:** update dependency @semantic-release/npm to v10.0.3 ([#987](https://github.com/newhighsco/config/issues/987)) ([8673f6c](https://github.com/newhighsco/config/commit/8673f6cecdb1351b8981ea0da613308dfa8d5fa1))
+* **deps:** update dependency @semantic-release/release-notes-generator to v11 ([#1045](https://github.com/newhighsco/config/issues/1045)) ([003544a](https://github.com/newhighsco/config/commit/003544a8ea605e4a5fcdf9d47217b9c513adf2e5))
+* **deps:** update dependency @semantic-release/release-notes-generator to v11.0.2 ([#1123](https://github.com/newhighsco/config/issues/1123)) ([bc615e6](https://github.com/newhighsco/config/commit/bc615e65e9fc73b444eca534093cc444fa893b55))
+* **deps:** update dependency semantic-release to v21 ([#944](https://github.com/newhighsco/config/issues/944)) ([1721c63](https://github.com/newhighsco/config/commit/1721c63809139d50870ed0beeac2240ab3abdd3c))
+* **deps:** update dependency semantic-release to v21.0.1 ([#974](https://github.com/newhighsco/config/issues/974)) ([9f0f2d6](https://github.com/newhighsco/config/commit/9f0f2d610fbf5b680bb42bf30e7f29b065523654))
+* **deps:** update dependency semantic-release to v21.0.2 ([#1044](https://github.com/newhighsco/config/issues/1044)) ([dd182c5](https://github.com/newhighsco/config/commit/dd182c55db9b6d86a328d879b7d6fef307f06cfe))
+* **deps:** update dependency semantic-release to v21.0.3 ([#1141](https://github.com/newhighsco/config/issues/1141)) ([8e4ea43](https://github.com/newhighsco/config/commit/8e4ea43f875f135ab1dc636317a8509480a3df24))
+* **deps:** update semantic-release monorepo ([#1143](https://github.com/newhighsco/config/issues/1143)) ([badcb64](https://github.com/newhighsco/config/commit/badcb647c1caeff641b3ab98b8e702adb7c1d495))
+* **deps:** update semantic-release monorepo ([#1153](https://github.com/newhighsco/config/issues/1153)) ([4821f19](https://github.com/newhighsco/config/commit/4821f19e0318c26fb8569581603bdf0dfcf8b10f))
+* **deps:** update semantic-release monorepo ([#1164](https://github.com/newhighsco/config/issues/1164)) ([d954e57](https://github.com/newhighsco/config/commit/d954e57633db7f6d92a28fae4a1a769c5494496a))
+
 ## @newhighsco/release-config [1.3.17](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.16...@newhighsco/release-config@1.3.17) (2023-03-19)
 
 
