@@ -11084,10 +11084,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@35.142.0:
-  version "35.142.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.142.0.tgz#0fc24d86631e0b54f519b0e6e5dd31ef8db75c0c"
-  integrity sha512-4erQ3GhVy7L0Ig5AL5RAMjHq2WXI8aFwTdlaMzArNZxIeOsvS9LyKqOmkwbiC1xziU32btKJrgoUBM+dn0V/oA==
+renovate@35.143.0:
+  version "35.143.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.143.0.tgz#ae0ea84b22ebf798c60a946d21f494eec2ec4e3d"
+  integrity sha512-sWaTZQB6fANKKyLbZN+qvBFu7DIEXK2m+DbeyZA8uLrNjpQEAmPwy1/zYvwvpV7AdH39mShLUv3RoYkS15CiCA==
   dependencies:
     "@aws-sdk/client-codecommit" "3.348.0"
     "@aws-sdk/client-ec2" "3.348.0"
@@ -11158,6 +11158,7 @@ renovate@35.142.0:
     json-dup-key-validator "1.0.3"
     json-stringify-pretty-compact "3.0.0"
     json5 "2.2.3"
+    klona "2.0.6"
     luxon "3.3.0"
     markdown-it "13.0.1"
     markdown-table "2.0.0"
