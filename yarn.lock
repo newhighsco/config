@@ -3493,10 +3493,10 @@ axobject-query@^3.1.1:
   dependencies:
     deep-equal "^2.0.5"
 
-azure-devops-node-api@12.0.0:
-  version "12.0.0"
-  resolved "https://registry.yarnpkg.com/azure-devops-node-api/-/azure-devops-node-api-12.0.0.tgz#38b9892f88e86da46246218411920923d8dd6a52"
-  integrity sha512-S6Il++7dQeMlZDokBDWw7YVoPeb90tWF10pYxnoauRMnkuL91jq9M7SOYRVhtO3FUC5URPkB/qzGa7jTLft0Xw==
+azure-devops-node-api@12.1.0:
+  version "12.1.0"
+  resolved "https://registry.yarnpkg.com/azure-devops-node-api/-/azure-devops-node-api-12.1.0.tgz#38e25339e6be7b75ddd9034d165a7a7482ab5fee"
+  integrity sha512-VY+G45eNKVJfMIO0uyZfbi4PzUR8JHEfsHQjEUAXUGRkYhhBbhGHjy8cpiyYFxLXc3a4PL5cqgqqV/YD1SaCXg==
   dependencies:
     tunnel "0.0.6"
     typed-rest-client "^1.8.4"
@@ -11084,10 +11084,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@35.143.1:
-  version "35.143.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.143.1.tgz#4ce321a99fef16d302e6901d2b6aaed2bec7351f"
-  integrity sha512-wSBPLQvnr08+w4HAQwrj6vd+1e4SMJKxLIm3kC2qvE8apa/GM57OhJ1xgSXG6jbtTZZSmaLSrH2SNkFm4eHRlA==
+renovate@35.144.0:
+  version "35.144.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.144.0.tgz#707fb7ea52c00fbb0b2a42b0edaa80270cf24efc"
+  integrity sha512-FS6kVMUr6qTYrOLNH0jbNu+DPAV813Ls0xjQDCK3+kNc8B2oDuP45X+KUWA1quL75ib8R3clNWeCo1qgLHVqwg==
   dependencies:
     "@aws-sdk/client-codecommit" "3.348.0"
     "@aws-sdk/client-ec2" "3.348.0"
@@ -11121,7 +11121,7 @@ renovate@35.143.1:
     aggregate-error "3.1.0"
     auth-header "1.0.0"
     aws4 "1.12.0"
-    azure-devops-node-api "12.0.0"
+    azure-devops-node-api "12.1.0"
     bunyan "1.8.15"
     cacache "17.1.3"
     cacheable-lookup "5.0.4"
