@@ -16,7 +16,7 @@ module.exports = {
     ],
     'function-no-unknown': null,
     'scss/function-no-unknown': null,
-
+    'media-feature-range-notation': 'prefix',
     'selector-class-pattern': null,
     'value-keyword-case': [
       'lower',
