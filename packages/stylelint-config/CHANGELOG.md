@@ -1,3 +1,10 @@
+## @newhighsco/stylelint-config [3.1.46](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.1.45...@newhighsco/stylelint-config@3.1.46) (2023-06-29)
+
+
+### Bug Fixes
+
+* **stylelint:** revert to `prefix` notation for media feature ranges ([#1212](https://github.com/newhighsco/config/issues/1212)) ([58ea7b9](https://github.com/newhighsco/config/commit/58ea7b944c7832ff593407a58b2e1c8ff4f7dd89))
+
 ## @newhighsco/stylelint-config [3.1.45](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.1.44...@newhighsco/stylelint-config@3.1.45) (2023-06-27)
 
 
