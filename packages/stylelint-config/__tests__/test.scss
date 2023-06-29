@@ -55,7 +55,7 @@ $avatar-width-small: functions.rem(48);
 
 /* Single-line comment */
 
-@media (min-width >= 60em) {
+@media (min-width: 60em) {
   .selector {
     /* Flush to parent comment */
     transform: translate(1, 1) scale(3);
@@ -71,7 +71,7 @@ $avatar-width-small: functions.rem(48);
 }
 
 /* Flush single line comment */
-@media screen and (resolution >= 192dpi), screen and (resolution >= 2dppx) {
+@media screen and (min-resolution: 192dpi), screen and (min-resolution: 2dppx) {
   .selector {
     background-image: repeating-linear-gradient(
       -45deg,
