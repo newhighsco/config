@@ -1,3 +1,10 @@
+# @newhighsco/renovate-config [1.9.0](https://github.com/newhighsco/config/compare/@newhighsco/renovate-config@1.8.1...@newhighsco/renovate-config@1.9.0) (2023-06-29)
+
+
+### Features
+
+* **renovate:** configure `stopUpdatingLabel` ([#1214](https://github.com/newhighsco/config/issues/1214)) ([7b81246](https://github.com/newhighsco/config/commit/7b812465aedf9a37cf02f32014accb327f21321a))
+
 ## @newhighsco/renovate-config [1.8.1](https://github.com/newhighsco/config/compare/@newhighsco/renovate-config@1.8.0...@newhighsco/renovate-config@1.8.1) (2023-02-04)
 
 
