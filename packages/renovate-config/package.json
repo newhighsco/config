@@ -64,7 +64,8 @@
       "prCreation": "not-pending",
       "reviewers": [
         "team:reviewers"
-      ]
+      ],
+      "stopUpdatingLabel": "blocked"
     }
   }
 }
