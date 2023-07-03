@@ -11106,10 +11106,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@35.158.0:
-  version "35.158.0"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.158.0.tgz#2b61844f10c3fb1cf8656bbdc3ed74527570e531"
-  integrity sha512-uGXRUCfdKJv+LViy56DtUM30Wt2C/dejiPWZD6JtlVySMs0wH73Oag2kWH7YhOrXrZVLXSDBLSFQeaa1cJ/rZg==
+renovate@35.159.1:
+  version "35.159.1"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.159.1.tgz#04631754a789707f91d79a94e22aeaa3225216a6"
+  integrity sha512-lfgWFPXCFsLCBrdZspmUMcipfk/T43kI9RQ7v/iNrcT25VjF2QB3hLntRQzPtXwQS4PciBHkmYNWyqEl8CT+xQ==
   dependencies:
     "@aws-sdk/client-codecommit" "3.348.0"
     "@aws-sdk/client-ec2" "3.348.0"
@@ -11205,7 +11205,7 @@ renovate@35.158.0:
     semver-stable "3.0.0"
     semver-utils "1.1.4"
     shlex "2.1.2"
-    simple-git "3.19.0"
+    simple-git "3.19.1"
     slugify "1.6.6"
     source-map-support "0.5.21"
     traverse "0.6.7"
@@ -11639,10 +11639,10 @@ sigstore@^1.0.0:
     make-fetch-happen "^11.0.1"
     tuf-js "^1.0.0"
 
-simple-git@3.19.0:
-  version "3.19.0"
-  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.19.0.tgz#fe8d0cd86a0e68372b75c0c44a0cb887201c3f7d"
-  integrity sha512-hyH2p9Ptxjf/xPuL7HfXbpYt9gKhC1yWDh3KYIAYJJePAKV7AEjLN4xhp7lozOdNiaJ9jlVvAbBymVlcS2jRiA==
+simple-git@3.19.1:
+  version "3.19.1"
+  resolved "https://registry.yarnpkg.com/simple-git/-/simple-git-3.19.1.tgz#ff9c021961a3d876a1b115b1893bed9a28855d30"
+  integrity sha512-Ck+rcjVaE1HotraRAS8u/+xgTvToTuoMkT9/l9lvuP5jftwnYUp6DwuJzsKErHgfyRk8IB8pqGHWEbM3tLgV1w==
   dependencies:
     "@kwsites/file-exists" "^1.1.1"
     "@kwsites/promise-deferred" "^1.1.1"
