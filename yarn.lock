@@ -11106,10 +11106,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@35.159.3:
-  version "35.159.3"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.159.3.tgz#fa5298bd12d0fb732be2769f53fdbb0e0779be97"
-  integrity sha512-4EkxpJAZb/KYDtJode+u6hkMawqTPg8252y7q918ZApEYGfdFcf5uVTaVlJeDAIc7i6Q6tctGTPpE0ibH0l/9A==
+renovate@35.159.4:
+  version "35.159.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.159.4.tgz#c90e3b4992277f41cef964f8742ec31c0ee06758"
+  integrity sha512-Z59XQTg/UdnaRP+6xXsIsLexQCpLmkzZff/ki5odZrBxF7QFPAWGXq/FSoDx1UyCENy4sbxB1nnUhtQTDvAMMA==
   dependencies:
     "@aws-sdk/client-codecommit" "3.348.0"
     "@aws-sdk/client-ec2" "3.348.0"
@@ -11209,7 +11209,7 @@ renovate@35.159.3:
     slugify "1.6.6"
     source-map-support "0.5.21"
     traverse "0.6.7"
-    tslib "2.5.3"
+    tslib "2.6.0"
     upath "2.0.1"
     url-join "4.0.1"
     validate-npm-package-name "5.0.0"
@@ -12528,10 +12528,10 @@ tsconfig-paths@^3.14.1:
     minimist "^1.2.6"
     strip-bom "^3.0.0"
 
-tslib@2.5.3, tslib@^2.3.1, tslib@^2.4.0, tslib@^2.5.0, tslib@^2.5.2:
-  version "2.5.3"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.5.3.tgz#24944ba2d990940e6e982c4bea147aba80209913"
-  integrity sha512-mSxlJJwl3BMEQCUNnxXBU9jP4JBktcEGhURcPR6VQVlnP0FdDEsIaz0C35dXNGLyRfrATNofF0F5p2KPxQgB+w==
+tslib@2.6.0, tslib@^2.3.1, tslib@^2.4.0, tslib@^2.5.0, tslib@^2.5.2:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.6.0.tgz#b295854684dbda164e181d259a22cd779dcd7bc3"
+  integrity sha512-7At1WUettjcSRHXCyYtTselblcHl9PJFFVKiCAy/bY97+BPZXSQ2wbq0P9s8tK2G7dFQfNnlJnPAiArVBVBsfA==
 
 tslib@^1.11.1, tslib@^1.13.0, tslib@^1.8.1, tslib@^1.9.3:
   version "1.14.1"
