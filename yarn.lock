@@ -1212,10 +1212,10 @@
   resolved "https://registry.yarnpkg.com/@breejs/later/-/later-4.1.0.tgz#9246907f46cc9e9c9af37d791ab468d98921bcc1"
   integrity sha512-QgGnZ9b7o4k0Ai1ZbTJWwZpZcFK9d+Gb+DyNt4UT9x6IEIs5HVu0iIlmgzGqN+t9MoJSpSPo9S/Mm51UtHr3JA==
 
-"@cdktf/hcl2json@0.17.0":
-  version "0.17.0"
-  resolved "https://registry.yarnpkg.com/@cdktf/hcl2json/-/hcl2json-0.17.0.tgz#5a56dcc1ef2c50a3f4ee8987b6b56d8db6b0ed23"
-  integrity sha512-PNEDsVJBHqlBZtQNvMimjpkIkqqrRqWq7NVJaGiCSpb02rf5VeCgJvZhY0stUXd6hmsi4pg/Y10v4tjv7gb/XA==
+"@cdktf/hcl2json@0.17.1":
+  version "0.17.1"
+  resolved "https://registry.yarnpkg.com/@cdktf/hcl2json/-/hcl2json-0.17.1.tgz#6547b045e6c75c03184eca39022b3627ccb3143b"
+  integrity sha512-nOAuJe22FKzBlNJhKRHHTH8Pst2kNEJ18IIL4T2Tfde9EMayyBcGmQ4rsEu4tj0+EuUkryKSkLmwdzPrJS+aaQ==
   dependencies:
     fs-extra "^11.1.1"
 
@@ -2431,10 +2431,10 @@
     luxon "^3.3.0"
     node-fetch "^2.6.11"
 
-"@renovatebot/pep440@2.1.18":
-  version "2.1.18"
-  resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.1.18.tgz#775a4612b8a92b27f8ebed8f8496f1e4d7f99d0a"
-  integrity sha512-dL5NDeIAklFrND8s4NGOC3C/ZKBFi4KGv5Nrw6XC+pCC84K128BRCW/fTfOQZO3iAUmWbDR1Dsuj+kFDXL/A/g==
+"@renovatebot/pep440@2.1.19":
+  version "2.1.19"
+  resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.1.19.tgz#866d7a783e5ccc5a3437183a05d80fa57cb14eff"
+  integrity sha512-ekk2lUPUmPUiR7teeU2N/5GGQEY1pTQiWN20GNjzE4BPyaF+UhvsSCM3i26gqnCD0njv+i7yiJa5j9dXkRBzeQ==
 
 "@renovatebot/ruby-semver@3.0.3":
   version "3.0.3"
@@ -4839,14 +4839,14 @@ editor@~1.0.0:
   resolved "https://registry.yarnpkg.com/editor/-/editor-1.0.0.tgz#60c7f87bd62bcc6a894fa8ccd6afb7823a24f742"
   integrity sha1-YMf4e9YrzGqJT6jM1q+3gjok90I=
 
-editorconfig@1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/editorconfig/-/editorconfig-1.0.3.tgz#9a1893d249bc1b8c49a1b421d0e6bf81c8fb86f2"
-  integrity sha512-SLHUig+v3PpjlCGenNDSMVj5caWTJ+aDXaqR1ucZCbXcotV3D7+ycT1jwbICxiPC6gju/rS+iRw8SC7kQukSig==
+editorconfig@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/editorconfig/-/editorconfig-2.0.0.tgz#5b84b35122889a97a005aca7981a3038526ec8d0"
+  integrity sha512-s1NQ63WQ7RNXH6Efb2cwuyRlfpbtdZubvfNe4vCuoyGPewNPY7vah8JUSOFBiJ+jr99Qh8t0xKv0oITc1dclgw==
   dependencies:
     "@one-ini/wasm" "0.1.1"
     commander "^11.0.0"
-    minimatch "9.0.1"
+    minimatch "9.0.2"
     semver "^7.5.3"
 
 electron-to-chromium@^1.4.431:
@@ -4879,15 +4879,15 @@ emoji-regex@^9.2.2:
   resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-9.2.2.tgz#840c8803b0d8047f4ff0cf963176b32d4ef3ed72"
   integrity sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg==
 
-emojibase-regex@6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/emojibase-regex/-/emojibase-regex-6.0.1.tgz#dc0b33d05c02f045ea44795d453698b205d41f0f"
-  integrity sha512-Mj1UT6IIk4j91yMFE0QetpUYcmsr5ZDkkOIMSGafhIgC086mBMaCh2Keaykx8YEllmV7hmx5zdANDzCYBYAVDw==
+emojibase-regex@15.0.0:
+  version "15.0.0"
+  resolved "https://registry.yarnpkg.com/emojibase-regex/-/emojibase-regex-15.0.0.tgz#b4d1c6328500aaea4a794b11fe61f97df20af4ee"
+  integrity sha512-b5y58xrmZhH551zIa3ZOHl1mRI5KecA+5sAyWZCQEaj1maufZJJoENVwDqigzJoAkG604DuRqfdpy4E5rzSUsg==
 
-emojibase@6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/emojibase/-/emojibase-6.1.0.tgz#c3bc281e998a0e06398416090c23bac8c5ed3ee8"
-  integrity sha512-1GkKJPXP6tVkYJHOBSJHoGOr/6uaDxZ9xJ6H7m6PfdGXTmQgbALHLWaVRY4Gi/qf5x/gT/NUXLPuSHYLqtLtrQ==
+emojibase@15.0.0:
+  version "15.0.0"
+  resolved "https://registry.yarnpkg.com/emojibase/-/emojibase-15.0.0.tgz#f41b7773ec9a8a332373c18628ff4471255bd769"
+  integrity sha512-bvSIs98sHaVnyKPmW+obRjo49MFx0g+rhfSz6mTePAagEZSlDPosq0b6AcSJa5gt48z3VP2ooXclyBs8vIkpGA==
 
 encoding@^0.1.11, encoding@^0.1.13:
   version "0.1.13"
@@ -8644,13 +8644,6 @@ minimalistic-assert@^1.0.0:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimatch@9.0.1:
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-9.0.1.tgz#8a555f541cf976c622daf078bb28f29fb927c253"
-  integrity sha512-0jWhJpD/MdhPXwPuiRkCbfYfSKp2qnn2eOc279qI7f+osl/l+prKSrvhg157zSYvx/1nmgn2NqdT6k2Z7zSH9w==
-  dependencies:
-    brace-expansion "^2.0.1"
-
 minimatch@9.0.2, minimatch@^9.0.1:
   version "9.0.2"
   resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-9.0.2.tgz#397e387fff22f6795844d00badc903a3d5de7057"
@@ -11110,10 +11103,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@35.159.7:
-  version "35.159.7"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-35.159.7.tgz#af431c0b7c84e3175960b536b1d44cbcf071db4f"
-  integrity sha512-O1LCnyqa1cxa12eMYk16YcETNoFoOwmRAv8S+FTha+iJLR8FdNxLVooFnUbxcmwlpn20GUgnjKV+w8hJFAKnbA==
+renovate@36.1.7:
+  version "36.1.7"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-36.1.7.tgz#5254e0a06553bfd24a526e0f25e6929d188a1dc2"
+  integrity sha512-hYmSRLIaw8+9jzkkDkKWBLB4SZWcRlBWsEJmHdWhvoKxy0MAHUHOV47iT6PNBYGKLezxYxwEnb8Wk85e/dylMQ==
   dependencies:
     "@aws-sdk/client-codecommit" "3.348.0"
     "@aws-sdk/client-ec2" "3.348.0"
@@ -11121,7 +11114,7 @@ renovate@35.159.7:
     "@aws-sdk/client-rds" "3.348.0"
     "@aws-sdk/client-s3" "3.348.0"
     "@breejs/later" "4.1.0"
-    "@cdktf/hcl2json" "0.17.0"
+    "@cdktf/hcl2json" "0.17.1"
     "@cheap-glitch/mi-cron" "1.0.1"
     "@iarna/toml" "3.0.0"
     "@opentelemetry/api" "1.4.1"
@@ -11136,7 +11129,7 @@ renovate@35.159.7:
     "@opentelemetry/semantic-conventions" "1.14.0"
     "@qnighy/marshal" "0.1.3"
     "@renovatebot/osv-offline" "1.3.0"
-    "@renovatebot/pep440" "2.1.18"
+    "@renovatebot/pep440" "2.1.19"
     "@renovatebot/ruby-semver" "3.0.3"
     "@sindresorhus/is" "4.6.0"
     "@types/ms" "0.7.31"
@@ -11160,11 +11153,11 @@ renovate@35.159.7:
     delay "5.0.0"
     dequal "2.0.3"
     detect-indent "6.1.0"
-    editorconfig "1.0.3"
+    editorconfig "2.0.0"
     email-addresses "5.0.0"
     emoji-regex "10.2.1"
-    emojibase "6.1.0"
-    emojibase-regex "6.0.1"
+    emojibase "15.0.0"
+    emojibase-regex "15.0.0"
     extract-zip "2.0.1"
     find-packages "10.0.4"
     find-up "5.0.0"
