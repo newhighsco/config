@@ -5,7 +5,7 @@ module.exports = {
   env: {
     jest: true
   },
-  extends: ['standard-with-typescript', 'plugin:prettier/recommended'],
+  extends: ['standard', 'plugin:prettier/recommended'],
   plugins: ['simple-import-sort'],
   rules: {
     'simple-import-sort/imports': 'error',
@@ -24,6 +24,7 @@ module.exports = {
     // Typescript
     {
       files: ['*.ts?(x)'],
+      extends: ['standard-with-typescript', 'plugin:prettier/recommended'],
       parserOptions: {
         project: './tsconfig.json'
       },
