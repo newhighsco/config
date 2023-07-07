@@ -1,0 +1,34 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended"],
+  "packageRules": [
+    {
+      "automerge": true,
+      "matchUpdateTypes": [
+        "minor",
+        "patch",
+        "pin",
+        "digest",
+        "lockFileMaintenance",
+        "bump"
+      ]
+    },
+    {
+      "description": "Group New High Score packages together",
+      "groupName": "newhighsco packages",
+      "groupSlug": "newhighsco",
+      "matchPackagePatterns": ["^@newhighsco"]
+    },
+    {
+      "description": "Group Next.js packages and plugins together",
+      "extends": ["monorepo:nextjs"],
+      "groupName": "nextjs packages",
+      "groupSlug": "nextjs",
+      "matchPackagePatterns": ["^next"]
+    }
+  ],
+  "postUpdateOptions": ["yarnDedupeHighest"],
+  "prCreation": "not-pending",
+  "reviewers": ["team:reviewers"],
+  "stopUpdatingLabel": "blocked"
+}

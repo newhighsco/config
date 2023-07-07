@@ -4,7 +4,7 @@
   "version": "1.9.0",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
-  "private": false,
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/newhighsco/config.git",
@@ -16,56 +16,14 @@
   },
   "files": [],
   "scripts": {
-    "test": "renovate-config-validator"
+    "test": "RENOVATE_CONFIG_FILE=default.json renovate-config-validator"
   },
   "devDependencies": {
     "renovate": "36.3.0"
   },
-  "renovate-config": {
-    "default": {
-      "extends": [
-        "config:base"
-      ],
-      "packageRules": [
-        {
-          "automerge": true,
-          "matchUpdateTypes": [
-            "minor",
-            "patch",
-            "pin",
-            "digest",
-            "lockFileMaintenance",
-            "bump"
-          ]
-        },
-        {
-          "description": "Group New High Score packages together",
-          "groupName": "newhighsco packages",
-          "groupSlug": "newhighsco",
-          "matchPackagePatterns": [
-            "^@newhighsco"
-          ]
-        },
-        {
-          "description": "Group Next.js packages and plugins together",
-          "extends": [
-            "monorepo:nextjs"
-          ],
-          "groupName": "nextjs packages",
-          "groupSlug": "nextjs",
-          "matchPackagePatterns": [
-            "^next"
-          ]
-        }
-      ],
-      "postUpdateOptions": [
-        "yarnDedupeHighest"
-      ],
-      "prCreation": "not-pending",
-      "reviewers": [
-        "team:reviewers"
-      ],
-      "stopUpdatingLabel": "blocked"
-    }
+  "renovate": {
+    "extends": [
+      "github>newhighsco/config//packages/renovate-config/default"
+    ]
   }
 }
