@@ -23,13 +23,13 @@
     "stylelint-config-css-modules": "4.2.0",
     "stylelint-config-prettier": "9.0.5",
     "stylelint-config-standard-scss": "10.0.0",
-    "stylelint-prettier": "3.0.0"
+    "stylelint-prettier": "4.0.0"
   },
   "devDependencies": {
     "stylelint": "15.10.1"
   },
   "peerDependencies": {
-    "prettier": "2.8.8",
+    "prettier": "3.0.0",
     "stylelint": "15.10.1"
   }
 }
