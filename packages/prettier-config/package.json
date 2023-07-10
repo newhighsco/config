@@ -17,12 +17,12 @@
   "main": "prettier.config.js",
   "files": [],
   "scripts": {
-    "test": "prettier --config prettier.config.js --loglevel debug --check __tests__"
+    "test": "prettier --config prettier.config.js --log-level debug --check __tests__"
   },
   "devDependencies": {
-    "prettier": "2.8.8"
+    "prettier": "3.0.0"
   },
   "peerDependencies": {
-    "prettier": "2.8.8"
+    "prettier": "3.0.0"
   }
 }
