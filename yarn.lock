@@ -2094,15 +2094,15 @@
     luxon "^3.3.0"
     node-fetch "^2.6.12"
 
-"@renovatebot/pep440@2.1.19":
-  version "2.1.19"
-  resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.1.19.tgz#866d7a783e5ccc5a3437183a05d80fa57cb14eff"
-  integrity sha512-ekk2lUPUmPUiR7teeU2N/5GGQEY1pTQiWN20GNjzE4BPyaF+UhvsSCM3i26gqnCD0njv+i7yiJa5j9dXkRBzeQ==
+"@renovatebot/pep440@2.1.20":
+  version "2.1.20"
+  resolved "https://registry.yarnpkg.com/@renovatebot/pep440/-/pep440-2.1.20.tgz#102eefb0653607f43d3686519e52ff87d3d92f13"
+  integrity sha512-Z6SLxecPwPUbzdfMVenF04fogoB0LVmaBa4IMzc3s2yV+bbDQUQTFhsmMhqxFfK2iRCKky3vDHspNFQ+gdThMQ==
 
-"@renovatebot/ruby-semver@3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-3.0.4.tgz#add0c4c9947e8074a2b3f635a433fee67ae9aaa0"
-  integrity sha512-PeHO38jI+XUqtg8K0l88KWjTFC2VSyffOqaHRAIzuvnIGDNnSVvljhYQ/MsRG80ABIPcTASDvGwMvat89SinjQ==
+"@renovatebot/ruby-semver@3.0.5":
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@renovatebot/ruby-semver/-/ruby-semver-3.0.5.tgz#ad31659506f9f7512db1d468ff6a0b30ad484451"
+  integrity sha512-SIqhMZ7cF+PpqYfvMRnfRRsldEcEkDuHPiBNNr+q/aAEqaKxk4xC+kh8nYtCQ80ridA8j2QPqgyGCRuRgHHCiA==
 
 "@seald-io/binary-search-tree@^1.0.3":
   version "1.0.3"
@@ -11180,10 +11180,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@36.7.1:
-  version "36.7.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-36.7.1.tgz#6b367a428005a2e17199574342314bc382c76655"
-  integrity sha512-zNTXY2nfIYS2xq6MK4HdIsxfDGfWh2WoofglKFny5vzg1qd0VOwCVneH/EGbkTXJ8TeJuMh6WEg8sczrP7XTng==
+renovate@36.7.5:
+  version "36.7.5"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-36.7.5.tgz#9c5376b7a48355d475d412d036d423b657fd9055"
+  integrity sha512-tAyEPmeVRteK7uDmfpEDo/QGdd1zgS+eKoppMlNUntJkXx8kH3X4cnlWzVMxWbc7gH8c6LfxLw//BW0ZjzNH/A==
   dependencies:
     "@aws-sdk/client-codecommit" "3.363.0"
     "@aws-sdk/client-ec2" "3.363.0"
@@ -11206,8 +11206,8 @@ renovate@36.7.1:
     "@opentelemetry/semantic-conventions" "1.14.0"
     "@qnighy/marshal" "0.1.3"
     "@renovatebot/osv-offline" "1.3.1"
-    "@renovatebot/pep440" "2.1.19"
-    "@renovatebot/ruby-semver" "3.0.4"
+    "@renovatebot/pep440" "2.1.20"
+    "@renovatebot/ruby-semver" "3.0.5"
     "@sindresorhus/is" "4.6.0"
     "@types/ms" "0.7.31"
     "@types/tmp" "0.2.3"
