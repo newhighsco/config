@@ -882,11 +882,6 @@
   dependencies:
     fs-extra "^11.1.1"
 
-"@cheap-glitch/mi-cron@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@cheap-glitch/mi-cron/-/mi-cron-1.0.1.tgz#111f4ce746c269aedf74533ac806881763a68f99"
-  integrity sha512-kxl7vhg+SUgyHRn22qVbR9MfSm5CzdlYZDJTbGemqFFi/Jmno/hdoQIvBIPoqFY9dcPyxzOUNRRFn6x88UQMpw==
-
 "@chevrotain/types@^9.1.0":
   version "9.1.0"
   resolved "https://registry.yarnpkg.com/@chevrotain/types/-/types-9.1.0.tgz#689f2952be5ad9459dae3c8e9209c0f4ec3c5ec4"
@@ -4509,6 +4504,13 @@ create-require@^1.1.0:
   resolved "https://registry.yarnpkg.com/create-require/-/create-require-1.1.1.tgz#c1d7e8f1e5f6cfc9ff65f9cd352d37348756c333"
   integrity sha512-dcKFX3jn0MpIaXjisoRvexIJVEKzaq7z2rZKxf+MSr9TkdmHmsU4m2lcLojrj/FHl8mk5VxMmYA+ftRkP/3oKQ==
 
+cron-parser@4.8.1:
+  version "4.8.1"
+  resolved "https://registry.yarnpkg.com/cron-parser/-/cron-parser-4.8.1.tgz#47062ea63d21d78c10ddedb08ea4c5b6fc2750fb"
+  integrity sha512-jbokKWGcyU4gl6jAfX97E1gDpY12DJ1cLJZmoDzaAln/shZ+S3KBFBuA2Q6WeUN4gJf/8klnV1EfvhA2lK5IRQ==
+  dependencies:
+    luxon "^3.2.1"
+
 cross-spawn@7.0.3, cross-spawn@^7.0.0, cross-spawn@^7.0.2, cross-spawn@^7.0.3:
   version "7.0.3"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-7.0.3.tgz#f73a85b9d5d41d045551c177e2882d4ac85728a6"
@@ -8103,7 +8105,7 @@ lru-cache@^7.4.4, lru-cache@^7.5.1, lru-cache@^7.7.1:
   resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-10.0.0.tgz#b9e2a6a72a129d81ab317202d93c7691df727e61"
   integrity sha512-svTf/fzsKHffP42sujkO/Rjs37BCIsQVRCeNYIm9WN8rgT7ffoUnRtZCqU+6BqcSBdv8gwJeTz8knJpgACeQMw==
 
-luxon@3.3.0, luxon@^3.3.0:
+luxon@3.3.0, luxon@^3.2.1, luxon@^3.3.0:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/luxon/-/luxon-3.3.0.tgz#d73ab5b5d2b49a461c47cedbc7e73309b4805b48"
   integrity sha512-An0UCfG/rSiqtAIiBPO0Y9/zAnHUZxAMiCpTd5h2smgsj7GGmcenvrvww2cqNA8/4A5ZrD1gJpHN2mIHZQF+Mg==
@@ -11297,10 +11299,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@36.8.11:
-  version "36.8.11"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-36.8.11.tgz#ff082883ddf6315ae291f7e7875c3dcb6591ea53"
-  integrity sha512-0QrrX0DllScYno7udKI9vH6EzemdGDZIEO4Rvu2aYQP9mI/s40e4iGc4iUYA8uRKICWkxT+IbA17JFKISahRpQ==
+renovate@36.9.0:
+  version "36.9.0"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-36.9.0.tgz#d9d28b949f746d33e858cbbf59ee64c116fc66af"
+  integrity sha512-lSLd9c2DSTxJ2YTvinO9Wteirk8f5VplTg+ydfM+kvwstHZkYKxfDWGbuTRdyusRQJUxX8hzbV7vrzKvUGcW3g==
   dependencies:
     "@aws-sdk/client-codecommit" "3.363.0"
     "@aws-sdk/client-ec2" "3.363.0"
@@ -11309,7 +11311,6 @@ renovate@36.8.11:
     "@aws-sdk/client-s3" "3.363.0"
     "@breejs/later" "4.1.0"
     "@cdktf/hcl2json" "0.17.1"
-    "@cheap-glitch/mi-cron" "1.0.1"
     "@iarna/toml" "3.0.0"
     "@opentelemetry/api" "1.4.1"
     "@opentelemetry/context-async-hooks" "1.15.0"
@@ -11343,6 +11344,7 @@ renovate@36.8.11:
     clean-git-ref "2.0.1"
     commander "11.0.0"
     conventional-commits-detector "1.0.3"
+    cron-parser "4.8.1"
     deepmerge "4.3.1"
     dequal "2.0.3"
     detect-indent "6.1.0"
