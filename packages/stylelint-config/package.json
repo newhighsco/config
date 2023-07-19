@@ -20,7 +20,7 @@
     "test": "stylelint --config stylelint.config.js --formatter tap __tests__"
   },
   "dependencies": {
-    "stylelint-config-css-modules": "4.2.0",
+    "stylelint-config-css-modules": "4.3.0",
     "stylelint-config-prettier": "9.0.5",
     "stylelint-config-standard-scss": "10.0.0",
     "stylelint-prettier": "4.0.0"
