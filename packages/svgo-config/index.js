@@ -1,12 +1,4 @@
+/** @type import('@svgr/core').Config */
 module.exports = {
-  plugins: [
-    {
-      name: 'preset-default',
-      params: {
-        overrides: {
-          prefixIds: false
-        }
-      }
-    }
-  ]
+  plugins: ['preset-default', 'prefixIds']
 }
