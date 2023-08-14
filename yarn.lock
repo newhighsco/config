@@ -3274,13 +3274,11 @@ agent-base@~4.2.1:
   dependencies:
     es6-promisify "^5.0.0"
 
-agentkeepalive@4.3.0, agentkeepalive@^4.2.1:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/agentkeepalive/-/agentkeepalive-4.3.0.tgz#bb999ff07412653c1803b3ced35e50729830a255"
-  integrity sha512-7Epl1Blf4Sy37j4v9f9FjICCh4+KAQOyXgHEwlyBiAQLbhKdq/i2QQU3amQalS/wPhdPzDXPL5DMR5bkn+YeWg==
+agentkeepalive@4.5.0, agentkeepalive@^4.2.1:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/agentkeepalive/-/agentkeepalive-4.5.0.tgz#2673ad1389b3c418c5a20c5d7364f93ca04be923"
+  integrity sha512-5GG/5IbQQpC9FpkRGsSvZI5QYeSCzlJHdpBQntCsuTOxhKD8lqKhrleg2Yi7yvMIf82Ycmmqln9U8V9qwEiJew==
   dependencies:
-    debug "^4.1.0"
-    depd "^2.0.0"
     humanize-ms "^1.2.1"
 
 agentkeepalive@^3.4.1:
@@ -4666,7 +4664,7 @@ debug@3.1.0:
   dependencies:
     ms "2.0.0"
 
-debug@4, debug@^4.0.0, debug@^4.1.0, debug@^4.1.1, debug@^4.3.2, debug@^4.3.3, debug@^4.3.4:
+debug@4, debug@^4.0.0, debug@^4.1.1, debug@^4.3.2, debug@^4.3.3, debug@^4.3.4:
   version "4.3.4"
   resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.4.tgz#1319f6579357f2338d3337d2cdd4914bb5dcc865"
   integrity sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==
@@ -4809,11 +4807,6 @@ delegates@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/delegates/-/delegates-1.0.0.tgz#84c6e159b81904fdca59a0ef44cd870d31250f9a"
   integrity sha512-bd2L678uiWATM6m5Z1VzNCErI3jiGzt6HGY8OVICs40JQq/HALfbyNJmp0UDakEY4pMMaN0Ly5om/B1VI/+xfQ==
-
-depd@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/depd/-/depd-2.0.0.tgz#b696163cc757560d09cf22cc8fad1571b79e76df"
-  integrity sha512-g7nH6P6dyDioJogAAGprGpCtVImJhpPk/roCzdb3fIh61/s/nPsfR6onyMwkCAR/OlC3yBC0lESvUoQEAssIrw==
 
 deprecation@^2.0.0, deprecation@^2.3.1:
   version "2.3.1"
@@ -11337,10 +11330,10 @@ remark@13.0.0:
     remark-stringify "^9.0.0"
     unified "^9.1.0"
 
-renovate@36.42.1:
-  version "36.42.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-36.42.1.tgz#11fd20ae9b5a4da6a9a0734f121f1c039a4bc6dc"
-  integrity sha512-dBleAAYohlKyFRvkOUmaeBvzAjDh0fCcYx+oA9YEAgpLV6WSsnIlbAvfq7axVjbdSmQ5AKu/WsLpHHcMgqcfAA==
+renovate@36.42.4:
+  version "36.42.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-36.42.4.tgz#6699267eb7a36be7e5af56189b2f1479c5949e7c"
+  integrity sha512-LSyZn9sAkliySj+Vna3cxPRGJwkMcY/D/zBCM8mTYFOn2L5AmdGejEvPCV900PXdif3fdUu2bqkqt+waxqXPsw==
   dependencies:
     "@aws-sdk/client-codecommit" "3.363.0"
     "@aws-sdk/client-ec2" "3.363.0"
@@ -11369,7 +11362,7 @@ renovate@36.42.1:
     "@types/tmp" "0.2.3"
     "@yarnpkg/core" "3.5.2"
     "@yarnpkg/parsers" "2.5.1"
-    agentkeepalive "4.3.0"
+    agentkeepalive "4.5.0"
     aggregate-error "3.1.0"
     auth-header "1.0.0"
     aws4 "1.12.0"
