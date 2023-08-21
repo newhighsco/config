@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.0.58](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.57...@newhighsco/eslint-config@4.0.58) (2023-08-21)
+
+
+### Bug Fixes
+
+* **deps:** update typescript-eslint monorepo to v6 (major) ([#1255](https://github.com/newhighsco/config/issues/1255)) ([029095f](https://github.com/newhighsco/config/commit/029095fe69a942efde78a104d2193455858251ee))
+
 ## @newhighsco/eslint-config [4.0.57](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.56...@newhighsco/eslint-config@4.0.57) (2023-08-19)
 
 
