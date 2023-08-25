@@ -23,7 +23,7 @@ describe('Timer', () => {
   it('loads and displays greeting', async () => {
     const { container } = render(<FetchGreeting />)
 
-    userEvent.click(screen.getByText('Load Greeting'))
+    await userEvent.click(screen.getByText('Load Greeting'))
 
     await screen.findByRole('heading', { name: 'hello there' })
 
@@ -43,7 +43,7 @@ describe('Timer', () => {
 
     render(<FetchGreeting />)
 
-    userEvent.click(screen.getByText('Load Greeting'))
+    await userEvent.click(screen.getByText('Load Greeting'))
 
     screen.queryByRole('alert', { name: 'Oops, failed to fetch!' })
 
