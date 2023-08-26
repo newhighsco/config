@@ -45,10 +45,10 @@
   },
   "devDependencies": {
     "@types/react": "18.2.21",
-    "eslint": "8.47.0"
+    "eslint": "8.48.0"
   },
   "peerDependencies": {
-    "eslint": "8.47.0",
+    "eslint": "8.48.0",
     "prettier": "3.0.2"
   },
   "eslintConfig": {
