@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.3.28](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.27...@newhighsco/release-config@1.3.28) (2023-08-28)
+
+
+### Bug Fixes
+
+* **deps:** update semantic-release monorepo ([#1390](https://github.com/newhighsco/config/issues/1390)) ([c7ea444](https://github.com/newhighsco/config/commit/c7ea4442fa9b0ba151038d90195aa5d4312ed424))
+
 ## @newhighsco/release-config [1.3.27](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.26...@newhighsco/release-config@1.3.27) (2023-08-27)
 
 
