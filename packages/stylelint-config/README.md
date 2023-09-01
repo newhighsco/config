@@ -12,7 +12,7 @@ yarn add -D stylelint @newhighsco/stylelint-config
 
 ### Prettier
 
-`@newhighsco/eslint-config` should be used in conjunction with [Prettier](https://prettier.io/). See the [`@newhighsco/prettier-config` installation guide](https://github.com/newhighsco/prettier-config#installation) for more details.
+`@newhighsco/stylelint-config` should be used in conjunction with [Prettier](https://prettier.io/). See the [`@newhighsco/prettier-config` installation guide](https://github.com/newhighsco/prettier-config#installation) for more details.
 
 ## Usage
 New High Score stylelint rules come bundled in `@newhighsco/stylelint-config`. To enable these rules, add a `stylelint` property in your `package.json`. See the [stylelint configuration docs](https://stylelint.io/user-guide/configuration/) for more details.
