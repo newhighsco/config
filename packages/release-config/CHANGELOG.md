@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.3.37](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.36...@newhighsco/release-config@1.3.37) (2023-09-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/github to v9.0.7 ([#1441](https://github.com/newhighsco/config/issues/1441)) ([2b2c52c](https://github.com/newhighsco/config/commit/2b2c52cec0573bd1a1da2c4af4552c4dd07e48b1))
+
 ## @newhighsco/release-config [1.3.36](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.35...@newhighsco/release-config@1.3.36) (2023-09-23)
 
 
