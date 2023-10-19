@@ -44,7 +44,7 @@
     "eslint-plugin-tsc": "2.0.0"
   },
   "devDependencies": {
-    "@types/react": "18.2.29",
+    "@types/react": "18.2.30",
     "eslint": "8.51.0"
   },
   "peerDependencies": {
