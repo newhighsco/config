@@ -1,3 +1,10 @@
+## @newhighsco/stylelint-config [3.1.61](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.1.60...@newhighsco/stylelint-config@3.1.61) (2023-11-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-config-standard-scss to v11.1.0 ([#1507](https://github.com/newhighsco/config/issues/1507)) ([4b3f30a](https://github.com/newhighsco/config/commit/4b3f30ad8202026395becdc26663dfe47c36388e))
+
 ## @newhighsco/stylelint-config [3.1.60](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.1.59...@newhighsco/stylelint-config@3.1.60) (2023-10-17)
 
 
