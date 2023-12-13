@@ -61,3 +61,7 @@ export function buzz(bool?: boolean): string | undefined {
 export default {
   fizz: 'buzz'
 } as Record<string, unknown>
+
+export const decode = (value: string): string => {
+  return value.replace(/&#(\d+);/g, (_, entity) => String.fromCharCode(entity))
+}
