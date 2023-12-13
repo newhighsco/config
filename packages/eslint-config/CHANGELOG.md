@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.0.113](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.112...@newhighsco/eslint-config@4.0.113) (2023-12-13)
+
+
+### Bug Fixes
+
+* **eslint:** disable `@typescript-eslint/no-unsafe-argument` ([#1575](https://github.com/newhighsco/config/issues/1575)) ([3470c56](https://github.com/newhighsco/config/commit/3470c567b3783b5ad47d6b50212c255e95bbef16))
+
 ## @newhighsco/eslint-config [4.0.112](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.111...@newhighsco/eslint-config@4.0.112) (2023-12-12)
 
 
