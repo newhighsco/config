@@ -44,6 +44,7 @@ module.exports = {
             objectLiteralTypeAssertions: 'allow'
           }
         ],
+        '@typescript-eslint/no-unsafe-argument': 'off',
         '@typescript-eslint/prefer-nullish-coalescing': 'off',
         '@typescript-eslint/strict-boolean-expressions': 'off'
       }
