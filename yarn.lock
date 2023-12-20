@@ -10034,12 +10034,12 @@ strip-json-comments@~2.0.1:
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
   integrity sha512-4gB8na07fecVVkOI6Rs4e7T6NOTki5EmL7TUduTs6bu3EdnSycntVJ4re8kgZA+wx9IueI2Y11bfbgwtzuE0KQ==
 
-stylelint-config-css-modules@4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/stylelint-config-css-modules/-/stylelint-config-css-modules-4.3.0.tgz#aa2a861f9cf30c31676013db5412c15048ca97c3"
-  integrity sha512-KvIvhzzjpcjHKkGSPkQCueoZJHrb6sZ6GCtrQb/J45HQTBVwJAeNYXaSZZK6ZQOC7NxJ4v5kLxpQLDiCK6zzgw==
+stylelint-config-css-modules@4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/stylelint-config-css-modules/-/stylelint-config-css-modules-4.4.0.tgz#63dd08dfa9440d6c71cf2adbe668bc667958f4c4"
+  integrity sha512-J93MtxPjRzs/TjwbJ5y9SQy4iIqULXwL1CF1yx2tQCJfS/VZUcDAmoGOwqlLbhHXSQtZO5XQiA75NVWUR3KDCQ==
   optionalDependencies:
-    stylelint-scss "^5.0.0 || ^6.0.0"
+    stylelint-scss "^6.0.0"
 
 stylelint-config-prettier@9.0.5:
   version "9.0.5"
@@ -10082,7 +10082,7 @@ stylelint-prettier@5.0.0:
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
-"stylelint-scss@^5.0.0 || ^6.0.0", stylelint-scss@^6.0.0:
+stylelint-scss@^6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/stylelint-scss/-/stylelint-scss-6.0.0.tgz#bf6be6798d71c898484b7e97007d5ed69a89308d"
   integrity sha512-N1xV/Ef5PNRQQt9E45unzGvBUN1KZxCI8B4FgN/pMfmyRYbZGVN4y9qWlvOMdScU17c8VVCnjIHTVn38Bb6qSA==
