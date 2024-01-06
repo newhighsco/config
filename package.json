@@ -44,7 +44,7 @@
     "typescript": "5.3.3"
   },
   "resolutions": {
-    "@typescript-eslint/parser": "6.17.0"
+    "@typescript-eslint/parser": "6.18.0"
   },
   "commitlint": {
     "extends": [
