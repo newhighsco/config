@@ -20,9 +20,9 @@
     "test": "prettier --config prettier.config.js --log-level debug --check __tests__"
   },
   "devDependencies": {
-    "prettier": "3.2.3"
+    "prettier": "3.2.4"
   },
   "peerDependencies": {
-    "prettier": "3.2.3"
+    "prettier": "3.2.4"
   }
 }
