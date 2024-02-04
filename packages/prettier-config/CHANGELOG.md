@@ -1,3 +1,10 @@
+## @newhighsco/prettier-config [2.1.22](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.1.21...@newhighsco/prettier-config@2.1.22) (2024-02-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prettier to v3.2.5 ([#1640](https://github.com/newhighsco/config/issues/1640)) ([912d7ac](https://github.com/newhighsco/config/commit/912d7aceef3a393ce91d6a2883521081f8932c86))
+
 ## @newhighsco/prettier-config [2.1.21](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.1.20...@newhighsco/prettier-config@2.1.21) (2024-01-17)
 
 
