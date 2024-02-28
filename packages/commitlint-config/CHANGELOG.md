@@ -1,3 +1,10 @@
+## @newhighsco/commitlint-config [1.1.34](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.1.33...@newhighsco/commitlint-config@1.1.34) (2024-02-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @commitlint/cli to v19 ([#1671](https://github.com/newhighsco/config/issues/1671)) ([19ab80f](https://github.com/newhighsco/config/commit/19ab80fa206775a543e98cca47712e0ba8623caa))
+
 ## @newhighsco/commitlint-config [1.1.33](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.1.32...@newhighsco/commitlint-config@1.1.33) (2024-02-13)
 
 
