@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/commitlint-config",
   "description": "New High Score shareable config for commitlint",
-  "version": "1.1.34",
+  "version": "1.1.35",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
   "private": false,
