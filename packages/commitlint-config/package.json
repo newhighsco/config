@@ -20,6 +20,6 @@
     "test": "echo 'No test specified'"
   },
   "peerDependencies": {
-    "@commitlint/cli": "18.6.1"
+    "@commitlint/cli": "19.0.2"
   }
 }
