@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.3.60](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.59...@newhighsco/release-config@1.3.60) (2024-03-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/npm to v11.0.3 ([#1675](https://github.com/newhighsco/config/issues/1675)) ([6909687](https://github.com/newhighsco/config/commit/690968707ccdc5e3b653587a177509fcf1eccdbd))
+
 ## @newhighsco/release-config [1.3.59](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.58...@newhighsco/release-config@1.3.59) (2024-02-07)
 
 
