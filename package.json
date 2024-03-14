@@ -16,7 +16,7 @@
     "url": "https://github.com/newhighsco/config/issues"
   },
   "scripts": {
-    "prepare": "is-ci || husky install",
+    "prepare": "husky",
     "pretest": "yarn lint",
     "test": "yarn workspaces run test",
     "lint": "concurrently yarn:lint:*",
@@ -38,7 +38,6 @@
     "concurrently": "8.2.2",
     "eslint": "8.57.0",
     "husky": "9.0.11",
-    "is-ci": "3.0.1",
     "prettier": "3.2.5",
     "stylelint": "16.2.1",
     "typescript": "5.4.2"
