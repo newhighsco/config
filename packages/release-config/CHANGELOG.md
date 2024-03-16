@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.3.63](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.62...@newhighsco/release-config@1.3.63) (2024-03-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency semantic-release to v23.0.4 ([#1699](https://github.com/newhighsco/config/issues/1699)) ([c4948a4](https://github.com/newhighsco/config/commit/c4948a4e2c5437b7b66ab8441391fc2192e5936a))
+
 ## @newhighsco/release-config [1.3.62](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.61...@newhighsco/release-config@1.3.62) (2024-03-15)
 
 
