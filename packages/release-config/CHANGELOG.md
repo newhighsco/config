@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.3.66](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.65...@newhighsco/release-config@1.3.66) (2024-03-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/commit-analyzer to v12 ([#1705](https://github.com/newhighsco/config/issues/1705)) ([91b8210](https://github.com/newhighsco/config/commit/91b821066a430f9844addd4a8e026aa5e729f1d9))
+
 ## @newhighsco/release-config [1.3.65](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.64...@newhighsco/release-config@1.3.65) (2024-03-18)
 
 
