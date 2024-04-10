@@ -22,7 +22,7 @@
     "test": "echo 'No test specified'"
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "5.0.0",
+    "@fullhuman/postcss-purgecss": "6.0.0",
     "autoprefixer": "10.4.19",
     "caniuse-lite": "1.0.30001608",
     "postcss-flexbugs-fixes": "5.0.2",
