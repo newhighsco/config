@@ -2,7 +2,7 @@
   "name": "@newhighsco/browserslist-config",
   "description": "New High Score shareable config for Browserslist",
   "version": "1.1.0",
-  "author": "New High Score <hello@newhighsco.re>",
+  "author": "New High Score",
   "license": "ISC",
   "private": false,
   "repository": {

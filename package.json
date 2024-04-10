@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/config",
   "description": "New High Score shareable configs",
-  "author": "New High Score <hello@newhighsco.re>",
+  "author": "New High Score",
   "license": "ISC",
   "private": true,
   "workspaces": [
