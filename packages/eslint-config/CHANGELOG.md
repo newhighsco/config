@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.0.162](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.161...@newhighsco/eslint-config@4.0.162) (2024-04-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-n to v17.2.1 ([#1758](https://github.com/newhighsco/config/issues/1758)) ([98fd781](https://github.com/newhighsco/config/commit/98fd7813e6a8aabc58ba8c5d6d1933d2ac7d84f4))
+
 ## @newhighsco/eslint-config [4.0.161](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.160...@newhighsco/eslint-config@4.0.161) (2024-04-13)
 
 
