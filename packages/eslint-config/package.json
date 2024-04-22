@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/eslint-config",
   "description": "New High Score shareable config for ESLint",
-  "version": "4.0.165",
+  "version": "4.0.166",
   "author": "New High Score",
   "license": "ISC",
   "private": false,
