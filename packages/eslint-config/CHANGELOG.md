@@ -1,3 +1,12 @@
+## @newhighsco/eslint-config [4.0.184](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.183...@newhighsco/eslint-config@4.0.184) (2024-05-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-promise to v6.2.0 ([#1819](https://github.com/newhighsco/config/issues/1819)) ([545ca79](https://github.com/newhighsco/config/commit/545ca7926a1329a711f053660928b4f8dac7de18))
+* **deps:** update dependency eslint-plugin-react to v7.34.2 ([#1822](https://github.com/newhighsco/config/issues/1822)) ([dd1f02c](https://github.com/newhighsco/config/commit/dd1f02c283b954c4bc7fb56eea5e100286c95159))
+* **deps:** update typescript-eslint monorepo to v7.11.0 ([#1820](https://github.com/newhighsco/config/issues/1820)) ([4534024](https://github.com/newhighsco/config/commit/45340245d5182c559af325cdab0fadcdc843f0e4))
+
 ## @newhighsco/eslint-config [4.0.183](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.182...@newhighsco/eslint-config@4.0.183) (2024-05-21)
 
 
