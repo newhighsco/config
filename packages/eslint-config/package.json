@@ -30,7 +30,7 @@
     "eslint-plugin-cypress": "3.4.0",
     "eslint-plugin-import": "2.29.1",
     "eslint-plugin-json-format": "2.0.1",
-    "eslint-plugin-jsx-a11y": "6.8.0",
+    "eslint-plugin-jsx-a11y": "6.9.0",
     "eslint-plugin-mdx": "3.1.5",
     "eslint-plugin-n": "17.8.1",
     "eslint-plugin-prettier": "5.1.3",
