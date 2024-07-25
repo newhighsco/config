@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.0.195](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.194...@newhighsco/eslint-config@4.0.195) (2024-07-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-cypress to v3.4.0 ([#1852](https://github.com/newhighsco/config/issues/1852)) ([765c327](https://github.com/newhighsco/config/commit/765c327324496b384cfc46141632ed2df120c615))
+
 ## @newhighsco/eslint-config [4.0.194](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.193...@newhighsco/eslint-config@4.0.194) (2024-07-25)
 
 
