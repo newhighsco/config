@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.0.193](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.192...@newhighsco/eslint-config@4.0.193) (2024-07-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-simple-import-sort to v12.1.1 ([#1845](https://github.com/newhighsco/config/issues/1845)) ([17943bb](https://github.com/newhighsco/config/commit/17943bb311a24e8f4881af20432f5372282e534d))
+
 ## @newhighsco/eslint-config [4.0.192](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.191...@newhighsco/eslint-config@4.0.192) (2024-06-11)
 
 
