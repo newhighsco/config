@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.0.196](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.195...@newhighsco/eslint-config@4.0.196) (2024-07-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsx-a11y to v6.9.0 ([#1853](https://github.com/newhighsco/config/issues/1853)) ([161e235](https://github.com/newhighsco/config/commit/161e235777bac1916dd4a338e3018edceeeab9e8))
+
 ## @newhighsco/eslint-config [4.0.195](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.194...@newhighsco/eslint-config@4.0.195) (2024-07-25)
 
 
