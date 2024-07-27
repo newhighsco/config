@@ -24,7 +24,7 @@ module.exports = {
     // Typescript
     {
       files: ['*.ts?(x)'],
-      extends: ['standard-with-typescript', 'plugin:prettier/recommended'],
+      extends: ['love', 'plugin:prettier/recommended'],
       parserOptions: {
         project: './tsconfig.json'
       },
@@ -36,7 +36,6 @@ module.exports = {
             configFile: './tsconfig.json'
           }
         ],
-        // Overrides standard-with-typescript
         '@typescript-eslint/consistent-type-assertions': [
           'error',
           {
