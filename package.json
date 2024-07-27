@@ -1,102 +1,25 @@
 {
-  "name": "@newhighsco/config",
-  "description": "New High Score shareable configs",
-  "author": "New High Score",
-  "license": "ISC",
-  "private": true,
-  "workspaces": [
-    "packages/*"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/newhighsco/config.git"
-  },
-  "homepage": "https://github.com/newhighsco/config#readme",
-  "bugs": {
-    "url": "https://github.com/newhighsco/config/issues"
-  },
-  "scripts": {
-    "prepare": "husky",
-    "pretest": "yarn lint",
-    "test": "yarn workspaces run test",
-    "lint": "concurrently yarn:lint:*",
-    "lint:js": "eslint --ignore-path .gitignore .",
-    "lint:css": "stylelint --ignore-path .gitignore '**/*.?(s)css'",
-    "format": "concurrently yarn:format:*",
-    "format:js": "yarn lint:js --fix",
-    "format:css": "yarn lint:css --fix"
-  },
-  "devDependencies": {
-    "@commitlint/cli": "19.3.0",
-    "@newhighsco/commitlint-config": "*",
-    "@newhighsco/editor-config": "*",
-    "@newhighsco/eslint-config": "*",
-    "@newhighsco/prettier-config": "*",
-    "@newhighsco/release-config": "*",
-    "@newhighsco/stylelint-config": "*",
-    "@qiwi/multi-semantic-release": "7.1.1",
-    "concurrently": "8.2.2",
-    "eslint": "8.57.0",
-    "husky": "9.1.3",
-    "prettier": "3.3.3",
-    "stylelint": "16.7.0",
-    "typescript": "5.5.4"
-  },
-  "resolutions": {
-    "@typescript-eslint/parser": "7.17.0"
-  },
-  "commitlint": {
-    "extends": [
-      "@newhighsco"
-    ]
-  },
-  "eslintConfig": {
-    "extends": [
-      "@newhighsco"
-    ]
-  },
-  "prettier": "@newhighsco/prettier-config",
-  "release": {
-    "extends": "@newhighsco/release-config",
-    "branches": [
-      "main"
-    ]
-  },
-  "renovate": {
-    "extends": [
-      "local>newhighsco/.github:renovate-config"
-    ],
-    "packageRules": [
-      {
-        "extends": [
-          "monorepo:commitlint"
-        ],
-        "semanticCommitType": "fix"
-      },
-      {
-        "extends": [
-          "monorepo:semantic-release"
-        ],
-        "semanticCommitType": "fix"
-      },
-      {
-        "extends": [
-          "packages:eslint"
-        ],
-        "semanticCommitType": "fix"
-      },
-      {
-        "extends": [
-          "packages:stylelint"
-        ],
-        "semanticCommitType": "fix"
-      },
-      {
-        "packageNames": [
-          "prettier"
-        ],
-        "semanticCommitType": "fix"
-      }
-    ]
-  }
+  "extends": ["local>newhighsco/.github:renovate-config"],
+  "packageRules": [
+    {
+      "extends": ["monorepo:commitlint"],
+      "semanticCommitType": "fix"
+    },
+    {
+      "extends": ["monorepo:semantic-release"],
+      "semanticCommitType": "fix"
+    },
+    {
+      "extends": ["packages:eslint"],
+      "semanticCommitType": "fix"
+    },
+    {
+      "extends": ["packages:stylelint"],
+      "semanticCommitType": "fix"
+    },
+    {
+      "matchPackageNames": ["prettier"],
+      "semanticCommitType": "fix"
+    }
+  ]
 }
