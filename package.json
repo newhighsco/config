@@ -37,7 +37,7 @@
     "@qiwi/multi-semantic-release": "7.1.2",
     "concurrently": "8.2.2",
     "eslint": "8.57.0",
-    "husky": "9.1.4",
+    "husky": "9.1.5",
     "prettier": "3.3.3",
     "stylelint": "16.8.2",
     "typescript": "5.5.4"
