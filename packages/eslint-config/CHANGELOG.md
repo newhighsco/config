@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.0.214](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.213...@newhighsco/eslint-config@4.0.214) (2024-09-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-react to v7.36.0 ([#1930](https://github.com/newhighsco/config/issues/1930)) ([b4a4489](https://github.com/newhighsco/config/commit/b4a4489310e82e801bb74da1c762786e25a74ce5))
+
 ## @newhighsco/eslint-config [4.0.213](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.212...@newhighsco/eslint-config@4.0.213) (2024-09-04)
 
 
