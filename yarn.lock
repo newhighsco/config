@@ -336,10 +336,10 @@
     "@csstools/selector-specificity" "^4.0.0"
     postcss-selector-parser "^6.1.0"
 
-"@csstools/postcss-light-dark-function@^2.0.2":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@csstools/postcss-light-dark-function/-/postcss-light-dark-function-2.0.2.tgz#3f9850c7b031c30ce116f02b48174340708bc4f8"
-  integrity sha512-QAWWDJtJ7ywzhaMe09QwhjhuwB0XN04fW1MFwoEJMcYyiQub4a57mVFV+ngQEekUhsqe/EtKVCzyOx4q3xshag==
+"@csstools/postcss-light-dark-function@^2.0.3":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@csstools/postcss-light-dark-function/-/postcss-light-dark-function-2.0.3.tgz#f76840553140c7938a5bde369cfb9fd07804e8d3"
+  integrity sha512-8+lV5IKySJGtBXOwRVBPzwnTsVGKdsjnszsC/21DdKI+F279HcOfWgwTNpE0+NvX78bTlDD2kMqTaJ4T0VYzvA==
   dependencies:
     "@csstools/css-parser-algorithms" "^3.0.1"
     "@csstools/css-tokenizer" "^3.0.1"
@@ -8855,10 +8855,10 @@ postcss-place@^10.0.0:
   dependencies:
     postcss-value-parser "^4.2.0"
 
-postcss-preset-env@10.0.3:
-  version "10.0.3"
-  resolved "https://registry.yarnpkg.com/postcss-preset-env/-/postcss-preset-env-10.0.3.tgz#e634f5d402521a66c61526c70bf265d331c4a183"
-  integrity sha512-1nrZ4IeBXEEj53IMoRKE+k/Ub6nQb3gFjaxTeyUNG5zv3JQclFDY5GKKhAi3nsa1lnPMWgzQX+/1y6wUt2+I7Q==
+postcss-preset-env@10.0.4:
+  version "10.0.4"
+  resolved "https://registry.yarnpkg.com/postcss-preset-env/-/postcss-preset-env-10.0.4.tgz#7f1ce1f0c757f81dde97f6f803ca856f48f5b858"
+  integrity sha512-FKwHOV7NHxu7PNhAhhOSwbAQrHTcvF/yfrObNMr4iTljmPYzsM7eRr9sYhSFq2if1GahrAv1SmmhFrcNWdFIuA==
   dependencies:
     "@csstools/postcss-cascade-layers" "^5.0.0"
     "@csstools/postcss-color-function" "^4.0.2"
@@ -8872,7 +8872,7 @@ postcss-preset-env@10.0.3:
     "@csstools/postcss-ic-unit" "^4.0.0"
     "@csstools/postcss-initial" "^2.0.0"
     "@csstools/postcss-is-pseudo-class" "^5.0.0"
-    "@csstools/postcss-light-dark-function" "^2.0.2"
+    "@csstools/postcss-light-dark-function" "^2.0.3"
     "@csstools/postcss-logical-float-and-clear" "^3.0.0"
     "@csstools/postcss-logical-overflow" "^2.0.0"
     "@csstools/postcss-logical-overscroll-behavior" "^2.0.0"
