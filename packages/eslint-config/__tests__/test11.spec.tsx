@@ -29,9 +29,7 @@ describe('Timer', () => {
 
     expect(screen.getByRole('button')).toHaveAttribute('disabled')
     expect(container.firstChild).toBeNull()
-
-    // eslint-disable-next-line testing-library/prefer-presence-queries
-    expect(screen.getByText('Fizz')).not.toBeInTheDocument()
+    expect(screen.queryByText('Fizz')).not.toBeInTheDocument()
   })
 
   it('handles server error', async () => {

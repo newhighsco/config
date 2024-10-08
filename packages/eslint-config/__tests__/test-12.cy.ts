@@ -37,9 +37,6 @@ describe('Test fails', () => {
     cy.visit('index.html')
     cy.get('button#does-not-exist', { timeout: 1000 }).click()
 
-    // eslint-disable-next-line cypress/no-unnecessary-waiting
-    cy.wait(1000)
-
     // note: after the cy.get fails and the test fails
     // the remaining commands are NOT executed
     // thus this failing assertion never gets to run
