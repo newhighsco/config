@@ -107,7 +107,7 @@
       {
         "description": "Pin `@typescript-eslint/*` to v7.18 as update requires ESLint v9",
         "matchPackageNames": [
-          "@typescript-eslint"
+          "/^@typescript-eslint/"
         ],
         "allowedVersions": "<8"
       }
