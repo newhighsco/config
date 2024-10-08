@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.0.222](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.221...@newhighsco/eslint-config@4.0.222) (2024-10-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-love to v44 ([#1962](https://github.com/newhighsco/config/issues/1962)) ([ae43438](https://github.com/newhighsco/config/commit/ae4343875515aa995b117da0b2da35cc8423635d))
+
 ## @newhighsco/eslint-config [4.0.221](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.220...@newhighsco/eslint-config@4.0.221) (2024-10-03)
 
 
