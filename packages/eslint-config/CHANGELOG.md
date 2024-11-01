@@ -1,3 +1,13 @@
+## @newhighsco/eslint-config [4.0.230](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.229...@newhighsco/eslint-config@4.0.230) (2024-11-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsx-a11y to v6.10.2 ([#1983](https://github.com/newhighsco/config/issues/1983)) ([9b55f7f](https://github.com/newhighsco/config/commit/9b55f7f235af213bb93f6d7a5a1e51eafedc1416))
+* **deps:** update dependency eslint-plugin-n to v17.12.0 ([#1989](https://github.com/newhighsco/config/issues/1989)) ([29023eb](https://github.com/newhighsco/config/commit/29023eb341bf7e208fff500d6955024901f128e3))
+* **deps:** update dependency eslint-plugin-react to v7.37.2 ([#1979](https://github.com/newhighsco/config/issues/1979)) ([225179d](https://github.com/newhighsco/config/commit/225179da586632e05f483d21b6e35521a146a2ff))
+* **deps:** update dependency eslint-plugin-storybook to v0.10.1 ([#1977](https://github.com/newhighsco/config/issues/1977)) ([1a9acd2](https://github.com/newhighsco/config/commit/1a9acd2d7fbc2c3f6ed2ebc47e898becbac94425))
+
 ## @newhighsco/eslint-config [4.0.229](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.228...@newhighsco/eslint-config@4.0.229) (2024-10-21)
 
 
