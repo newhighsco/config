@@ -1,3 +1,16 @@
+## @newhighsco/postcss-config [3.5.285](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.284...@newhighsco/postcss-config@3.5.285) (2024-11-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency caniuse-lite to v1.0.30001671 ([#1982](https://github.com/newhighsco/config/issues/1982)) ([6b97bd9](https://github.com/newhighsco/config/commit/6b97bd9fc7da0753d4e7203f64e325dbacbaaa7d))
+* **deps:** update dependency caniuse-lite to v1.0.30001672 ([#1984](https://github.com/newhighsco/config/issues/1984)) ([d2f9d5b](https://github.com/newhighsco/config/commit/d2f9d5b4472fa0142e21d15bd1dc8cff47919693))
+* **deps:** update dependency caniuse-lite to v1.0.30001673 ([#1985](https://github.com/newhighsco/config/issues/1985)) ([2173483](https://github.com/newhighsco/config/commit/21734833e11967bace94cf48b419e24f59e51808))
+* **deps:** update dependency caniuse-lite to v1.0.30001674 ([#1986](https://github.com/newhighsco/config/issues/1986)) ([2c47e29](https://github.com/newhighsco/config/commit/2c47e297a6af82b5e6b7a064c2ae48f71fcffacc))
+* **deps:** update dependency caniuse-lite to v1.0.30001675 ([#1988](https://github.com/newhighsco/config/issues/1988)) ([387b8ae](https://github.com/newhighsco/config/commit/387b8aeac0a6477894898aa1efa8483980a45f88))
+* **deps:** update dependency caniuse-lite to v1.0.30001676 ([#1990](https://github.com/newhighsco/config/issues/1990)) ([6eb0f37](https://github.com/newhighsco/config/commit/6eb0f37545ca33a0d3414f3f5f7adf6fb7188035))
+* **deps:** update dependency postcss-preset-env to v10.0.8 ([#1980](https://github.com/newhighsco/config/issues/1980)) ([5f7398f](https://github.com/newhighsco/config/commit/5f7398fcf0fac0cd884ba4f53601481faba4045d))
+
 ## @newhighsco/postcss-config [3.5.284](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.283...@newhighsco/postcss-config@3.5.284) (2024-10-16)
 
 
