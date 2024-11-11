@@ -29,6 +29,6 @@
     "postcss-preset-env": "10.0.9"
   },
   "peerDependencies": {
-    "postcss": "8.4.47"
+    "postcss": "8.4.48"
   }
 }
