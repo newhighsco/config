@@ -1,3 +1,10 @@
+## @newhighsco/postcss-config [3.5.295](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.294...@newhighsco/postcss-config@3.5.295) (2024-11-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @fullhuman/postcss-purgecss to v7 ([#2012](https://github.com/newhighsco/config/issues/2012)) ([d236f63](https://github.com/newhighsco/config/commit/d236f63d49822610001e1fea11145b961b5daa51))
+
 ## @newhighsco/postcss-config [3.5.294](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.293...@newhighsco/postcss-config@3.5.294) (2024-11-24)
 
 
