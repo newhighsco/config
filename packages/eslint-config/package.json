@@ -48,7 +48,7 @@
   },
   "peerDependencies": {
     "eslint": "8.57.1",
-    "prettier": "3.4.1"
+    "prettier": "3.4.2"
   },
   "eslintConfig": {
     "root": true,
