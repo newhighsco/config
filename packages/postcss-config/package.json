@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/postcss-config",
   "description": "New High Score shareable config for PostCSS",
-  "version": "3.5.297",
+  "version": "3.5.298",
   "author": "New High Score",
   "license": "ISC",
   "private": false,
