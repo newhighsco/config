@@ -1,3 +1,10 @@
+## @newhighsco/postcss-config [3.5.301](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.300...@newhighsco/postcss-config@3.5.301) (2024-12-13)
+
+
+### Bug Fixes
+
+* **postcss-config:** revert purgecss v7 ([#2036](https://github.com/newhighsco/config/issues/2036)) ([9300043](https://github.com/newhighsco/config/commit/9300043e0178ec56cf213e1faeac4ac65d9b5a16))
+
 ## @newhighsco/postcss-config [3.5.300](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.299...@newhighsco/postcss-config@3.5.300) (2024-12-13)
 
 
