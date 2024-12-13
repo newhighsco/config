@@ -112,5 +112,10 @@
         "allowedVersions": "<8"
       }
     ]
+  },
+  "stylelint": {
+    "extends": [
+      "@newhighsco/stylelint-config"
+    ]
   }
 }

@@ -19,14 +19,20 @@
     "purgecss.js"
   ],
   "scripts": {
-    "test": "echo 'No test specified'"
+    "pretest": "rm -rf dist",
+    "test": "concurrently yarn:test:*",
+    "test:index": "postcss __tests__/*.css --config __tests__/config --output dist/index.css",
+    "test:purge": "postcss __tests__/*.css --config __tests__/config/purgecss --output dist/purgecss.css"
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "7.0.2",
+    "@fullhuman/postcss-purgecss": "6.0.0",
     "autoprefixer": "10.4.20",
     "caniuse-lite": "1.0.30001688",
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-preset-env": "10.1.1"
+  },
+  "devDependencies": {
+    "postcss-cli": "11.0.0"
   },
   "peerDependencies": {
     "postcss": "8.4.49"
