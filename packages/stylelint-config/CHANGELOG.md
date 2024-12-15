@@ -1,3 +1,10 @@
+## @newhighsco/stylelint-config [3.1.98](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.1.97...@newhighsco/stylelint-config@3.1.98) (2024-12-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint to v16.12.0 ([#2041](https://github.com/newhighsco/config/issues/2041)) ([0a0e58b](https://github.com/newhighsco/config/commit/0a0e58b143bfa5d8329073ce74dd6688af67bec0))
+
 ## @newhighsco/stylelint-config [3.1.97](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.1.96...@newhighsco/stylelint-config@3.1.97) (2024-12-04)
 
 
