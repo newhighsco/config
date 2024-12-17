@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.3.96](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.95...@newhighsco/release-config@1.3.96) (2024-12-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/release-notes-generator to v14.0.2 ([#2043](https://github.com/newhighsco/config/issues/2043)) ([0c541b5](https://github.com/newhighsco/config/commit/0c541b5826a4753c98c3e1730ef6e18cbe0cc460))
+
 ## @newhighsco/release-config [1.3.95](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.94...@newhighsco/release-config@1.3.95) (2024-11-06)
 
 
