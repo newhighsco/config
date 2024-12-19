@@ -1,8 +1,11 @@
+const postcssFlexbugsFixes = require('postcss-flexbugs-fixes')
+const postcssPresetEnv = require('postcss-preset-env')
+
 /** @type {import('postcss-load-config').Config} */
 module.exports = {
-  plugins: {
-    'postcss-flexbugs-fixes': {},
-    'postcss-preset-env': {
+  plugins: [
+    postcssFlexbugsFixes(),
+    postcssPresetEnv({
       autoprefixer: {
         flexbox: 'no-2009'
       },
@@ -10,6 +13,6 @@ module.exports = {
       features: {
         'custom-properties': false
       }
-    }
-  }
+    })
+  ]
 }
