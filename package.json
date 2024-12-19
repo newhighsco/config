@@ -110,6 +110,13 @@
           "/^@typescript-eslint/"
         ],
         "allowedVersions": "<8"
+      },
+      {
+        "description": "Pin `eslint-plugin-cypress` to v3 as update requires ESLint v9",
+        "matchPackageNames": [
+          "eslint-plugin-cypress"
+        ],
+        "allowedVersions": "<4"
       }
     ]
   },
