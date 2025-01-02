@@ -1,3 +1,13 @@
+# @newhighsco/stylelint-config [4.0.0](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.1.98...@newhighsco/stylelint-config@4.0.0) (2025-01-02)
+
+
+* feat(stylelint-config)!: add `stylelint-order` plugin ([#2054](https://github.com/newhighsco/config/issues/2054)) ([de1c142](https://github.com/newhighsco/config/commit/de1c142df4775573a69020c9d00a59e0ca511263))
+
+
+### BREAKING CHANGES
+
+* Enforces ordering of CSS/SCSS files
+
 ## @newhighsco/stylelint-config [3.1.98](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@3.1.97...@newhighsco/stylelint-config@3.1.98) (2024-12-15)
 
 
