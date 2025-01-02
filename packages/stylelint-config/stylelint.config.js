@@ -4,6 +4,7 @@ module.exports = {
     'stylelint-prettier/recommended',
     'stylelint-config-css-modules'
   ],
+  plugins: ['stylelint-order'],
   rules: {
     // Handle collision between SCSS and CSS Modules rules
     // See: https://github.com/pascalduez/stylelint-config-css-modules/issues/6#issuecomment-640194712
@@ -27,6 +28,7 @@ module.exports = {
           'composes'
         ]
       }
-    ]
+    ],
+    'order/order': ['custom-properties', 'declarations', 'at-rules', 'rules']
   }
 }
