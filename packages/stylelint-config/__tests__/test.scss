@@ -5,8 +5,22 @@
 
 $avatar-width-small: functions.rem(48);
 
+@mixin clearfix {
+  &::before,
+  &::after {
+    content: '';
+    display: table;
+  }
+
+  &::after {
+    clear: both;
+  }
+}
+
 .test {
   content: 'test';
+
+  @include clearfix;
 }
 
 /**
