@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.3.97](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.96...@newhighsco/release-config@1.3.97) (2025-01-03)
+
+
+### Bug Fixes
+
+* **deps:** update semantic-release monorepo ([#2055](https://github.com/newhighsco/config/issues/2055)) ([6d91bf0](https://github.com/newhighsco/config/commit/6d91bf019de5f25c1f3604e17e5ca290919638b2))
+
 ## @newhighsco/release-config [1.3.96](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.95...@newhighsco/release-config@1.3.96) (2024-12-17)
 
 
