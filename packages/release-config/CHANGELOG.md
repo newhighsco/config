@@ -1,3 +1,10 @@
+# @newhighsco/release-config [1.4.0](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.97...@newhighsco/release-config@1.4.0) (2025-01-10)
+
+
+### Features
+
+* **release-config:** support additional GitHub assets ([#2061](https://github.com/newhighsco/config/issues/2061)) ([b3af7b9](https://github.com/newhighsco/config/commit/b3af7b9589516965d18fa0e1b97f7f0a143e6a09))
+
 ## @newhighsco/release-config [1.3.97](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.96...@newhighsco/release-config@1.3.97) (2025-01-03)
 
 
