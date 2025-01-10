@@ -1,3 +1,6 @@
+const assets = process.env.GH_ASSETS || process.env.GITHUB_ASSETS || []
+
+/** @type {import('semantic-release').GlobalConfig} */
 module.exports = {
   plugins: [
     [
@@ -8,7 +11,7 @@ module.exports = {
     ],
     '@semantic-release/release-notes-generator',
     '@semantic-release/changelog',
-    '@semantic-release/github',
+    ['@semantic-release/github', { assets }],
     '@semantic-release/npm',
     [
       '@semantic-release/git',
