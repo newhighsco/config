@@ -1,4 +1,6 @@
-const assets = process.env.GH_ASSETS || process.env.GITHUB_ASSETS || []
+const assets = (process.env.GH_ASSETS || process.env.GITHUB_ASSETS)
+  ?.split(',')
+  ?.filter(Boolean)
 
 /** @type {import('semantic-release').GlobalConfig} */
 module.exports = {
