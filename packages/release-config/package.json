@@ -19,7 +19,7 @@
     "orb.js"
   ],
   "scripts": {
-    "test": "yarn semantic-release --dry-run --no-ci || true"
+    "test": "GITHUB_ASSETS=version.txt yarn semantic-release --dry-run --no-ci --debug"
   },
   "dependencies": {
     "@semantic-release/changelog": "6.0.3",
