@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.4.1](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.4.0...@newhighsco/release-config@1.4.1) (2025-01-24)
+
+
+### Bug Fixes
+
+* **release-config:** correctly support multiple assets ([#2076](https://github.com/newhighsco/config/issues/2076)) ([d34aaa5](https://github.com/newhighsco/config/commit/d34aaa52c682c2a6488a989642e6232ad3c3478b))
+
 # @newhighsco/release-config [1.4.0](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.3.97...@newhighsco/release-config@1.4.0) (2025-01-10)
 
 
