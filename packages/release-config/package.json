@@ -19,7 +19,7 @@
     "orb.js"
   ],
   "scripts": {
-    "test": "echo 'No test specified'"
+    "test": "yarn semantic-release --dry-run --no-ci || true"
   },
   "dependencies": {
     "@semantic-release/changelog": "6.0.3",
