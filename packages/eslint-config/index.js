@@ -26,7 +26,8 @@ module.exports = {
       files: ['*.ts?(x)'],
       extends: ['love', 'plugin:prettier/recommended'],
       parserOptions: {
-        project: './tsconfig.json'
+        project: './tsconfig.json',
+        warnOnUnsupportedTypeScriptVersion: false
       },
       plugins: ['tsc'],
       rules: {
