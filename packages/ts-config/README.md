@@ -22,7 +22,7 @@ New High Score Typescript rules come bundled in `@newhighsco/ts-config`. To enab
 ## Usage
 New High Score TypeScript rules come bundled in `@newhighsco/ts-config`. To enable these rules, add a `tsconfig.json` at the root of your project. See the [Typescript configuration docs](https://www.typescriptlang.org/tsconfig/) for more details.
 
-```json
+```jsonc
 // `tsconfig.json`
 {
   "extends": "@newhighsco/ts-config"
