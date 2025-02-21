@@ -34,6 +34,7 @@
     "@newhighsco/prettier-config": "*",
     "@newhighsco/release-config": "*",
     "@newhighsco/stylelint-config": "*",
+    "@newhighsco/ts-config": "*",
     "@qiwi/multi-semantic-release": "7.1.2",
     "concurrently": "9.1.2",
     "eslint": "8.57.1",

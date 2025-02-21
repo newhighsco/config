@@ -12,3 +12,4 @@ New High Score shareable configs:
 - :package: :recycle: [`renovate-config`](packages/renovate-config)
 - :package: :necktie: [`stylelint-config`](packages/stylelint-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/stylelint-config.svg)](https://www.npmjs.com/package/@newhighsco/stylelint-config)
 - :package: :gear: [`svgo-config`](packages/svgo-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/svgo-config.svg)](https://www.npmjs.com/package/@newhighsco/svgo-config)
+- :package: :keyboard: [`ts-config`](packages/ts-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/ts-config.svg)](https://www.npmjs.com/package/@newhighsco/ts-config)
