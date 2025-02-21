@@ -17,7 +17,7 @@
   "main": "stylelint.config.js",
   "files": [],
   "scripts": {
-    "test": "stylelint --config stylelint.config.js --formatter tap __tests__"
+    "test": "stylelint --config stylelint.config.js --custom-formatter stylelint-junit-formatter --output-file ../../reports/stylelint-config.xml __tests__"
   },
   "dependencies": {
     "stylelint-config-css-modules": "4.4.0",
@@ -27,7 +27,8 @@
     "stylelint-prettier": "5.0.3"
   },
   "devDependencies": {
-    "stylelint": "16.14.1"
+    "stylelint": "16.14.1",
+    "stylelint-junit-formatter": "0.2.2"
   },
   "peerDependencies": {
     "prettier": "3.5.1",

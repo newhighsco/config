@@ -16,7 +16,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "eslint --format tap __tests__"
+    "test": "eslint --format junit --output-file ../../reports/eslint-config.xml __tests__"
   },
   "files": [],
   "dependencies": {
