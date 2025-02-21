@@ -15,6 +15,7 @@
     "url": "https://github.com/newhighsco/config/issues"
   },
   "main": "tsconfig.json",
+  "files": [],
   "scripts": {
     "test": "tsc --noEmit --project ."
   }
