@@ -1,3 +1,5 @@
+## @newhighsco/eslint-config [4.1.1](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.1.0...@newhighsco/eslint-config@4.1.1) (2025-02-21)
+
 # @newhighsco/eslint-config [4.1.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.256...@newhighsco/eslint-config@4.1.0) (2025-02-20)
 
 
