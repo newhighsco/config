@@ -1,3 +1,10 @@
+# @newhighsco/eslint-config [4.1.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.256...@newhighsco/eslint-config@4.1.0) (2025-02-20)
+
+
+### Features
+
+* **eslint:** disable unsupported TypeScript version warning ([#2097](https://github.com/newhighsco/config/issues/2097)) ([9e606ee](https://github.com/newhighsco/config/commit/9e606eef727697a19e8c4cab60afc101c0ff0e0c))
+
 ## @newhighsco/eslint-config [4.0.256](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.0.255...@newhighsco/eslint-config@4.0.256) (2025-02-15)
 
 
