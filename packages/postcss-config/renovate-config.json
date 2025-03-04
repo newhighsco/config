@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "packageRules": [
+    {
+      "description": "Pin `@fullhuman/postcss-purgecss` to v6 - see https://github.com/FullHuman/purgecss/issues/1295",
+      "matchPackageNames": [
+        "@fullhuman/postcss-purgecss"
+      ],
+      "allowedVersions": "<7"
+    }
+  ]
+}

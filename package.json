@@ -68,6 +68,7 @@
       "local>newhighsco/.github:renovate-config",
       "local>newhighsco/config//packages/commitlint-config/renovate-config",
       "local>newhighsco/config//packages/eslint-config/renovate-config",
+      "local>newhighsco/config//packages/postcss-config/renovate-config",
       "local>newhighsco/config//packages/prettier-config/renovate-config",
       "local>newhighsco/config//packages/release-config/renovate-config",
       "local>newhighsco/config//packages/stylelint-config/renovate-config"
