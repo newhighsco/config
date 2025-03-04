@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.1.7](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.1.6...@newhighsco/eslint-config@4.1.7) (2025-03-04)
+
+
+### Reverts
+
+* Revert "fix(deps): update dependency eslint-plugin-n to v17.16.1 ([#2107](https://github.com/newhighsco/config/issues/2107))" ([#2111](https://github.com/newhighsco/config/issues/2111)) ([0ea55a4](https://github.com/newhighsco/config/commit/0ea55a461ee9955bf319b7d078e6f2fbe063de9a))
+
 ## @newhighsco/eslint-config [4.1.6](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.1.5...@newhighsco/eslint-config@4.1.6) (2025-03-03)
 
 
