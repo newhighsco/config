@@ -65,60 +65,12 @@
   },
   "renovate": {
     "extends": [
-      "local>newhighsco/.github:renovate-config"
-    ],
-    "packageRules": [
-      {
-        "extends": [
-          "monorepo:commitlint"
-        ],
-        "semanticCommitType": "fix"
-      },
-      {
-        "extends": [
-          "monorepo:semantic-release"
-        ],
-        "semanticCommitType": "fix"
-      },
-      {
-        "extends": [
-          "packages:eslint"
-        ],
-        "semanticCommitType": "fix"
-      },
-      {
-        "extends": [
-          "packages:stylelint"
-        ],
-        "semanticCommitType": "fix"
-      },
-      {
-        "packageNames": [
-          "prettier"
-        ],
-        "semanticCommitType": "fix"
-      },
-      {
-        "description": "Pin `eslint-config-love` to v44 as update requires ESLint v9",
-        "matchPackageNames": [
-          "eslint-config-love"
-        ],
-        "allowedVersions": "<45"
-      },
-      {
-        "description": "Pin `@typescript-eslint/*` to v7.18 as update requires ESLint v9",
-        "matchPackageNames": [
-          "/^@typescript-eslint/"
-        ],
-        "allowedVersions": "<8"
-      },
-      {
-        "description": "Pin `eslint-plugin-cypress` to v3 as update requires ESLint v9",
-        "matchPackageNames": [
-          "eslint-plugin-cypress"
-        ],
-        "allowedVersions": "<4"
-      }
+      "local>newhighsco/.github:renovate-config",
+      "local>newhighsco/config//packages/commitlint-config/renovate-config",
+      "local>newhighsco/config//packages/eslint-config/renovate-config",
+      "local>newhighsco/config//packages/prettier-config/renovate-config",
+      "local>newhighsco/config//packages/release-config/renovate-config",
+      "local>newhighsco/config//packages/stylelint-config/renovate-config"
     ]
   },
   "stylelint": {
