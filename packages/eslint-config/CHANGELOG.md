@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.1.18](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.1.17...@newhighsco/eslint-config@4.1.18) (2025-04-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-mdx to v3.4.0 ([#2139](https://github.com/newhighsco/config/issues/2139)) ([8d5a99f](https://github.com/newhighsco/config/commit/8d5a99f2956f83a64929e9edbde4d5e13591a859))
+
 ## @newhighsco/eslint-config [4.1.17](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.1.16...@newhighsco/eslint-config@4.1.17) (2025-04-06)
 
 
