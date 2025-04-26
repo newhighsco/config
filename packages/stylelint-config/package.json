@@ -27,11 +27,11 @@
     "stylelint-prettier": "5.0.3"
   },
   "devDependencies": {
-    "stylelint": "16.19.0",
+    "stylelint": "16.19.1",
     "stylelint-junit-formatter": "0.2.2"
   },
   "peerDependencies": {
     "prettier": "3.5.3",
-    "stylelint": "16.19.0"
+    "stylelint": "16.19.1"
   }
 }
