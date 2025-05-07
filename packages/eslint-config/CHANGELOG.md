@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.1.21](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.1.20...@newhighsco/eslint-config@4.1.21) (2025-05-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-prettier to v5.4.0 ([#2156](https://github.com/newhighsco/config/issues/2156)) ([34ec084](https://github.com/newhighsco/config/commit/34ec084919d710c70013c6acc65893bfe1cad649))
+
 ## @newhighsco/eslint-config [4.1.20](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.1.19...@newhighsco/eslint-config@4.1.20) (2025-04-23)
 
 
