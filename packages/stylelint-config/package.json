@@ -20,7 +20,7 @@
     "test": "stylelint --config stylelint.config.js --custom-formatter stylelint-junit-formatter --output-file ../../reports/stylelint-config.xml __tests__"
   },
   "dependencies": {
-    "stylelint-config-css-modules": "4.4.0",
+    "stylelint-config-css-modules": "4.4.1",
     "stylelint-config-prettier": "9.0.5",
     "stylelint-config-standard-scss": "15.0.1",
     "stylelint-order": "7.0.0",
