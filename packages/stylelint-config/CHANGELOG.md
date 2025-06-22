@@ -1,3 +1,10 @@
+## @newhighsco/stylelint-config [4.0.14](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@4.0.13...@newhighsco/stylelint-config@4.0.14) (2025-06-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-config-css-modules to v4.4.1 ([#2196](https://github.com/newhighsco/config/issues/2196)) ([47bb0eb](https://github.com/newhighsco/config/commit/47bb0ebb2b7e0920a9e10dc82ac23daa79ca6911))
+
 ## @newhighsco/stylelint-config [4.0.13](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@4.0.12...@newhighsco/stylelint-config@4.0.13) (2025-05-20)
 
 
