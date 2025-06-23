@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.1.34](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.1.33...@newhighsco/eslint-config@4.1.34) (2025-06-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-import to v2.32.0 ([#2197](https://github.com/newhighsco/config/issues/2197)) ([c180890](https://github.com/newhighsco/config/commit/c1808900e46096207046092156c8813d9320940d))
+
 ## @newhighsco/eslint-config [4.1.33](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.1.32...@newhighsco/eslint-config@4.1.33) (2025-06-19)
 
 
