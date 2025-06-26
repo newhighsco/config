@@ -1,7 +1,10 @@
 @use 'sass:color';
 @use 'functions';
+
 @import 'x.css';
 @import 'y.css';
+
+@value someValue: red;
 
 $avatar-width-small: functions.rem(48);
 
