@@ -17,6 +17,9 @@
   "main": "browserslist.config.js",
   "files": [],
   "scripts": {
-    "test": "echo 'No test specified'"
+    "test": "node __tests__"
+  },
+  "devDependencies": {
+    "browserslist": "4.25.1"
   }
 }
