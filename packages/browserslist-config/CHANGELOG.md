@@ -1,3 +1,13 @@
+# @newhighsco/browserslist-config [2.0.0](https://github.com/newhighsco/config/compare/@newhighsco/browserslist-config@1.1.0...@newhighsco/browserslist-config@2.0.0) (2025-06-27)
+
+
+* feat(browserslist)!: drop dead browsers ([#2203](https://github.com/newhighsco/config/issues/2203)) ([7c0ad77](https://github.com/newhighsco/config/commit/7c0ad7771503de7b8f90c2b3bb5d059da1753021))
+
+
+### BREAKING CHANGES
+
+* drops dead browsers and uses `defaults`
+
 # @newhighsco/browserslist-config [1.1.0](https://github.com/newhighsco/config/compare/@newhighsco/browserslist-config@1.0.0...@newhighsco/browserslist-config@1.1.0) (2022-03-28)
 
 
