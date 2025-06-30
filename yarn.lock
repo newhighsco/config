@@ -10554,10 +10554,10 @@ strip-json-comments@~2.0.1:
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
   integrity sha512-4gB8na07fecVVkOI6Rs4e7T6NOTki5EmL7TUduTs6bu3EdnSycntVJ4re8kgZA+wx9IueI2Y11bfbgwtzuE0KQ==
 
-stylelint-config-css-modules@4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/stylelint-config-css-modules/-/stylelint-config-css-modules-4.5.0.tgz#cf6defefda707e4625cc478d1c79f0408ea07224"
-  integrity sha512-GKp+06SaleUHzF5uOBmtEgj5r4aMMLRa+O6aKPcKtUHZBqVNXuxoJRgjCS5CFB7qHWz5gTcaqgR3PHJZhqztWg==
+stylelint-config-css-modules@4.5.1:
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/stylelint-config-css-modules/-/stylelint-config-css-modules-4.5.1.tgz#7275283bbc6519feb833cc56e5bafbe7afc72084"
+  integrity sha512-xRMvAOVWa8h3Dw2NmanJHuPqMUInmMoBy14kkJDT2xs2xevxl7WnQOe/nDAMvgf9NkodzKrhKZ97E61yQOKkDA==
   optionalDependencies:
     stylelint-scss "^6.12.1"
 
