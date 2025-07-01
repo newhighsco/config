@@ -6,14 +6,6 @@ module.exports = {
   ],
   plugins: ['stylelint-order'],
   rules: {
-    'at-rule-empty-line-before': [
-      'always',
-      {
-        except: ['blockless-after-same-name-blockless', 'first-nested'],
-        ignore: ['after-comment'],
-        ignoreAtRules: ['else', 'value']
-      }
-    ],
     'media-feature-range-notation': 'prefix',
     'selector-class-pattern': null,
     'value-keyword-case': [
