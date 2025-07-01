@@ -1,3 +1,10 @@
+## @newhighsco/stylelint-config [4.0.17](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@4.0.16...@newhighsco/stylelint-config@4.0.17) (2025-07-01)
+
+
+### Bug Fixes
+
+* **stylelint:** revert spacing change ([#2209](https://github.com/newhighsco/config/issues/2209)) ([969ab8a](https://github.com/newhighsco/config/commit/969ab8a8a2e63640b9a5bc2eefca062f6ca08b23))
+
 ## @newhighsco/stylelint-config [4.0.16](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@4.0.15...@newhighsco/stylelint-config@4.0.16) (2025-06-30)
 
 
