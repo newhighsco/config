@@ -11,15 +11,6 @@ yarn add -D @newhighsco/ts-config
 ```
 
 ## Usage
-New High Score Typescript rules come bundled in `@newhighsco/ts-config`. To enable these rules, add a `browserslist` property in your `package.json`. See the [Browserslist configuration docs](https://github.com/browserslist/browserslist#config-file) for more details.
-
-```json
-"browserslist": [
-  "extends @newhighsco/browserslist-config"
-]
-```
-
-## Usage
 New High Score TypeScript rules come bundled in `@newhighsco/ts-config`. To enable these rules, add a `tsconfig.json` at the root of your project. See the [Typescript configuration docs](https://www.typescriptlang.org/tsconfig/) for more details.
 
 ```jsonc
