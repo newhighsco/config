@@ -3971,10 +3971,10 @@ eslint-import-resolver-node@^0.3.9:
     is-core-module "^2.13.0"
     resolve "^1.22.4"
 
-eslint-mdx@^3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/eslint-mdx/-/eslint-mdx-3.6.0.tgz#24558770be792eef17ecdbbf30c4a282f322a39c"
-  integrity sha512-D1YKiLODSJmNK5+zOGqk5gU4lXEXCImUgT8uChDFgcwZYFYNUT71r+sOyLc0tYhTbuHg+tTOSkgSxJUhVon1Yg==
+eslint-mdx@^3.6.2:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/eslint-mdx/-/eslint-mdx-3.6.2.tgz#1d99417bb32a986e9e813afe983ef3c3bd8ce4d0"
+  integrity sha512-5hczn5iSSEcwtNtVXFwCKIk6iLEDaZpwc3vjYDl/B779OzaAAK/ou16J2xVdO6ecOLEO1WZqp7MRCQ/WsKDUig==
   dependencies:
     acorn "^8.15.0"
     acorn-jsx "^5.3.2"
@@ -4073,12 +4073,12 @@ eslint-plugin-jsx-a11y@6.10.2:
     safe-regex-test "^1.0.3"
     string.prototype.includes "^2.0.1"
 
-eslint-plugin-mdx@3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-mdx/-/eslint-plugin-mdx-3.6.0.tgz#0873e9bc8204935631bf9fb5d195df3309041ce9"
-  integrity sha512-q+OYdm/9QemwvxxMGmLFAJPx62l4V/38+Gk1wgRC8unnzF14sFgmCplrfuSQBUv5cndNd97xDuZO+83qM2n30A==
+eslint-plugin-mdx@3.6.2:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-mdx/-/eslint-plugin-mdx-3.6.2.tgz#8277388af0bda2dc5b0ab98e38d85cd66d46337a"
+  integrity sha512-RfMd5HYD/9+cqANhVWJbuBRg3huWUsAoGJNGmPsyiRD2X6BaG6bvt1omyk1ORlg81GK8ST7Ojt5fNAuwWhWU8A==
   dependencies:
-    eslint-mdx "^3.6.0"
+    eslint-mdx "^3.6.2"
     mdast-util-from-markdown "^2.0.2"
     mdast-util-mdx "^3.0.0"
     micromark-extension-mdxjs "^3.0.0"
