@@ -1,3 +1,10 @@
+## @newhighsco/postcss-config [3.5.347](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.346...@newhighsco/postcss-config@3.5.347) (2025-08-29)
+
+
+### Bug Fixes
+
+* **postcss:** support monorepos when purging ([#2248](https://github.com/newhighsco/config/issues/2248)) ([c7b2de2](https://github.com/newhighsco/config/commit/c7b2de22d46e95b6e93ec2b39a61a5c777aa497a))
+
 ## @newhighsco/postcss-config [3.5.346](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.345...@newhighsco/postcss-config@3.5.346) (2025-08-28)
 
 
