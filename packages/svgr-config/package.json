@@ -1,0 +1,29 @@
+{
+  "name": "@newhighsco/svgr-config",
+  "description": "New High Score shareable config for SVGR",
+  "version": "1.0.0",
+  "author": "New High Score",
+  "license": "ISC",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newhighsco/config.git",
+    "directory": "packages/svgr-config"
+  },
+  "homepage": "https://github.com/newhighsco/config/tree/main/packages/svgr-config#readme",
+  "bugs": {
+    "url": "https://github.com/newhighsco/config/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "pretest": "rm -rf dist",
+    "test": "npx @svgr/cli --config-file index.js --out-dir dist --no-index -- __tests__"
+  },
+  "dependencies": {
+    "@newhighsco/svgo-config": "*"
+  },
+  "devDependencies": {
+    "@svgr/cli": "8.1.0",
+    "@svgr/core": "8.1.0"
+  }
+}
