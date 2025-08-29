@@ -20,7 +20,7 @@
     "test": "npx @svgr/cli --config-file index.js --out-dir dist --no-index -- __tests__"
   },
   "dependencies": {
-    "@newhighsco/svgo-config": "*"
+    "@newhighsco/svgo-config": "1.0.2"
   },
   "devDependencies": {
     "@svgr/cli": "8.1.0",
