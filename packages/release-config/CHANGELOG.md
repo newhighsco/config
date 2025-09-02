@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.4.9](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.4.8...@newhighsco/release-config@1.4.9) (2025-09-02)
+
+
+### Bug Fixes
+
+* **release-config:** mark `semantic-release-circle-orb` as optional peer dependency ([#2255](https://github.com/newhighsco/config/issues/2255)) ([29e5f21](https://github.com/newhighsco/config/commit/29e5f214b86cb6d704690c44b4f730f38e103e24))
+
 ## @newhighsco/release-config [1.4.8](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.4.7...@newhighsco/release-config@1.4.8) (2025-09-02)
 
 
