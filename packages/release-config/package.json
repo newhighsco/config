@@ -31,10 +31,10 @@
   },
   "peerDependencies": {
     "semantic-release": "24.2.7",
-    "semantic-release-circle-orb": "1.1.1"
+    "semantic-release-circleci-orb": "1.1.1"
   },
   "peerDependenciesMeta": {
-    "semantic-release-circle-orb": {
+    "semantic-release-circleci-orb": {
       "optional": true
     }
   }
