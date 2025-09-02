@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.4.10](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.4.9...@newhighsco/release-config@1.4.10) (2025-09-02)
+
+
+### Bug Fixes
+
+* **release-config:** correct path for `semantic-release-circleci-orb` ([#2256](https://github.com/newhighsco/config/issues/2256)) ([1beba95](https://github.com/newhighsco/config/commit/1beba9568e782b4abd529697880176e98d9cab65))
+
 ## @newhighsco/release-config [1.4.9](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.4.8...@newhighsco/release-config@1.4.9) (2025-09-02)
 
 
