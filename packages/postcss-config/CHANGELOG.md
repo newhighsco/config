@@ -1,3 +1,15 @@
+## @newhighsco/postcss-config [3.5.348](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.347...@newhighsco/postcss-config@3.5.348) (2025-09-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency caniuse-lite to v1.0.30001739 ([#2253](https://github.com/newhighsco/config/issues/2253)) ([b9f9615](https://github.com/newhighsco/config/commit/b9f961549c34872aa2917bf6f005f1ff23621f49))
+
+
+### Reverts
+
+* **postcss:** support monorepos when purging ([#2249](https://github.com/newhighsco/config/issues/2249)) ([dde0e0d](https://github.com/newhighsco/config/commit/dde0e0df2664b7c9389feb3c12765af864895607))
+
 ## @newhighsco/postcss-config [3.5.347](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.346...@newhighsco/postcss-config@3.5.347) (2025-08-29)
 
 
