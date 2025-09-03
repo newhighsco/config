@@ -6,6 +6,7 @@ module.exports = {
     jest: true
   },
   extends: ['standard', 'plugin:prettier/recommended'],
+  ignorePatterns: ['!.github', '!.storybook'],
   plugins: ['simple-import-sort'],
   rules: {
     'simple-import-sort/imports': 'error',
