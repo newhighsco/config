@@ -4,6 +4,7 @@ const assets = (process.env.GH_ASSETS || process.env.GITHUB_ASSETS)
 
 /** @type {import('semantic-release').GlobalConfig} */
 module.exports = {
+  branches: ['main'],
   plugins: [
     [
       '@semantic-release/commit-analyzer',
