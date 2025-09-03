@@ -15,7 +15,7 @@ workflows:
             - setup
       - newhighsco/release:
           name: release
-          command: yarn multi-semantic-release --sequential-init
+          command: yarn multi-semantic-release
           requires:
             - test
           filters:
