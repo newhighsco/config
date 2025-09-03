@@ -63,13 +63,6 @@
       "main"
     ]
   },
-  "renovate": {
-    "extends": [
-      "local>newhighsco/.github:renovate-config",
-      "local>newhighsco/config//packages/eslint-config/renovate-config",
-      "local>newhighsco/config//packages/postcss-config/renovate-config"
-    ]
-  },
   "stylelint": {
     "extends": [
       "@newhighsco/stylelint-config"
