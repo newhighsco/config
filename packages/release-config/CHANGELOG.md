@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.4.11](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.4.10...@newhighsco/release-config@1.4.11) (2025-09-03)
+
+
+### Bug Fixes
+
+* **release:** set default branch ([#2260](https://github.com/newhighsco/config/issues/2260)) ([b5427eb](https://github.com/newhighsco/config/commit/b5427ebb51eca1bbbbfe8ecc3fbc2c9e98cfa443))
+
 ## @newhighsco/release-config [1.4.10](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.4.9...@newhighsco/release-config@1.4.10) (2025-09-02)
 
 
