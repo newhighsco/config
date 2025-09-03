@@ -1,3 +1,10 @@
+# @newhighsco/eslint-config [4.2.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.1.45...@newhighsco/eslint-config@4.2.0) (2025-09-03)
+
+
+### Features
+
+* **eslint:** don't ignore common dot directories ([#2258](https://github.com/newhighsco/config/issues/2258)) ([6a13206](https://github.com/newhighsco/config/commit/6a13206341e47da13fa6d701f4faa56fb9ce6a6f))
+
 ## @newhighsco/eslint-config [4.1.45](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.1.44...@newhighsco/eslint-config@4.1.45) (2025-09-02)
 
 
