@@ -78,7 +78,7 @@ $avatar-width-small: functions.rem(48);
   }
 }
 
-@media (orientation: portrait), projection and (color) {
+@media (orientation: portrait), screen and (color) {
   .selector-i + .selector-ii {
     background: color(sRGB 0 0 0 / 50%);
     color: color.adjust(#998099, $lightness: -30%, $alpha: -0.4);
