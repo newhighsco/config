@@ -3929,10 +3929,10 @@ eslint-plugin-storybook@0.12.0:
     "@typescript-eslint/utils" "^8.8.1"
     ts-dedent "^2.2.0"
 
-eslint-plugin-testing-library@7.8.0:
-  version "7.8.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-7.8.0.tgz#f18b95ad9710c32a7630c48fdfcba826e7c5d06a"
-  integrity sha512-zmu9xtpULN5KCtJBABBmXK3jfKZej2ZJ6QzCX4MtywP3UTJ7yn/Zful8Kn5mUiOCxX6KBt0to3OZf7Usuhtvfg==
+eslint-plugin-testing-library@7.9.2:
+  version "7.9.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-7.9.2.tgz#9a680109295e5d850cd6d8d2cb4c89ca4bfe54ab"
+  integrity sha512-69InVKMoNfKhRlokBE8sivGgN9fIpaqk5+INeOamekOtQNxp6YFswGM5lO1kFO6O6zqhYsBxXR9NMffOj4mMkw==
   dependencies:
     "@typescript-eslint/scope-manager" "^8.15.0"
     "@typescript-eslint/utils" "^8.15.0"
