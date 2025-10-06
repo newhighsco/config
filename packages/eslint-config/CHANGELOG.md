@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [4.2.6](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.2.5...@newhighsco/eslint-config@4.2.6) (2025-10-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-react-hooks to v6 ([#2288](https://github.com/newhighsco/config/issues/2288)) ([ed05bf5](https://github.com/newhighsco/config/commit/ed05bf5fec06b03f539a1b50ac13213a0fca1eea))
+
 ## @newhighsco/eslint-config [4.2.5](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.2.4...@newhighsco/eslint-config@4.2.5) (2025-09-30)
 
 
