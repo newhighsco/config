@@ -15,7 +15,7 @@
     "url": "https://github.com/newhighsco/config/issues"
   },
   "type": "module",
-  "main": "index.js",
+  "main": "eslint.config.js",
   "scripts": {
     "test": "eslint --format junit --output-file ../../reports/eslint-config.xml __tests__"
   },
