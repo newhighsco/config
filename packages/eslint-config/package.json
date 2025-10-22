@@ -14,12 +14,16 @@
   "bugs": {
     "url": "https://github.com/newhighsco/config/issues"
   },
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "eslint --format junit --output-file ../../reports/eslint-config.xml __tests__"
   },
   "files": [],
   "dependencies": {
+    "@eslint/compat": "1.4.0",
+    "@eslint/eslintrc": "3.3.1",
+    "@eslint/json": "0.13.2",
     "@typescript-eslint/eslint-plugin": "7.18.0",
     "@typescript-eslint/parser": "7.18.0",
     "eslint-config-prettier": "10.1.8",
@@ -27,6 +31,7 @@
     "eslint-config-standard-jsx": "11.0.0",
     "eslint-config-standard-react": "13.0.0",
     "eslint-config-love": "44.0.0",
+    "eslint-formatter-junit": "8.40.0",
     "eslint-plugin-cypress": "3.6.0",
     "eslint-plugin-import": "2.32.0",
     "eslint-plugin-json-format": "2.0.1",
@@ -44,14 +49,10 @@
   },
   "devDependencies": {
     "@types/react": "19.2.2",
-    "eslint": "8.57.1"
+    "eslint": "9.38.0"
   },
   "peerDependencies": {
-    "eslint": "8.57.1",
+    "eslint": "9.38.0",
     "prettier": "3.6.2"
-  },
-  "eslintConfig": {
-    "root": true,
-    "extends": "."
   }
 }

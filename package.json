@@ -17,10 +17,10 @@
   },
   "scripts": {
     "prepare": "husky",
-    "pretest": "yarn lint",
+    "pretestSkip": "yarn lint",
     "test": "yarn workspaces run test",
     "lint": "concurrently yarn:lint:*",
-    "lint:js": "eslint --ignore-path .gitignore .",
+    "lint:js": "eslint .",
     "lint:css": "stylelint --ignore-path .gitignore '**/*.?(s)css'",
     "format": "concurrently yarn:format:*",
     "format:js": "yarn lint:js --fix",
@@ -37,7 +37,7 @@
     "@newhighsco/ts-config": "*",
     "@qiwi/multi-semantic-release": "7.1.2",
     "concurrently": "9.2.1",
-    "eslint": "8.57.1",
+    "eslint": "9.38.0",
     "husky": "9.1.7",
     "prettier": "3.6.2",
     "stylelint": "16.25.0",
@@ -47,11 +47,6 @@
     "@typescript-eslint/parser": "7.18.0"
   },
   "commitlint": {
-    "extends": [
-      "@newhighsco"
-    ]
-  },
-  "eslintConfig": {
     "extends": [
       "@newhighsco"
     ]
