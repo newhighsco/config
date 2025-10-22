@@ -15,7 +15,7 @@ npm install --save-dev eslint @newhighsco/eslint-config
 `@newhighsco/eslint-config` should be used in conjunction with [Prettier](https://prettier.io/). See the [`@newhighsco/prettier-config` installation guide](https://github.com/newhighsco/prettier-config#installation) for more details.
 
 ## Usage
-New High Score ESLint rules come bundled in `@newhighsco/eslint-config`. To enable these rules, add a `eslint.config.js` at the root of your project. See the [ESLint configuration docs](https://eslint.org/docs/user-guide/configuring) for more details.
+New High Score ESLint rules come bundled in `@newhighsco/eslint-config`. To enable these rules, add an `eslint.config.js` at the root of your project. See the [ESLint configuration docs](https://eslint.org/docs/user-guide/configuring) for more details.
 
 ```javascript
 // `eslint.config.js`
