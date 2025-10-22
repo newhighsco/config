@@ -3,7 +3,6 @@ import { join } from 'node:path'
 
 import { includeIgnoreFile } from '@eslint/compat'
 import { FlatCompat } from '@eslint/eslintrc'
-import json from '@eslint/json'
 import { defineConfig } from 'eslint/config'
 
 const gitignore = join(process.cwd(), '.gitignore')
@@ -18,18 +17,23 @@ export default defineConfig(
       env: {
         jest: true
       },
-      extends: ['plugin:prettier/recommended'],
+      extends: ['standard', 'plugin:prettier/recommended'],
       ignorePatterns: ['!.github', '!.storybook'],
-      plugins: ['simple-import-sort', 'json-format'],
+      plugins: ['simple-import-sort'],
       rules: {
         'simple-import-sort/imports': 'error',
         'simple-import-sort/exports': 'error'
       },
       overrides: [
-        {
-          files: ['*.?(c|m)js'],
-          extends: ['standard', 'plugin:prettier/recommended']
-        },
+        // JSON
+        // {
+        //   files: ['*.json'],
+        //   plugins: ['json-format'],
+        //   settings: {
+        //     'json/json-with-comments-files': [],
+        //     'json/sort-package-json': false
+        //   }
+        // },
         // Typescript
         {
           files: ['*.ts?(x)'],
@@ -78,7 +82,7 @@ export default defineConfig(
         },
         // Storybook
         {
-          files: ['**/*.stories.*'],
+          files: ['*.stories.*'],
           extends: [
             'plugin:storybook/recommended',
             'plugin:storybook/csf-strict'
@@ -89,7 +93,7 @@ export default defineConfig(
         },
         // Testing Library
         {
-          files: ['**/*.spec.*'],
+          files: ['*.spec.*'],
           extends: ['plugin:testing-library/react'],
           rules: {
             'testing-library/no-node-access': [
@@ -100,22 +104,11 @@ export default defineConfig(
         },
         // Cypress
         {
-          files: ['**/*.cy.*'],
+          files: ['*.cy.*'],
           extends: ['plugin:cypress/recommended']
         }
       ]
     }),
-    // JSON
-    {
-      files: ['**/*.json'],
-      plugins: { json },
-      language: 'json/json',
-      extends: ['json/recommended'],
-      settings: {
-        'json/json-with-comments-files': [],
-        'json/sort-package-json': false
-      }
-    },
     existsSync(gitignore) &&
       includeIgnoreFile(gitignore, 'Imported .gitignore patterns')
   ].filter(Boolean)

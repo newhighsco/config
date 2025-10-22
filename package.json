@@ -17,7 +17,7 @@
   },
   "scripts": {
     "prepare": "husky",
-    "pretestSkip": "yarn lint",
+    "pretest": "yarn lint",
     "test": "yarn workspaces run test",
     "lint": "concurrently yarn:lint:*",
     "lint:js": "eslint .",
