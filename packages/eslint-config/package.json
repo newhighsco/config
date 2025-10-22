@@ -33,6 +33,7 @@
     "eslint-formatter-junit": "8.40.0",
     "eslint-plugin-cypress": "3.6.0",
     "eslint-plugin-import": "2.32.0",
+    "eslint-plugin-json": "4.0.1",
     "eslint-plugin-jsx-a11y": "6.10.2",
     "eslint-plugin-mdx": "3.6.2",
     "eslint-plugin-n": "17.15.1",

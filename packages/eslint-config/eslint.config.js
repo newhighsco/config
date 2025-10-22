@@ -26,14 +26,13 @@ export default defineConfig(
       },
       overrides: [
         // JSON
-        // {
-        //   files: ['*.json'],
-        //   plugins: ['json-format'],
-        //   settings: {
-        //     'json/json-with-comments-files': [],
-        //     'json/sort-package-json': false
-        //   }
-        // },
+        {
+          files: ['**/*.json'],
+          extends: [
+            'plugin:json/recommended-legacy',
+            'plugin:prettier/recommended'
+          ]
+        },
         // Typescript
         {
           files: ['*.ts?(x)'],
