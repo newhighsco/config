@@ -1,3 +1,13 @@
+# @newhighsco/eslint-config [5.0.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.2.9...@newhighsco/eslint-config@5.0.0) (2025-10-22)
+
+
+* feat(eslint)!: flat config ([#2301](https://github.com/newhighsco/config/issues/2301)) ([e2fd187](https://github.com/newhighsco/config/commit/e2fd187668bd51218d77b42b03c4dd48e028f681))
+
+
+### BREAKING CHANGES
+
+* Requires eslint v9
+
 ## @newhighsco/eslint-config [4.2.9](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.2.8...@newhighsco/eslint-config@4.2.9) (2025-10-16)
 
 
