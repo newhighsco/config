@@ -1,3 +1,13 @@
+# @newhighsco/postcss-config [4.0.0](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.358...@newhighsco/postcss-config@4.0.0) (2025-10-22)
+
+
+* feat(eslint)!: flat config ([#2301](https://github.com/newhighsco/config/issues/2301)) ([e2fd187](https://github.com/newhighsco/config/commit/e2fd187668bd51218d77b42b03c4dd48e028f681))
+
+
+### BREAKING CHANGES
+
+* Requires eslint v9
+
 ## @newhighsco/postcss-config [3.5.358](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@3.5.357...@newhighsco/postcss-config@3.5.358) (2025-10-18)
 
 
