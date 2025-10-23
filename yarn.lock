@@ -3839,10 +3839,10 @@ eslint-config-standard@17.1.0:
   resolved "https://registry.yarnpkg.com/eslint-config-standard/-/eslint-config-standard-17.1.0.tgz#40ffb8595d47a6b242e07cbfd49dc211ed128975"
   integrity sha512-IwHwmaBNtDK4zDHQukFDW5u/aTb8+meQWZvNFWkiGmbWjD6bqyuSSBxxXKkCftCUzc1zwCH2m/baCNDLGmuO5Q==
 
-eslint-formatter-junit@8.40.0:
-  version "8.40.0"
-  resolved "https://registry.yarnpkg.com/eslint-formatter-junit/-/eslint-formatter-junit-8.40.0.tgz#118e2b9a777b23728b8e4e839856854ff9b98c6f"
-  integrity sha512-brB5r40UlMbd/BcmPIxUy/UA4GSGkuA1YRTDX4I5mEjra1asxmjUTWetf65JqVMo2kg96ZIZjRutktcHCIy+Gw==
+eslint-formatter-junit@9.0.1:
+  version "9.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-formatter-junit/-/eslint-formatter-junit-9.0.1.tgz#673bfbba323c55ebdcf32ffbc21386ad2d32421f"
+  integrity sha512-0MrNGXg2C46M/ImjWuClHSGKHBR0eSBPfYHqPgYmB0utq7Jog3YyLBmbshNvo/Ba/Al3zClPWdd6/jnxk2F+9Q==
 
 eslint-import-resolver-node@^0.3.9:
   version "0.3.9"
