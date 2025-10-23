@@ -5,10 +5,7 @@ module.exports = {
     ...plugins,
     [
       'semantic-release-circleci-orb',
-      {
-        orbName: 'newhighsco/orb',
-        orbPath: 'dist/orb.yml'
-      }
+      { orbName: 'newhighsco/orb', orbPath: 'dist/orb.yml' }
     ]
   ]
 }

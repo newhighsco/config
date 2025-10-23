@@ -4,26 +4,18 @@ import breakpoints from '../../../styles/_breakpoints.module.scss'
 import { ContentContainer } from '..'
 import PureContentContainer from './ContentContainer'
 
-export default {
-  component: PureContentContainer
-}
+export default { component: PureContentContainer }
 
 const Template = args => <ContentContainer {...args} />
 
 export const Source = Template.bind({})
 
-Source.args = {
-  children: 'Content'
-}
-Source.parameters = {
-  chromatic: { disable: true }
-}
+Source.args = { children: 'Content' }
+Source.parameters = { chromatic: { disable: true } }
 
 export const FullWidth = Template.bind({})
 
-FullWidth.args = {
-  children: 'Full-width content'
-}
+FullWidth.args = { children: 'Full-width content' }
 FullWidth.storyName = 'Full-width'
 
 export const FullWidthWithGutter = Template.bind({})
