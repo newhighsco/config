@@ -1,3 +1,10 @@
+# @newhighsco/prettier-config [2.3.0](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.2.0...@newhighsco/prettier-config@2.3.0) (2025-10-23)
+
+
+### Features
+
+* **prettier:** use `tabWidth` default ([#2304](https://github.com/newhighsco/config/issues/2304)) ([c81778d](https://github.com/newhighsco/config/commit/c81778d574157036176a8297ec6a4d2ddde35ec0))
+
 # @newhighsco/prettier-config [2.2.0](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.1.32...@newhighsco/prettier-config@2.2.0) (2025-10-23)
 
 
