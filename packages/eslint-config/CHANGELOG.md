@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [5.1.4](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.1.3...@newhighsco/eslint-config@5.1.4) (2025-10-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-formatter-junit to v9 ([#2313](https://github.com/newhighsco/config/issues/2313)) ([26f90d5](https://github.com/newhighsco/config/commit/26f90d513f40ce795f06037a4329076fdac5ed5c))
+
 ## @newhighsco/eslint-config [5.1.3](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.1.2...@newhighsco/eslint-config@5.1.3) (2025-10-23)
 
 
