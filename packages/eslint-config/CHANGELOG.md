@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [5.1.2](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.1.1...@newhighsco/eslint-config@5.1.2) (2025-10-23)
+
+
+### Bug Fixes
+
+* **eslint:** ignore scss specs ([#2310](https://github.com/newhighsco/config/issues/2310)) ([52839cf](https://github.com/newhighsco/config/commit/52839cf8d12b03d0a7dc03169b98cbc0f8b37be3))
+
 ## @newhighsco/eslint-config [5.1.1](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.1.0...@newhighsco/eslint-config@5.1.1) (2025-10-23)
 
 
