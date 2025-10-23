@@ -4,6 +4,5 @@ module.exports = {
   objectWrap: 'collapse',
   semi: false,
   singleQuote: true,
-  tabWidth: 2,
   trailingComma: 'none'
 }
