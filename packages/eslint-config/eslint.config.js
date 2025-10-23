@@ -7,6 +7,10 @@ import { defineConfig } from 'eslint/config'
 
 const gitignore = join(process.cwd(), '.gitignore')
 const compat = new FlatCompat()
+const ignore = existsSync(gitignore)
+const typescript = await import('typescript')
+  .then(() => true)
+  .catch(() => false)
 
 export default defineConfig(
   [
@@ -30,7 +34,7 @@ export default defineConfig(
           ]
         },
         // Typescript
-        {
+        typescript && {
           files: ['*.ts?(x)'],
           extends: ['love', 'plugin:prettier/recommended'],
           parserOptions: {
@@ -89,7 +93,6 @@ export default defineConfig(
         { files: ['*.cy.*'], extends: ['plugin:cypress/recommended'] }
       ]
     }),
-    existsSync(gitignore) &&
-      includeIgnoreFile(gitignore, 'Imported .gitignore patterns')
+    ignore && includeIgnoreFile(gitignore)
   ].filter(Boolean)
 )
