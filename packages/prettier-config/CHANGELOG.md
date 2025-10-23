@@ -1,3 +1,10 @@
+## @newhighsco/prettier-config [2.3.1](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.3.0...@newhighsco/prettier-config@2.3.1) (2025-10-23)
+
+
+### Bug Fixes
+
+* **prettier:** consistent line endings ([#2316](https://github.com/newhighsco/config/issues/2316)) ([8d34196](https://github.com/newhighsco/config/commit/8d341963b0af78440ca8059ead2247a4adaacccc))
+
 # @newhighsco/prettier-config [2.3.0](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.2.0...@newhighsco/prettier-config@2.3.0) (2025-10-23)
 
 
