@@ -11,12 +11,8 @@ const compat = new FlatCompat()
 export default defineConfig(
   [
     ...compat.config({
-      parserOptions: {
-        requireConfigFile: false
-      },
-      env: {
-        jest: true
-      },
+      parserOptions: { requireConfigFile: false },
+      env: { jest: true },
       extends: ['standard', 'plugin:prettier/recommended'],
       ignorePatterns: ['!.github', '!.storybook'],
       plugins: ['simple-import-sort'],
@@ -43,18 +39,10 @@ export default defineConfig(
           },
           plugins: ['tsc'],
           rules: {
-            'tsc/config': [
-              'error',
-              {
-                configFile: './tsconfig.json'
-              }
-            ],
+            'tsc/config': ['error', { configFile: './tsconfig.json' }],
             '@typescript-eslint/consistent-type-assertions': [
               'error',
-              {
-                assertionStyle: 'as',
-                objectLiteralTypeAssertions: 'allow'
-              }
+              { assertionStyle: 'as', objectLiteralTypeAssertions: 'allow' }
             ],
             '@typescript-eslint/no-unsafe-argument': 'off',
             '@typescript-eslint/prefer-nullish-coalescing': 'off',
@@ -64,9 +52,7 @@ export default defineConfig(
         // React
         {
           files: ['*.{js,ts,md}x'],
-          env: {
-            browser: true
-          },
+          env: { browser: true },
           extends: [
             'standard-react',
             'standard-jsx',
@@ -86,9 +72,7 @@ export default defineConfig(
             'plugin:storybook/recommended',
             'plugin:storybook/csf-strict'
           ],
-          rules: {
-            'storybook/meta-inline-properties': 'error'
-          }
+          rules: { 'storybook/meta-inline-properties': 'error' }
         },
         // Testing Library
         {
@@ -102,10 +86,7 @@ export default defineConfig(
           }
         },
         // Cypress
-        {
-          files: ['*.cy.*'],
-          extends: ['plugin:cypress/recommended']
-        }
+        { files: ['*.cy.*'], extends: ['plugin:cypress/recommended'] }
       ]
     }),
     existsSync(gitignore) &&

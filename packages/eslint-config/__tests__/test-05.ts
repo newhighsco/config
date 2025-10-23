@@ -16,11 +16,7 @@ const fizz = foo?.bar
 const nextConfig = {
   exportTrailingSlash: true,
   poweredByHeader: false,
-  env: {
-    SITE_URL: 'https://test.com',
-    DISALLOW_ROBOTS: true,
-    BUZZ: fizz
-  },
+  env: { SITE_URL: 'https://test.com', DISALLOW_ROBOTS: true, BUZZ: fizz },
   exportPathMap: defaultPathMap => {
     const customPathMap = { '/404.html': { page: '404' } }
     const pathMap = Object.assign(customPathMap, defaultPathMap)
@@ -58,9 +54,7 @@ export function buzz(bool?: boolean): string | undefined {
   }
 }
 
-export default {
-  fizz: 'buzz'
-} as Record<string, unknown>
+export default { fizz: 'buzz' } as Record<string, unknown>
 
 export const decode = (value: string): string => {
   return value.replace(/&#(\d+);/g, (_, entity) => String.fromCharCode(entity))

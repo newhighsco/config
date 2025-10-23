@@ -13,10 +13,7 @@ console.log(gitRoot)
 const nextConfig = {
   exportTrailingSlash: true,
   poweredByHeader: false,
-  env: {
-    SITE_URL: 'https://test.com',
-    DISALLOW_ROBOTS: true
-  },
+  env: { SITE_URL: 'https://test.com', DISALLOW_ROBOTS: true },
   exportPathMap: defaultPathMap => {
     const customPathMap = { '/404.html': { page: '404' } }
     const pathMap = Object.assign(customPathMap, defaultPathMap)

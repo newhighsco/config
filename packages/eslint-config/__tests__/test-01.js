@@ -16,11 +16,7 @@ const fizz = foo?.bar
 const nextConfig = {
   exportTrailingSlash: true,
   poweredByHeader: false,
-  env: {
-    SITE_URL: 'https://test.com',
-    DISALLOW_ROBOTS: true,
-    BUZZ: fizz
-  },
+  env: { SITE_URL: 'https://test.com', DISALLOW_ROBOTS: true, BUZZ: fizz },
   exportPathMap: defaultPathMap => {
     const customPathMap = { '/404.html': { page: '404' } }
     const pathMap = Object.assign(customPathMap, defaultPathMap)
