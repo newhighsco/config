@@ -89,7 +89,7 @@ export default defineConfig(
         },
         // Cypress
         { files: ['*.cy.*'], extends: ['plugin:cypress/recommended'] }
-      ]
+      ].filter(Boolean)
     }),
     // JSON
     { files: ['**/*.json'], plugins: { json }, language: 'json/json' },
