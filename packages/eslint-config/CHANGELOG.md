@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [5.1.1](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.1.0...@newhighsco/eslint-config@5.1.1) (2025-10-23)
+
+
+### Bug Fixes
+
+* **eslint:** filter optional overrides ([#2309](https://github.com/newhighsco/config/issues/2309)) ([de38f99](https://github.com/newhighsco/config/commit/de38f9916f10232800a6d252bc1176c7f748a308))
+
 # @newhighsco/eslint-config [5.1.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.0.1...@newhighsco/eslint-config@5.1.0) (2025-10-23)
 
 
