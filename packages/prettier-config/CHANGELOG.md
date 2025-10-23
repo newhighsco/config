@@ -1,3 +1,10 @@
+## @newhighsco/prettier-config [2.3.2](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.3.1...@newhighsco/prettier-config@2.3.2) (2025-10-23)
+
+
+### Bug Fixes
+
+* **prettier:** revert `endOfLine` change ([#2317](https://github.com/newhighsco/config/issues/2317)) ([08f44ef](https://github.com/newhighsco/config/commit/08f44efdf993a73fe50916eb33f11dd4ce9047fb))
+
 ## @newhighsco/prettier-config [2.3.1](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.3.0...@newhighsco/prettier-config@2.3.1) (2025-10-23)
 
 
