@@ -79,6 +79,7 @@ export default defineConfig(
         // Testing Library
         {
           files: ['*.spec.*'],
+          excludedFiles: ['*.spec.?(s)css'],
           extends: ['plugin:testing-library/react'],
           rules: {
             'testing-library/no-node-access': [
