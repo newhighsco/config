@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [5.0.1](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.0.0...@newhighsco/eslint-config@5.0.1) (2025-10-23)
+
+
+### Bug Fixes
+
+* **eslint:** make typescript optional ([#2307](https://github.com/newhighsco/config/issues/2307)) ([73abb34](https://github.com/newhighsco/config/commit/73abb34c0023d509fb4a02f464d06f49f8dfe417))
+
 # @newhighsco/eslint-config [5.0.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@4.2.9...@newhighsco/eslint-config@5.0.0) (2025-10-22)
 
 
