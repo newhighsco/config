@@ -1,3 +1,10 @@
+# @newhighsco/prettier-config [2.2.0](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.1.32...@newhighsco/prettier-config@2.2.0) (2025-10-23)
+
+
+### Features
+
+* **prettier:** set `objectWrap: 'collapse'` ([#2305](https://github.com/newhighsco/config/issues/2305)) ([3f813b1](https://github.com/newhighsco/config/commit/3f813b1e9c7bf17c072cad91f9fe089c109519ae))
+
 ## @newhighsco/prettier-config [2.1.32](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.1.31...@newhighsco/prettier-config@2.1.32) (2025-03-03)
 
 
