@@ -9,6 +9,10 @@ import prettierRecommended from 'eslint-plugin-prettier/recommended'
 
 const gitignore = join(process.cwd(), '.gitignore')
 const compat = new FlatCompat()
+const ignore = existsSync(gitignore)
+const typescript = await import('typescript')
+  .then(() => true)
+  .catch(() => false)
 
 export default defineConfig(
   [
@@ -28,7 +32,7 @@ export default defineConfig(
           extends: ['standard', 'plugin:prettier/recommended']
         },
         // Typescript
-        {
+        typescript && {
           files: ['*.ts?(x)'],
           extends: ['love', 'plugin:prettier/recommended'],
           parserOptions: {
@@ -90,7 +94,6 @@ export default defineConfig(
     // JSON
     { files: ['**/*.json'], plugins: { json }, language: 'json/json' },
     { files: ['**/*.json'], ...prettierRecommended },
-    existsSync(gitignore) &&
-      includeIgnoreFile(gitignore, 'Imported .gitignore patterns')
+    ignore && includeIgnoreFile(gitignore)
   ].filter(Boolean)
 )

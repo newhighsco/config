@@ -43,9 +43,6 @@
     "stylelint": "16.25.0",
     "typescript": "5.9.3"
   },
-  "resolutions": {
-    "@typescript-eslint/parser": "7.18.0"
-  },
   "commitlint": {
     "extends": [
       "@newhighsco"
