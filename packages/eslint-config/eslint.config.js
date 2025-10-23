@@ -3,7 +3,9 @@ import { join } from 'node:path'
 
 import { includeIgnoreFile } from '@eslint/compat'
 import { FlatCompat } from '@eslint/eslintrc'
+import json from '@eslint/json'
 import { defineConfig } from 'eslint/config'
+import prettierRecommended from 'eslint-plugin-prettier/recommended'
 
 const gitignore = join(process.cwd(), '.gitignore')
 const compat = new FlatCompat()
@@ -17,7 +19,6 @@ export default defineConfig(
     ...compat.config({
       parserOptions: { requireConfigFile: false },
       env: { jest: true },
-      extends: ['standard', 'plugin:prettier/recommended'],
       ignorePatterns: ['!.github', '!.storybook'],
       plugins: ['simple-import-sort'],
       rules: {
@@ -25,13 +26,10 @@ export default defineConfig(
         'simple-import-sort/exports': 'error'
       },
       overrides: [
-        // JSON
+        // Javascript
         {
-          files: ['**/*.json'],
-          extends: [
-            'plugin:json/recommended-legacy',
-            'plugin:prettier/recommended'
-          ]
+          files: ['*.?(c|m)js'],
+          extends: ['standard', 'plugin:prettier/recommended']
         },
         // Typescript
         typescript && {
@@ -93,6 +91,9 @@ export default defineConfig(
         { files: ['*.cy.*'], extends: ['plugin:cypress/recommended'] }
       ]
     }),
+    // JSON
+    { files: ['**/*.json'], plugins: { json }, language: 'json/json' },
+    { files: ['**/*.json'], ...prettierRecommended },
     ignore && includeIgnoreFile(gitignore)
   ].filter(Boolean)
 )

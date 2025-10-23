@@ -1,3 +1,1 @@
-{
-  "extends": "@newhighsco/ts-config"
-}
+{ "extends": "@newhighsco/ts-config" }
