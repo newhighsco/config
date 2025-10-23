@@ -1,3 +1,10 @@
+# @newhighsco/eslint-config [5.1.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.0.1...@newhighsco/eslint-config@5.1.0) (2025-10-23)
+
+
+### Features
+
+* **eslint:** use Prettier to format JSON ([#2308](https://github.com/newhighsco/config/issues/2308)) ([8853dd8](https://github.com/newhighsco/config/commit/8853dd8bbe9877a183cf8ca9e4144664fff74840))
+
 ## @newhighsco/eslint-config [5.0.1](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.0.0...@newhighsco/eslint-config@5.0.1) (2025-10-23)
 
 
