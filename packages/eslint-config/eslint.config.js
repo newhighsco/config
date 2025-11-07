@@ -40,9 +40,7 @@ export default defineConfig(
             project: './tsconfig.json',
             warnOnUnsupportedTypeScriptVersion: false
           },
-          plugins: ['tsc'],
           rules: {
-            'tsc/config': ['error', { configFile: './tsconfig.json' }],
             '@typescript-eslint/consistent-type-assertions': [
               'error',
               { assertionStyle: 'as', objectLiteralTypeAssertions: 'allow' }

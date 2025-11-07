@@ -1,4 +1,3 @@
-/* eslint-disable tsc/config */
 describe('Test fails', () => {
   // NOTE: run this test to see it fail because it tries to get an non-existent button
   it.skip('when the command fails', () => {
