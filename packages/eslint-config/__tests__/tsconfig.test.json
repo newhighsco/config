@@ -1,0 +1,4 @@
+{
+  // Comment should not throw error
+  "$schema": "https://json.schemastore.org/tsconfig"
+}
