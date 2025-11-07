@@ -79,6 +79,7 @@ const configs = [
   // JSON
   { files: ['**/*.json'], plugins: { json }, language: 'json/json' },
   { files: ['**/*.json'], ...prettierRecommended },
+  { files: ['**/+(j|t)sconfig?(.*).json'], language: 'json/jsonc' },
   // Testing Library
   {
     files: ['**/*.spec.*'],
