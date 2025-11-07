@@ -1,3 +1,10 @@
+# @newhighsco/eslint-config [5.2.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.1.9...@newhighsco/eslint-config@5.2.0) (2025-11-07)
+
+
+### Features
+
+* **eslint:** remove `eslint-plugin-tsc` ([#2334](https://github.com/newhighsco/config/issues/2334)) ([a084af9](https://github.com/newhighsco/config/commit/a084af99d730b85e4f90ed7e19f7803f16ffb708))
+
 ## @newhighsco/eslint-config [5.1.9](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.1.8...@newhighsco/eslint-config@5.1.9) (2025-11-07)
 
 
