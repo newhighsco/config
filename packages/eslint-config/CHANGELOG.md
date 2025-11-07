@@ -1,3 +1,10 @@
+# @newhighsco/eslint-config [5.4.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.3.0...@newhighsco/eslint-config@5.4.0) (2025-11-07)
+
+
+### Features
+
+* **eslint:** further migration to flat config ([#2336](https://github.com/newhighsco/config/issues/2336)) ([824588d](https://github.com/newhighsco/config/commit/824588d9d2445b6bdef9251fd35e31ca562b8f34))
+
 # @newhighsco/eslint-config [5.3.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.2.0...@newhighsco/eslint-config@5.3.0) (2025-11-07)
 
 
