@@ -7,6 +7,7 @@ import json from '@eslint/json'
 import { defineConfig } from 'eslint/config'
 import cypress from 'eslint-plugin-cypress'
 import prettierRecommended from 'eslint-plugin-prettier/recommended'
+import testingLibrary from 'eslint-plugin-testing-library'
 
 const gitignore = join(process.cwd(), '.gitignore')
 const compat = new FlatCompat()
@@ -74,24 +75,25 @@ export default defineConfig(
             'plugin:storybook/csf-strict'
           ],
           rules: { 'storybook/meta-inline-properties': 'error' }
-        },
-        // Testing Library
-        {
-          files: ['*.spec.*'],
-          excludedFiles: ['*.spec.?(s)css'],
-          extends: ['plugin:testing-library/react'],
-          rules: {
-            'testing-library/no-node-access': [
-              'error',
-              { allowContainerFirstChild: true }
-            ]
-          }
         }
       ].filter(Boolean)
     }),
     // JSON
     { files: ['**/*.json'], plugins: { json }, language: 'json/json' },
     { files: ['**/*.json'], ...prettierRecommended },
+    // Testing Library
+    {
+      files: ['**/*.spec.*'],
+      ignores: ['**/*.spec.?(s)css'],
+      ...testingLibrary.configs['flat/react'],
+      rules: {
+        ...testingLibrary.configs['flat/react'].rules,
+        'testing-library/no-node-access': [
+          'error',
+          { allowContainerFirstChild: true }
+        ]
+      }
+    },
     // Cypress
     { files: ['**/*.cy.*'], extends: [cypress.configs.recommended] },
     ignore && includeIgnoreFile(gitignore)
