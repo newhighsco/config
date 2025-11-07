@@ -1,3 +1,10 @@
+# @newhighsco/eslint-config [5.3.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.2.0...@newhighsco/eslint-config@5.3.0) (2025-11-07)
+
+
+### Features
+
+* **eslint:** move Tesintg library plugin to flat config ([#2335](https://github.com/newhighsco/config/issues/2335)) ([b656a92](https://github.com/newhighsco/config/commit/b656a92dd86b38bcac8d8f90f46418aa89626552))
+
 # @newhighsco/eslint-config [5.2.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.1.9...@newhighsco/eslint-config@5.2.0) (2025-11-07)
 
 
