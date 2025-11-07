@@ -1,0 +1,15 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "packageRules": [
+    {
+      "description": "Pin `@typescript-eslint/*` to v7 as update requires completely flat config",
+      "matchPackageNames": ["/^@typescript-eslint/"],
+      "allowedVersions": "<8"
+    },
+    {
+      "description": "Pin `eslint-config-love` to v44 as update requires completely flat config",
+      "matchPackageNames": ["eslint-config-love"],
+      "allowedVersions": "<45"
+    }
+  ]
+}
