@@ -5,6 +5,7 @@ import { includeIgnoreFile } from '@eslint/compat'
 import { FlatCompat } from '@eslint/eslintrc'
 import json from '@eslint/json'
 import { defineConfig } from 'eslint/config'
+import cypress from 'eslint-plugin-cypress'
 import prettierRecommended from 'eslint-plugin-prettier/recommended'
 
 const gitignore = join(process.cwd(), '.gitignore')
@@ -87,14 +88,14 @@ export default defineConfig(
               { allowContainerFirstChild: true }
             ]
           }
-        },
-        // Cypress
-        { files: ['*.cy.*'], extends: ['plugin:cypress/recommended'] }
+        }
       ].filter(Boolean)
     }),
     // JSON
     { files: ['**/*.json'], plugins: { json }, language: 'json/json' },
     { files: ['**/*.json'], ...prettierRecommended },
+    // Cypress
+    { files: ['**/*.cy.*'], extends: [cypress.configs.recommended] },
     ignore && includeIgnoreFile(gitignore)
   ].filter(Boolean)
 )
