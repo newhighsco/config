@@ -10,9 +10,9 @@ import prettierRecommended from 'eslint-plugin-prettier/recommended'
 const gitignore = join(process.cwd(), '.gitignore')
 const compat = new FlatCompat()
 const ignore = existsSync(gitignore)
-const typescript = await import('typescript')
-  .then(() => true)
-  .catch(() => false)
+
+const hasDependency = async dependency =>
+  await import(dependency).then(() => true).catch(() => false)
 
 export default defineConfig(
   [
@@ -32,7 +32,7 @@ export default defineConfig(
           extends: ['standard', 'plugin:prettier/recommended']
         },
         // Typescript
-        typescript && {
+        (await hasDependency('typescript')) && {
           files: ['*.ts?(x)'],
           extends: ['love', 'plugin:prettier/recommended'],
           parserOptions: {
@@ -68,7 +68,7 @@ export default defineConfig(
           }
         },
         // Storybook
-        {
+        (await hasDependency('storybook')) && {
           files: ['*.stories.*'],
           extends: [
             'plugin:storybook/recommended',
