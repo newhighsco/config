@@ -46,7 +46,7 @@
     "eslint-plugin-testing-library": "7.13.3"
   },
   "devDependencies": {
-    "@types/react": "19.2.2",
+    "@types/react": "19.2.3",
     "eslint": "9.39.1"
   },
   "peerDependencies": {
