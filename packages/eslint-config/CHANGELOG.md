@@ -1,3 +1,13 @@
+# @newhighsco/eslint-config [6.0.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.4.3...@newhighsco/eslint-config@6.0.0) (2025-11-24)
+
+
+* feat(deps)!: upgrade Storybook to v10 ([#2359](https://github.com/newhighsco/config/issues/2359)) ([8310722](https://github.com/newhighsco/config/commit/8310722e511307ed52b9f456dce4f3022ed300d2))
+
+
+### BREAKING CHANGES
+
+* Requires Storybook 10
+
 ## @newhighsco/eslint-config [5.4.3](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@5.4.2...@newhighsco/eslint-config@5.4.3) (2025-11-21)
 
 
