@@ -50,10 +50,10 @@
     "eslint": "9.39.1"
   },
   "peerDependencies": {
-    "eslint": "9.39.1",
-    "prettier": "3.6.2",
-    "storybook": "10.0.8",
-    "typescript": "5.9.3"
+    "eslint": "^9",
+    "prettier": "^3",
+    "storybook": "^10",
+    "typescript": "^5"
   },
   "peerDependenciesMeta": {
     "storybook": {
