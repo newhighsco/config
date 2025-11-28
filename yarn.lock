@@ -4038,10 +4038,10 @@ eslint-plugin-simple-import-sort@12.1.1:
   resolved "https://registry.yarnpkg.com/eslint-plugin-simple-import-sort/-/eslint-plugin-simple-import-sort-12.1.1.tgz#e64bfdaf91c5b98a298619aa634a9f7aa43b709e"
   integrity sha512-6nuzu4xwQtE3332Uz0to+TxDQYRLTKRESSc2hefVT48Zc8JthmN23Gx9lnYhu0FtkRSL1oxny3kJ2aveVhmOVA==
 
-eslint-plugin-storybook@10.1.1:
-  version "10.1.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-storybook/-/eslint-plugin-storybook-10.1.1.tgz#ddb693332dc1e05017e0757907b7408cbbe6a54f"
-  integrity sha512-Nwdjhnd46HnK0IXopiPw947epDjajDni0083F2mXoQLlu9NG9Hz/yS2dyoZoGVJphCloe9FfighHqo4OaTJ9pA==
+eslint-plugin-storybook@10.1.2:
+  version "10.1.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-storybook/-/eslint-plugin-storybook-10.1.2.tgz#b7a09904ae80a3e09bf7daf32764a0649ead5ae7"
+  integrity sha512-GDZL9SLR/R50GPOxB/ZVCS90END12Kh17fGJUbxZUqkdYaazzkDCIa+uRoQzk7JqiDbRdgcXU5hFa4fyfE6Stg==
   dependencies:
     "@typescript-eslint/utils" "^8.8.1"
 
