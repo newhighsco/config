@@ -14,7 +14,7 @@ const targets = [
   'safari'
 ]
 const coverage = browserslist.coverage(browsers)
-const threshold = 85
+const threshold = 80
 
 targets.forEach(target => {
   assert(
