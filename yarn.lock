@@ -2194,7 +2194,7 @@
     "@typescript-eslint/types" "7.18.0"
     "@typescript-eslint/visitor-keys" "7.18.0"
 
-"@typescript-eslint/scope-manager@8.50.0", "@typescript-eslint/scope-manager@^8.15.0":
+"@typescript-eslint/scope-manager@8.50.0", "@typescript-eslint/scope-manager@^8.50.0":
   version "8.50.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/scope-manager/-/scope-manager-8.50.0.tgz#e0d6c838dc9044bc679724611b138cb34c81bddf"
   integrity sha512-xCwfuCZjhIqy7+HKxBLrDVT5q/iq7XBVBXLn57RTIIpelLtEIZHXAF/Upa3+gaCpeV1NNS5Z9A+ID6jn50VD4A==
@@ -2266,7 +2266,7 @@
     "@typescript-eslint/types" "7.18.0"
     "@typescript-eslint/typescript-estree" "7.18.0"
 
-"@typescript-eslint/utils@^8.15.0", "@typescript-eslint/utils@^8.8.1":
+"@typescript-eslint/utils@^8.50.0", "@typescript-eslint/utils@^8.8.1":
   version "8.50.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/utils/-/utils-8.50.0.tgz#107f20a5747eab5db988c5f6ad462b59851cdd1f"
   integrity sha512-87KgUXET09CRjGCi2Ejxy3PULXna63/bMYv72tCAlDJC3Yqwln0HiFJ3VJMst2+mEtNtZu5oFvX4qJGjKsnAgg==
@@ -4036,13 +4036,13 @@ eslint-plugin-storybook@10.1.10:
   dependencies:
     "@typescript-eslint/utils" "^8.8.1"
 
-eslint-plugin-testing-library@7.15.2:
-  version "7.15.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-7.15.2.tgz#fa347ad64accae5e55ad51408b13298c75000863"
-  integrity sha512-Wb3OzW6oxjJqcn6asvAGFRQIXRZ1DKPUQRej7S0LmGaiMFlSYh+NZqiODxZro8LmFpxwUDnb+67Lk2ioL96YZA==
+eslint-plugin-testing-library@7.15.3:
+  version "7.15.3"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-7.15.3.tgz#9ac5e2c9e553263bbcd648cc75fbb2b721ff4e81"
+  integrity sha512-rudwEVKf3zbfrqCL532t/+32SIVPpldGBaJp0pTlaHK3X0sDK36eKndrBC4LeL+0lVczlEegq/9cgc1lEOXWlg==
   dependencies:
-    "@typescript-eslint/scope-manager" "^8.15.0"
-    "@typescript-eslint/utils" "^8.15.0"
+    "@typescript-eslint/scope-manager" "^8.50.0"
+    "@typescript-eslint/utils" "^8.50.0"
 
 eslint-scope@^8.4.0:
   version "8.4.0"
