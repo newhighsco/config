@@ -21,7 +21,7 @@
   },
   "files": [],
   "dependencies": {
-    "@eslint/compat": "2.0.0",
+    "@eslint/compat": "2.0.1",
     "@eslint/json": "0.14.0",
     "@eslint/eslintrc": "3.3.3",
     "@typescript-eslint/eslint-plugin": "7.18.0",
