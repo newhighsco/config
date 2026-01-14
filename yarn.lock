@@ -610,6 +610,14 @@
     "@csstools/css-tokenizer" "^4.0.0"
     "@csstools/media-query-list-parser" "^5.0.0"
 
+"@csstools/postcss-mixins@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@csstools/postcss-mixins/-/postcss-mixins-1.0.0.tgz#c4e1f8dd5f2fa41a7ef6979e95b1621dadb46903"
+  integrity sha512-rz6qjT2w9L3k65jGc2dX+3oGiSrYQ70EZPDrINSmSVoVys7lLBFH0tvEa8DW2sr9cbRVD/W+1sy8+7bfu0JUfg==
+  dependencies:
+    "@csstools/css-parser-algorithms" "^4.0.0"
+    "@csstools/css-tokenizer" "^4.0.0"
+
 "@csstools/postcss-nested-calc@^5.0.0":
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/@csstools/postcss-nested-calc/-/postcss-nested-calc-5.0.0.tgz#173f25e00f73e8473e9f1545a036f975b8c827ca"
@@ -3353,10 +3361,10 @@ css-what@^6.1.0:
   resolved "https://registry.yarnpkg.com/css-what/-/css-what-6.2.2.tgz#cdcc8f9b6977719fdfbd1de7aec24abf756b9dea"
   integrity sha512-u/O3vwbptzhMs3L1fQE82ZSLHQQfto5gyZzwteVIEyeaY5Fc7R4dapF/BvRoSYFeqfBk4m0V1Vafq5Pjv25wvA==
 
-cssdb@^8.6.0:
-  version "8.6.0"
-  resolved "https://registry.yarnpkg.com/cssdb/-/cssdb-8.6.0.tgz#5381310f5fdac6d249fc4016b7d0f6deb0002f6a"
-  integrity sha512-7ZrRi/Z3cRL1d5I8RuXEWAkRFP3J4GeQRiyVknI4KC70RAU8hT4LysUZDe0y+fYNOktCbxE8sOPUOhyR12UqGQ==
+cssdb@^8.7.0:
+  version "8.7.0"
+  resolved "https://registry.yarnpkg.com/cssdb/-/cssdb-8.7.0.tgz#5a0846fabf863a4d397d980d8d29eb3eb26dfde1"
+  integrity sha512-UxiWVpV953ENHqAKjKRPZHNDfRo3uOymvO5Ef7MFCWlenaohkYj7PTO7WCBdjZm8z/aDZd6rXyUIlwZ0AjyFSg==
 
 cssesc@^3.0.0:
   version "3.0.0"
@@ -8073,10 +8081,10 @@ postcss-place@^11.0.0:
   dependencies:
     postcss-value-parser "^4.2.0"
 
-postcss-preset-env@11.0.1:
-  version "11.0.1"
-  resolved "https://registry.yarnpkg.com/postcss-preset-env/-/postcss-preset-env-11.0.1.tgz#54b970051e967e2c2c2065df5266b6767183fbd2"
-  integrity sha512-qjuZ/pBrgMMuKA3wD4aKcUfT2RsekiC5zhk0NvnqO0GxuqK85SSCXaM4cdqx3XYIM9bwHyMqxzGr8r+02u9R+g==
+postcss-preset-env@11.1.0:
+  version "11.1.0"
+  resolved "https://registry.yarnpkg.com/postcss-preset-env/-/postcss-preset-env-11.1.0.tgz#562bae2856b1da4e58b2d6f61c2169615b3b3293"
+  integrity sha512-Xxa3RTPqyCt/rNWmRP/R6mnVa9flOqU+fYOr4OxWsCZ5qyxQUEmA7kJwT12JQwKJHM97c4b/t2sj4RHvF0JZ5w==
   dependencies:
     "@csstools/postcss-alpha-function" "^2.0.0"
     "@csstools/postcss-cascade-layers" "^6.0.0"
@@ -8102,6 +8110,7 @@ postcss-preset-env@11.0.1:
     "@csstools/postcss-logical-viewport-units" "^4.0.0"
     "@csstools/postcss-media-minmax" "^3.0.0"
     "@csstools/postcss-media-queries-aspect-ratio-number-values" "^4.0.0"
+    "@csstools/postcss-mixins" "^1.0.0"
     "@csstools/postcss-nested-calc" "^5.0.0"
     "@csstools/postcss-normalize-display-values" "^5.0.0"
     "@csstools/postcss-oklab-function" "^5.0.0"
@@ -8123,7 +8132,7 @@ postcss-preset-env@11.0.1:
     css-blank-pseudo "^8.0.1"
     css-has-pseudo "^8.0.0"
     css-prefers-color-scheme "^11.0.0"
-    cssdb "^8.6.0"
+    cssdb "^8.7.0"
     postcss-attribute-case-insensitive "^8.0.0"
     postcss-clamp "^4.1.0"
     postcss-color-functional-notation "^8.0.0"
