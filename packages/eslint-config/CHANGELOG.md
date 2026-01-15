@@ -1,3 +1,26 @@
+## @newhighsco/eslint-config [6.0.7](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@6.0.6...@newhighsco/eslint-config@6.0.7) (2026-01-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @eslint/compat to v2.0.1 ([#2411](https://github.com/newhighsco/config/issues/2411)) ([4ebb54f](https://github.com/newhighsco/config/commit/4ebb54fa4ea5db712c78ee53658acc120bebbad3))
+* **deps:** update dependency eslint-plugin-cypress to v5.2.1 ([#2408](https://github.com/newhighsco/config/issues/2408)) ([8c500a6](https://github.com/newhighsco/config/commit/8c500a6e8892eb7ed58e3996f6ae4c0f77e7ec83))
+* **deps:** update dependency eslint-plugin-n to v17.23.2 ([#2417](https://github.com/newhighsco/config/issues/2417)) ([c3270a3](https://github.com/newhighsco/config/commit/c3270a3945ff2cf1796f8cfea508a2304444de8a))
+* **deps:** update dependency eslint-plugin-prettier to v5.5.5 ([#2419](https://github.com/newhighsco/config/issues/2419)) ([8c9af74](https://github.com/newhighsco/config/commit/8c9af74ffab2260ec906f7b9136a871380e008a5))
+* **deps:** update dependency eslint-plugin-storybook to v10.1.10 ([#2395](https://github.com/newhighsco/config/issues/2395)) ([7cc4dcd](https://github.com/newhighsco/config/commit/7cc4dcd091752b5fb7d5a9afb215afbf239c2b7e))
+* **deps:** update dependency eslint-plugin-storybook to v10.1.11 ([#2403](https://github.com/newhighsco/config/issues/2403)) ([fa642d7](https://github.com/newhighsco/config/commit/fa642d7f9674419550b17bd2fe02435123c7c030))
+* **deps:** update dependency eslint-plugin-storybook to v10.1.6 ([#2382](https://github.com/newhighsco/config/issues/2382)) ([42ff28d](https://github.com/newhighsco/config/commit/42ff28d49ebf2c6140356868ad926510ac619dff))
+* **deps:** update dependency eslint-plugin-storybook to v10.1.7 ([#2384](https://github.com/newhighsco/config/issues/2384)) ([69daffe](https://github.com/newhighsco/config/commit/69daffe54f0225cd6dd0076d60bee407cfd5f94f))
+* **deps:** update dependency eslint-plugin-storybook to v10.1.8 ([#2386](https://github.com/newhighsco/config/issues/2386)) ([9d1ca16](https://github.com/newhighsco/config/commit/9d1ca16b7906f6a7668ac12aca6e06d6b7fa94d4))
+* **deps:** update dependency eslint-plugin-storybook to v10.1.9 ([#2392](https://github.com/newhighsco/config/issues/2392)) ([3cd8565](https://github.com/newhighsco/config/commit/3cd85655242f5cf2e55ff37b613f0ed99dc98ac3))
+* **deps:** update dependency eslint-plugin-testing-library to v7.13.6 ([#2385](https://github.com/newhighsco/config/issues/2385)) ([7f9218e](https://github.com/newhighsco/config/commit/7f9218e5a51eedb72f7183e32b29225afea47c03))
+* **deps:** update dependency eslint-plugin-testing-library to v7.14.0 ([#2391](https://github.com/newhighsco/config/issues/2391)) ([551ee5b](https://github.com/newhighsco/config/commit/551ee5bbc495e8b1606ea5ddc11749aca5b59902))
+* **deps:** update dependency eslint-plugin-testing-library to v7.15.0 ([#2393](https://github.com/newhighsco/config/issues/2393)) ([93c531f](https://github.com/newhighsco/config/commit/93c531f5c565575022f95506a1cdd84523ddef71))
+* **deps:** update dependency eslint-plugin-testing-library to v7.15.1 ([#2394](https://github.com/newhighsco/config/issues/2394)) ([2aa8202](https://github.com/newhighsco/config/commit/2aa82026d8ea44edd66ef1836a9cd8dc9a62fdbb))
+* **deps:** update dependency eslint-plugin-testing-library to v7.15.2 ([#2398](https://github.com/newhighsco/config/issues/2398)) ([e85df3c](https://github.com/newhighsco/config/commit/e85df3cf2e737d99ea5fa2c822ec127f83cc901d))
+* **deps:** update dependency eslint-plugin-testing-library to v7.15.3 ([#2399](https://github.com/newhighsco/config/issues/2399)) ([76552c1](https://github.com/newhighsco/config/commit/76552c125aa02e1e1dd62440b1b46ae4325c3f8d))
+* **deps:** update dependency eslint-plugin-testing-library to v7.15.4 ([#2405](https://github.com/newhighsco/config/issues/2405)) ([4548cfb](https://github.com/newhighsco/config/commit/4548cfbc09bc93226d551562128284add4eb6651))
+
 ## @newhighsco/eslint-config [6.0.6](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@6.0.5...@newhighsco/eslint-config@6.0.6) (2025-12-09)
 
 
