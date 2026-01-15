@@ -1,3 +1,19 @@
+## @newhighsco/postcss-config [4.0.10](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@4.0.9...@newhighsco/postcss-config@4.0.10) (2026-01-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency autoprefixer to v10.4.23 ([#2389](https://github.com/newhighsco/config/issues/2389)) ([1969908](https://github.com/newhighsco/config/commit/1969908bb385fee65c9066dd3ff32de3de487f7c))
+* **deps:** update dependency caniuse-lite to v1.0.30001760 ([#2380](https://github.com/newhighsco/config/issues/2380)) ([126a928](https://github.com/newhighsco/config/commit/126a928377a9297264d83ce54c3cba4d925f47f6))
+* **deps:** update dependency caniuse-lite to v1.0.30001761 ([#2396](https://github.com/newhighsco/config/issues/2396)) ([c5ad304](https://github.com/newhighsco/config/commit/c5ad3040d81966e8dfaa9de2e07a8de904659724))
+* **deps:** update dependency caniuse-lite to v1.0.30001762 ([#2404](https://github.com/newhighsco/config/issues/2404)) ([ac48042](https://github.com/newhighsco/config/commit/ac48042e7a527148df4d242cf6eac2c163e8931d))
+* **deps:** update dependency caniuse-lite to v1.0.30001763 ([#2409](https://github.com/newhighsco/config/issues/2409)) ([3cf1c0d](https://github.com/newhighsco/config/commit/3cf1c0da1abfb6538ff82a65c6b8e315e30de0d2))
+* **deps:** update dependency caniuse-lite to v1.0.30001764 ([#2414](https://github.com/newhighsco/config/issues/2414)) ([0a26189](https://github.com/newhighsco/config/commit/0a26189d9033cc9c746c23fa26d40819b90e489f))
+* **deps:** update dependency postcss-preset-env to v10.6.0 ([#2400](https://github.com/newhighsco/config/issues/2400)) ([253250e](https://github.com/newhighsco/config/commit/253250eba7ffa430eb92cf33139cfa743d468bde))
+* **deps:** update dependency postcss-preset-env to v10.6.1 ([#2413](https://github.com/newhighsco/config/issues/2413)) ([c39b1aa](https://github.com/newhighsco/config/commit/c39b1aae5199b674ccfea0f264d66d544df023d8))
+* **deps:** update dependency postcss-preset-env to v11 ([#2418](https://github.com/newhighsco/config/issues/2418)) ([360aeb7](https://github.com/newhighsco/config/commit/360aeb729b554c520c51d099c3ef6490e0b636be))
+* **deps:** update dependency postcss-preset-env to v11.1.0 ([#2420](https://github.com/newhighsco/config/issues/2420)) ([2d4a699](https://github.com/newhighsco/config/commit/2d4a69935ac365c4bb72111a9116921e60ba38ea))
+
 ## @newhighsco/postcss-config [4.0.9](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@4.0.8...@newhighsco/postcss-config@4.0.9) (2025-12-05)
 
 
