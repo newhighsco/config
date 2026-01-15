@@ -1,3 +1,10 @@
+## @newhighsco/browserslist-config [2.0.1](https://github.com/newhighsco/config/compare/@newhighsco/browserslist-config@2.0.0...@newhighsco/browserslist-config@2.0.1) (2026-01-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency autoprefixer to v10.4.23 ([#2389](https://github.com/newhighsco/config/issues/2389)) ([1969908](https://github.com/newhighsco/config/commit/1969908bb385fee65c9066dd3ff32de3de487f7c))
+
 # @newhighsco/browserslist-config [2.0.0](https://github.com/newhighsco/config/compare/@newhighsco/browserslist-config@1.1.0...@newhighsco/browserslist-config@2.0.0) (2025-06-27)
 
 
