@@ -1,3 +1,10 @@
+## @newhighsco/postcss-config [4.0.17](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@4.0.16...@newhighsco/postcss-config@4.0.17) (2026-02-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency caniuse-lite to v1.0.30001767 ([#2446](https://github.com/newhighsco/config/issues/2446)) ([285535a](https://github.com/newhighsco/config/commit/285535a2e7f4585887e609f97b6bea3b6d6bd4d0))
+
 ## @newhighsco/postcss-config [4.0.16](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@4.0.15...@newhighsco/postcss-config@4.0.16) (2026-01-30)
 
 
