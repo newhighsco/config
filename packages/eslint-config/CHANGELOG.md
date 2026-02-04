@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [6.0.15](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@6.0.14...@newhighsco/eslint-config@6.0.15) (2026-02-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-storybook to v10.2.5 ([#2450](https://github.com/newhighsco/config/issues/2450)) ([6ceb94d](https://github.com/newhighsco/config/commit/6ceb94d32f9cd5cf0d96fd316e44ab0806fbfc34))
+
 ## @newhighsco/eslint-config [6.0.14](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@6.0.13...@newhighsco/eslint-config@6.0.14) (2026-02-02)
 
 
