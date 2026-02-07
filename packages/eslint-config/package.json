@@ -47,10 +47,10 @@
   },
   "devDependencies": {
     "@types/react": "19.2.13",
-    "eslint": "9.39.2"
+    "eslint": "10.0.0"
   },
   "peerDependencies": {
-    "eslint": "^9",
+    "eslint": "^9 || ^10.0.0",
     "prettier": "^3",
     "storybook": "^10",
     "typescript": "^5"
