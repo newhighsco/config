@@ -22,35 +22,28 @@
   "files": [],
   "dependencies": {
     "@eslint/compat": "2.0.2",
+    "@eslint/js": "10.0.1",
     "@eslint/json": "1.0.0",
-    "@eslint/eslintrc": "3.3.3",
-    "@typescript-eslint/eslint-plugin": "7.18.0",
-    "@typescript-eslint/parser": "7.18.0",
     "eslint-config-prettier": "10.1.8",
-    "eslint-config-standard": "17.1.0",
-    "eslint-config-standard-jsx": "11.0.0",
-    "eslint-config-standard-react": "13.0.0",
-    "eslint-config-love": "44.0.0",
     "eslint-formatter-junit": "9.0.1",
     "eslint-plugin-cypress": "5.3.0",
     "eslint-plugin-import": "2.32.0",
     "eslint-plugin-jsx-a11y": "6.10.2",
-    "eslint-plugin-mdx": "3.6.2",
-    "eslint-plugin-n": "17.23.2",
     "eslint-plugin-prettier": "5.5.5",
-    "eslint-plugin-promise": "7.2.1",
     "eslint-plugin-react": "7.37.5",
     "eslint-plugin-react-hooks": "7.0.1",
     "eslint-plugin-simple-import-sort": "12.1.1",
     "eslint-plugin-storybook": "10.2.8",
-    "eslint-plugin-testing-library": "7.15.4"
+    "eslint-plugin-testing-library": "7.15.4",
+    "find-up": "8.0.0",
+    "typescript-eslint": "8.55.0"
   },
   "devDependencies": {
     "@types/react": "19.2.13",
-    "eslint": "9.39.2"
+    "eslint": "10.0.0"
   },
   "peerDependencies": {
-    "eslint": "^9",
+    "eslint": "^10",
     "prettier": "^3",
     "storybook": "^10",
     "typescript": "^5"
