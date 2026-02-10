@@ -11,7 +11,6 @@ import simpleImportSort from 'eslint-plugin-simple-import-sort'
 import testingLibrary from 'eslint-plugin-testing-library'
 import { findUp } from 'find-up'
 import globals from 'globals'
-import typescript from 'typescript-eslint'
 
 const existsDependency = async name =>
   await import(name).then(() => true).catch(() => false)
@@ -20,6 +19,21 @@ const optionalDependency = async name =>
   await import(name)
     .then(({ default: plugin }) => plugin)
     .catch(() => undefined)
+
+let typescriptConfig = []
+
+if (await existsDependency('typescript')) {
+  const typescript = await optionalDependency('typescript-eslint')
+
+  typescriptConfig = [
+    typescript.configs.recommended,
+    {
+      files: ['**/*.ts?(x)'],
+      rules: { '@typescript-eslint/consistent-type-imports': 'error' }
+    },
+    { files: ['**/*.ts?(x)'], ...prettierRecommended }
+  ]
+}
 
 /** @type {import("@eslint/config-helpers").ConfigWithExtendsArray} */
 const configs = [
@@ -36,14 +50,7 @@ const configs = [
     }
   },
   // Typescript
-  ...((await existsDependency('typescript')) && [
-    typescript.configs.recommended,
-    {
-      files: ['**/*.ts?(x)'],
-      rules: { '@typescript-eslint/consistent-type-imports': 'error' }
-    },
-    { files: ['**/*.ts?(x)'], ...prettierRecommended }
-  ]),
+  ...typescriptConfig,
   // Javascript
   {
     files: ['**/*.?(c|m)js'],
