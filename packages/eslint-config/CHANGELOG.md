@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [7.0.1](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.0...@newhighsco/eslint-config@7.0.1) (2026-02-10)
+
+
+### Bug Fixes
+
+* **eslint:** optionally load typescript rules ([a6658d2](https://github.com/newhighsco/config/commit/a6658d20633dce4a9524b4af3be19bdf9fb78770))
+
 # @newhighsco/eslint-config [7.0.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@6.0.19...@newhighsco/eslint-config@7.0.0) (2026-02-10)
 
 
