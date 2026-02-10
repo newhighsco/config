@@ -1,15 +1,17 @@
-import { existsSync } from 'node:fs'
-import { join } from 'node:path'
-
 import { includeIgnoreFile } from '@eslint/compat'
-import { FlatCompat } from '@eslint/eslintrc'
+import javascript from '@eslint/js'
 import json from '@eslint/json'
 import { defineConfig } from 'eslint/config'
 import cypress from 'eslint-plugin-cypress'
+import jsxA11y from 'eslint-plugin-jsx-a11y'
 import prettierRecommended from 'eslint-plugin-prettier/recommended'
+import react from 'eslint-plugin-react'
+import reactHooks from 'eslint-plugin-react-hooks'
 import simpleImportSort from 'eslint-plugin-simple-import-sort'
 import testingLibrary from 'eslint-plugin-testing-library'
+import { findUp } from 'find-up'
 import globals from 'globals'
+import typescript from 'typescript-eslint'
 
 const existsDependency = async name =>
   await import(name).then(() => true).catch(() => false)
@@ -19,63 +21,43 @@ const optionalDependency = async name =>
     .then(({ default: plugin }) => plugin)
     .catch(() => undefined)
 
-const legacy = new FlatCompat().config({
-  overrides: [
-    // Javascript
-    {
-      files: ['*.?(c|m)js'],
-      extends: ['standard', 'plugin:prettier/recommended']
-    },
-    // Typescript
-    (await existsDependency('typescript')) && {
-      files: ['*.ts?(x)'],
-      extends: ['love', 'plugin:prettier/recommended'],
-      parserOptions: {
-        project: './tsconfig.json',
-        warnOnUnsupportedTypeScriptVersion: false
-      },
-      rules: {
-        '@typescript-eslint/consistent-type-assertions': [
-          'error',
-          { assertionStyle: 'as', objectLiteralTypeAssertions: 'allow' }
-        ],
-        '@typescript-eslint/no-unsafe-argument': 'off',
-        '@typescript-eslint/prefer-nullish-coalescing': 'off',
-        '@typescript-eslint/strict-boolean-expressions': 'off'
-      }
-    },
-    // React
-    {
-      files: ['*.{js,ts,md}x'],
-      env: { browser: true },
-      extends: [
-        'standard-react',
-        'standard-jsx',
-        'plugin:prettier/recommended',
-        'plugin:jsx-a11y/recommended',
-        'plugin:mdx/recommended'
-      ],
-      rules: {
-        // Overrides standard-react
-        'jsx-quotes': ['error', 'prefer-double']
-      }
-    }
-  ].filter(Boolean)
-})
-
-// console.log(111, JSON.stringify(legacy, null, 2))
-
+/** @type {import("@eslint/config-helpers").ConfigWithExtendsArray} */
 const configs = [
   {
     ignores: ['!.github', '!.storybook'],
-    languageOptions: { globals: { ...globals.jest } },
+    languageOptions: {
+      globals: { ...globals.jest },
+      parserOptions: { warnOnUnsupportedTypeScriptVersion: false }
+    },
     plugins: { 'simple-import-sort': simpleImportSort },
     rules: {
       'simple-import-sort/imports': 'error',
       'simple-import-sort/exports': 'error'
     }
   },
-  ...legacy,
+  // Typescript
+  ...((await existsDependency('typescript')) && [
+    typescript.configs.recommended,
+    {
+      files: ['**/*.ts?(x)'],
+      rules: { '@typescript-eslint/consistent-type-imports': 'error' }
+    },
+    { files: ['**/*.ts?(x)'], ...prettierRecommended }
+  ]),
+  // Javascript
+  {
+    files: ['**/*.?(c|m)js'],
+    ...javascript.configs.recommended,
+    ...prettierRecommended,
+    rules: { '@typescript-eslint/no-require-imports': 'off' }
+  },
+  // React
+  {
+    files: ['**/*.{js,ts}x'],
+    ...reactHooks.configs.flat.recommended,
+    plugins: { react, 'jsx-a11y': jsxA11y },
+    rules: { 'jsx-quotes': ['error', 'prefer-double'] }
+  },
   // JSON
   { files: ['**/*.json'], plugins: { json }, language: 'json/json' },
   { files: ['**/*.json'], ...prettierRecommended },
@@ -95,7 +77,7 @@ const configs = [
   },
   // Cypress
   { files: ['**/*.cy.*'], extends: [cypress.configs.recommended] }
-]
+].filter(Boolean)
 
 // Storybook
 if (await existsDependency('storybook')) {
@@ -112,9 +94,9 @@ if (await existsDependency('storybook')) {
 }
 
 // .gitignore
-const gitignore = join(process.cwd(), '.gitignore')
+const gitignore = await findUp('.gitignore')
 
-if (existsSync(gitignore)) {
+if (!!gitignore) {
   configs.push(includeIgnoreFile(gitignore))
 }
 
