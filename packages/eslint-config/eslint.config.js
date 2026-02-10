@@ -62,6 +62,7 @@ const configs = [
   {
     files: ['**/*.{js,ts}x'],
     ...reactHooks.configs.flat.recommended,
+    languageOptions: { parserOptions: { ecmaFeatures: { jsx: true } } },
     plugins: { react, 'jsx-a11y': jsxA11y },
     rules: { 'jsx-quotes': ['error', 'prefer-double'] }
   },
