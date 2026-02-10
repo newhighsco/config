@@ -1,3 +1,15 @@
+# @newhighsco/eslint-config [7.0.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@6.0.19...@newhighsco/eslint-config@7.0.0) (2026-02-10)
+
+
+* feat(eslint)!: fully flat config ([#2465](https://github.com/newhighsco/config/issues/2465)) ([bc3fb7a](https://github.com/newhighsco/config/commit/bc3fb7ae117a23fe367c073f34484382147c89f1))
+
+
+### BREAKING CHANGES
+
+* Requires eslint v10
+
+* chore(deps): change junit format to dev dependency
+
 ## @newhighsco/eslint-config [6.0.19](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@6.0.18...@newhighsco/eslint-config@6.0.19) (2026-02-09)
 
 
