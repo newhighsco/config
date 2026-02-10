@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [7.0.2](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.1...@newhighsco/eslint-config@7.0.2) (2026-02-10)
+
+
+### Bug Fixes
+
+* **eslint:** parse `.jsx` files correctly ([d26c64a](https://github.com/newhighsco/config/commit/d26c64aded0828f01fb1f2bd9ee7aba4011d63df))
+
 ## @newhighsco/eslint-config [7.0.1](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.0...@newhighsco/eslint-config@7.0.1) (2026-02-10)
 
 
