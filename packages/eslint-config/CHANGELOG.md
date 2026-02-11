@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [7.0.3](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.2...@newhighsco/eslint-config@7.0.3) (2026-02-11)
+
+
+### Bug Fixes
+
+* **eslint:** ignore .yarn directory ([2caeca4](https://github.com/newhighsco/config/commit/2caeca4ddc5ee2deffb1db01c9c7dd2ecff048ce))
+
 ## @newhighsco/eslint-config [7.0.2](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.1...@newhighsco/eslint-config@7.0.2) (2026-02-10)
 
 
