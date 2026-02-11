@@ -38,7 +38,7 @@
     "typescript-eslint": "8.55.0"
   },
   "devDependencies": {
-    "@types/react": "19.2.13",
+    "@types/react": "19.2.14",
     "eslint": "10.0.0",
     "eslint-formatter-junit": "9.0.1"
   },
