@@ -15,14 +15,15 @@
   "bugs": {
     "url": "https://github.com/newhighsco/config/issues"
   },
+  "packageManager": "yarn@4.12.0",
   "scripts": {
     "prepare": "husky",
     "pretest": "yarn lint",
-    "test": "yarn workspaces run test",
-    "lint": "concurrently yarn:lint:*",
+    "test": "yarn workspaces foreach --all run test",
+    "lint": "concurrently 'yarn:lint:*'",
     "lint:js": "eslint .",
     "lint:css": "stylelint --ignore-path .gitignore '**/*.?(s)css'",
-    "format": "concurrently yarn:format:*",
+    "format": "concurrently 'yarn:format:*'",
     "format:js": "yarn lint:js --fix",
     "format:css": "yarn lint:css --fix"
   },

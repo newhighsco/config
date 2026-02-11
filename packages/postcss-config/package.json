@@ -4,7 +4,6 @@
   "version": "4.0.19",
   "author": "New High Score",
   "license": "ISC",
-  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/newhighsco/config.git",
@@ -20,7 +19,7 @@
   ],
   "scripts": {
     "pretest": "rm -rf dist",
-    "test": "concurrently yarn:test:*",
+    "test": "concurrently 'yarn:test:*'",
     "test:index": "postcss __tests__/*.css --config __tests__/config --output dist/index.css",
     "test:purge": "postcss __tests__/*.css --config __tests__/config/purgecss --output dist/purgecss.css"
   },

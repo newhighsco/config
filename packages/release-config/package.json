@@ -4,7 +4,6 @@
   "version": "1.4.24",
   "author": "New High Score",
   "license": "ISC",
-  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/newhighsco/config.git",
@@ -19,7 +18,7 @@
     "orb.js"
   ],
   "scripts": {
-    "test": "GITHUB_ASSETS=version.txt yarn semantic-release --dry-run --no-ci --debug"
+    "test": "GITHUB_ASSETS=version.txt yarn dlx semantic-release --dry-run --no-ci --debug"
   },
   "dependencies": {
     "@semantic-release/changelog": "6.0.3",
