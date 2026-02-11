@@ -1,7 +1,7 @@
 import { includeIgnoreFile } from '@eslint/compat'
 import javascript from '@eslint/js'
 import json from '@eslint/json'
-import { defineConfig } from 'eslint/config'
+import { defineConfig, globalIgnores } from 'eslint/config'
 import cypress from 'eslint-plugin-cypress'
 import jsxA11y from 'eslint-plugin-jsx-a11y'
 import prettierRecommended from 'eslint-plugin-prettier/recommended'
@@ -37,8 +37,8 @@ if (await existsDependency('typescript')) {
 
 /** @type {import("@eslint/config-helpers").ConfigWithExtendsArray} */
 const configs = [
+  globalIgnores(['.yarn', '!.github', '!.storybook']),
   {
-    ignores: ['.yarn', '!.github', '!.storybook'],
     languageOptions: {
       globals: { ...globals.jest },
       parserOptions: { warnOnUnsupportedTypeScriptVersion: false }
