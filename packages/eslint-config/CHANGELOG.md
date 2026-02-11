@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [7.0.4](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.3...@newhighsco/eslint-config@7.0.4) (2026-02-11)
+
+
+### Bug Fixes
+
+* **eslint:** use `globalIgnores` ([#2469](https://github.com/newhighsco/config/issues/2469)) ([5783ce3](https://github.com/newhighsco/config/commit/5783ce32048f2ca275c3a283fa21bfcd744aade6))
+
 ## @newhighsco/eslint-config [7.0.3](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.2...@newhighsco/eslint-config@7.0.3) (2026-02-11)
 
 
