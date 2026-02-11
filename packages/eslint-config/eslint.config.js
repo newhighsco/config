@@ -38,7 +38,7 @@ if (await existsDependency('typescript')) {
 /** @type {import("@eslint/config-helpers").ConfigWithExtendsArray} */
 const configs = [
   {
-    ignores: ['!.github', '!.storybook'],
+    ignores: ['.yarn', '!.github', '!.storybook'],
     languageOptions: {
       globals: { ...globals.jest },
       parserOptions: { warnOnUnsupportedTypeScriptVersion: false }
