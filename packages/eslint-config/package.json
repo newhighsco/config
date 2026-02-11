@@ -22,7 +22,7 @@
   "dependencies": {
     "@eslint/compat": "2.0.2",
     "@eslint/js": "10.0.1",
-    "@eslint/json": "1.0.0",
+    "@eslint/json": "1.0.1",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-cypress": "5.3.0",
     "eslint-plugin-import": "2.32.0",
