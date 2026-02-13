@@ -1,3 +1,10 @@
+## @newhighsco/stylelint-config [4.0.27](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@4.0.26...@newhighsco/stylelint-config@4.0.27) (2026-02-13)
+
+
+### Bug Fixes
+
+* **stylelint:** remove unneeded `stylelint-config-prettier` ([0b819aa](https://github.com/newhighsco/config/commit/0b819aafa49a70494ef8a9209d05bdabd52952e3))
+
 ## @newhighsco/stylelint-config [4.0.26](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@4.0.25...@newhighsco/stylelint-config@4.0.26) (2026-02-13)
 
 
