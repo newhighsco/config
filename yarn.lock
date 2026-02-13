@@ -1434,7 +1434,6 @@ __metadata:
   dependencies:
     stylelint: "npm:17.3.0"
     stylelint-config-css-modules: "npm:4.6.0"
-    stylelint-config-prettier: "npm:9.0.5"
     stylelint-config-standard-scss: "npm:17.0.0"
     stylelint-junit-formatter: "npm:0.2.2"
     stylelint-order: "npm:7.0.1"
@@ -11166,18 +11165,6 @@ __metadata:
     stylelint-scss:
       optional: true
   checksum: 10c0/b6ff7e20d6b87627cd828304a88d3f3f312244544f190af3d80a8688d035d30cc0f9a6e9de3eb9839b8eee925845a536a1034570077713388c5fbd6ef0e68489
-  languageName: node
-  linkType: hard
-
-"stylelint-config-prettier@npm:9.0.5":
-  version: 9.0.5
-  resolution: "stylelint-config-prettier@npm:9.0.5"
-  peerDependencies:
-    stylelint: ">= 11.x < 15"
-  bin:
-    stylelint-config-prettier: bin/check.js
-    stylelint-config-prettier-check: bin/check.js
-  checksum: 10c0/4fb049b3ea00a9fff009b83583d42b7c76978d1befe8e3132ab2722deb25601931b076902a2fab4d4570ece03ec0cb8ba062cc59a9440251a32eb71d1b29803c
   languageName: node
   linkType: hard
 
