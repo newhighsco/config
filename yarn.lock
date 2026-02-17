@@ -1359,7 +1359,7 @@ __metadata:
     eslint-plugin-react-hooks: "npm:7.0.1"
     eslint-plugin-simple-import-sort: "npm:12.1.1"
     eslint-plugin-storybook: "npm:10.2.9"
-    eslint-plugin-testing-library: "npm:7.15.4"
+    eslint-plugin-testing-library: "npm:7.16.0"
     find-up: "npm:8.0.0"
     typescript-eslint: "npm:8.56.0"
   peerDependencies:
@@ -2892,7 +2892,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/scope-manager@npm:8.56.0, @typescript-eslint/scope-manager@npm:^8.51.0":
+"@typescript-eslint/scope-manager@npm:8.56.0, @typescript-eslint/scope-manager@npm:^8.56.0":
   version: 8.56.0
   resolution: "@typescript-eslint/scope-manager@npm:8.56.0"
   dependencies:
@@ -2953,7 +2953,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/utils@npm:8.56.0, @typescript-eslint/utils@npm:^8.48.0, @typescript-eslint/utils@npm:^8.51.0":
+"@typescript-eslint/utils@npm:8.56.0, @typescript-eslint/utils@npm:^8.48.0, @typescript-eslint/utils@npm:^8.56.0":
   version: 8.56.0
   resolution: "@typescript-eslint/utils@npm:8.56.0"
   dependencies:
@@ -5069,15 +5069,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-testing-library@npm:7.15.4":
-  version: 7.15.4
-  resolution: "eslint-plugin-testing-library@npm:7.15.4"
+"eslint-plugin-testing-library@npm:7.16.0":
+  version: 7.16.0
+  resolution: "eslint-plugin-testing-library@npm:7.16.0"
   dependencies:
-    "@typescript-eslint/scope-manager": "npm:^8.51.0"
-    "@typescript-eslint/utils": "npm:^8.51.0"
+    "@typescript-eslint/scope-manager": "npm:^8.56.0"
+    "@typescript-eslint/utils": "npm:^8.56.0"
   peerDependencies:
-    eslint: ^8.57.0 || ^9.0.0
-  checksum: 10c0/5c35dd1c0dbb6bbbae5f379c4508d0efd377fd99ba75ee63607650a7c695ae88240984d547329a18a5d0ba3126d51c1cdf4b904856242214dcfac3f13835f051
+    eslint: ^8.57.0 || ^9.0.0 || ^10.0.0
+  checksum: 10c0/d8b997dc04f8ccb8c57d3e0b13c1a0b205aa9e6f4e52543acc39829e85f149f85fb4d1b506002776a5c5514b3a51b44cf354396c1ade3091217bf258450c3bf5
   languageName: node
   linkType: hard
 
