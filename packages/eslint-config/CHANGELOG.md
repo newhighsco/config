@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [7.0.8](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.7...@newhighsco/eslint-config@7.0.8) (2026-02-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-testing-library to v7.16.0 ([#2478](https://github.com/newhighsco/config/issues/2478)) ([88cb3d0](https://github.com/newhighsco/config/commit/88cb3d0e7939327fe15ee2cc0ba5b0a745da5b1f))
+
 ## @newhighsco/eslint-config [7.0.7](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.6...@newhighsco/eslint-config@7.0.7) (2026-02-17)
 
 
