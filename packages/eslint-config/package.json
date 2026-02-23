@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@types/react": "19.2.14",
-    "eslint": "10.0.1",
+    "eslint": "10.0.2",
     "eslint-formatter-junit": "9.0.1"
   },
   "peerDependencies": {
