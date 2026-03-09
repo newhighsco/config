@@ -1110,7 +1110,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/core@npm:^1.1.0, @eslint/core@npm:^1.1.1":
+"@eslint/core@npm:^1.1.1":
   version: 1.1.1
   resolution: "@eslint/core@npm:1.1.1"
   dependencies:
@@ -1131,15 +1131,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/json@npm:1.0.1":
-  version: 1.0.1
-  resolution: "@eslint/json@npm:1.0.1"
+"@eslint/json@npm:1.1.0":
+  version: 1.1.0
+  resolution: "@eslint/json@npm:1.1.0"
   dependencies:
-    "@eslint/core": "npm:^1.1.0"
-    "@eslint/plugin-kit": "npm:^0.6.0"
+    "@eslint/core": "npm:^1.1.1"
+    "@eslint/plugin-kit": "npm:^0.6.1"
     "@humanwhocodes/momoa": "npm:^3.3.10"
     natural-compare: "npm:^1.4.0"
-  checksum: 10c0/9d1288e63557fbcea415ac069625192e91d62513a4e4c9abd67e4a2cfa2e2ff04e02572d78ca40aad468d243db8043070ae314a281b417066e87d92fcc6ac3d6
+  checksum: 10c0/e27666b9a38c6dc00b52f70e409f2211ead44bebff034f7aec8b0844b23b111b32e286806bb21d02d68be40c93ac240eb5678df89accdddf368abae7f569f1bf
   languageName: node
   linkType: hard
 
@@ -1150,7 +1150,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/plugin-kit@npm:^0.6.0, @eslint/plugin-kit@npm:^0.6.1":
+"@eslint/plugin-kit@npm:^0.6.1":
   version: 0.6.1
   resolution: "@eslint/plugin-kit@npm:0.6.1"
   dependencies:
@@ -1369,7 +1369,7 @@ __metadata:
   dependencies:
     "@eslint/compat": "npm:2.0.3"
     "@eslint/js": "npm:10.0.1"
-    "@eslint/json": "npm:1.0.1"
+    "@eslint/json": "npm:1.1.0"
     "@types/react": "npm:19.2.14"
     eslint: "npm:10.0.3"
     eslint-config-prettier: "npm:10.1.8"
