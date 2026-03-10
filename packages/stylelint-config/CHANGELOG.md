@@ -1,3 +1,10 @@
+## @newhighsco/stylelint-config [4.0.29](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@4.0.28...@newhighsco/stylelint-config@4.0.29) (2026-03-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-order to v8 ([#2514](https://github.com/newhighsco/config/issues/2514)) ([b16d7cb](https://github.com/newhighsco/config/commit/b16d7cbbda941466a3aa46a36f135c5c99c4315f))
+
 ## @newhighsco/stylelint-config [4.0.28](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@4.0.27...@newhighsco/stylelint-config@4.0.28) (2026-02-25)
 
 
