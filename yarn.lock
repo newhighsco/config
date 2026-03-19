@@ -1370,7 +1370,7 @@ __metadata:
     "@newhighsco/release-config": "npm:*"
     "@newhighsco/stylelint-config": "npm:*"
     "@newhighsco/ts-config": "npm:*"
-    "@newhighsco/yarn-plugin-preset": "npm:1.1.1"
+    "@newhighsco/yarn-plugin-preset": "npm:1.1.2"
     "@qiwi/multi-semantic-release": "npm:7.1.2"
     concurrently: "npm:9.2.1"
     eslint: "npm:10.0.3"
@@ -1506,13 +1506,13 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@newhighsco/yarn-plugin-preset@npm:1.1.1":
-  version: 1.1.1
-  resolution: "@newhighsco/yarn-plugin-preset@npm:1.1.1"
+"@newhighsco/yarn-plugin-preset@npm:1.1.2":
+  version: 1.1.2
+  resolution: "@newhighsco/yarn-plugin-preset@npm:1.1.2"
   dependencies:
-    "@yarnpkg/core": "npm:4.5.0"
+    "@yarnpkg/core": "npm:4.6.0"
     "@yarnpkg/shell": "npm:4.1.3"
-  checksum: 10c0/438a35180c781db9c30434c18f63462e2bb1d5b9f3c72bc4801023d3d6119d6376e8bd3f6e042f1fddf3a42de73c730bca3e22541dac3444ab8ae67381b432b3
+  checksum: 10c0/780b0847e6b01f8d9c14ccef70a7bc76204231ebbf75144f44b9b2d60f431531adcaadfc63731177e3f9084d19d1468048ee66740c715e740caf8cd640e56a3c
   languageName: node
   linkType: hard
 
@@ -3128,14 +3128,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@yarnpkg/core@npm:4.5.0":
-  version: 4.5.0
-  resolution: "@yarnpkg/core@npm:4.5.0"
+"@yarnpkg/core@npm:4.6.0":
+  version: 4.6.0
+  resolution: "@yarnpkg/core@npm:4.6.0"
   dependencies:
     "@arcanis/slice-ansi": "npm:^1.1.1"
     "@types/semver": "npm:^7.1.0"
     "@types/treeify": "npm:^1.0.0"
-    "@yarnpkg/fslib": "npm:^3.1.4"
+    "@yarnpkg/fslib": "npm:^3.1.5"
     "@yarnpkg/libzip": "npm:^3.2.2"
     "@yarnpkg/parsers": "npm:^3.0.3"
     "@yarnpkg/shell": "npm:^4.1.3"
@@ -3154,20 +3154,20 @@ __metadata:
     p-limit: "npm:^2.2.0"
     semver: "npm:^7.1.2"
     strip-ansi: "npm:^6.0.0"
-    tar: "npm:^6.0.5"
+    tar: "npm:^7.5.3"
     tinylogic: "npm:^2.0.0"
     treeify: "npm:^1.1.0"
     tslib: "npm:^2.4.0"
-  checksum: 10c0/3fc4a161d243279c3d554a723dd21192bdaade0c852daffdb991e8411e3874ec1c50547d5bcc1abd14395290b820e3714f4d5a02a7bafcfd65509ad40dbeb2d1
+  checksum: 10c0/69c5f388c75f30001fd2c7cb6e4381d8f9f862a8f535a0c44b82f9cef087c7fc2464402af202700da56ca8ca0153a62727e3602dcfa68e5d29cfa60ab1d54d3a
   languageName: node
   linkType: hard
 
-"@yarnpkg/fslib@npm:^3.1.2, @yarnpkg/fslib@npm:^3.1.3, @yarnpkg/fslib@npm:^3.1.4":
-  version: 3.1.4
-  resolution: "@yarnpkg/fslib@npm:3.1.4"
+"@yarnpkg/fslib@npm:^3.1.2, @yarnpkg/fslib@npm:^3.1.3, @yarnpkg/fslib@npm:^3.1.5":
+  version: 3.1.5
+  resolution: "@yarnpkg/fslib@npm:3.1.5"
   dependencies:
     tslib: "npm:^2.4.0"
-  checksum: 10c0/d38e108a6349b34b6bd885ad9fc8dcc3b7d50be5e54246e260cba899a80b5c91c8e9b27ad1e9c59b2d46e02cc07f8b7d839a851e388aa568d6efc85f5d6d10dc
+  checksum: 10c0/e360209a31d60cc8452417cdd750d9d7c5face37eb3508de2947477509f3a93c6c5d0737bf1a3a270bce5ef16dd4f5a562fb9489c7d9b80aa10cc787c45485d3
   languageName: node
   linkType: hard
 
@@ -11961,7 +11961,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tar@npm:^6.0.5, tar@npm:^6.1.11, tar@npm:^6.1.13, tar@npm:^6.1.2, tar@npm:^6.2.1":
+"tar@npm:^6.1.11, tar@npm:^6.1.13, tar@npm:^6.1.2, tar@npm:^6.2.1":
   version: 6.2.1
   resolution: "tar@npm:6.2.1"
   dependencies:
@@ -11975,7 +11975,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tar@npm:^7.4.3, tar@npm:^7.5.1, tar@npm:^7.5.11, tar@npm:^7.5.4":
+"tar@npm:^7.4.3, tar@npm:^7.5.1, tar@npm:^7.5.11, tar@npm:^7.5.3, tar@npm:^7.5.4":
   version: 7.5.11
   resolution: "tar@npm:7.5.11"
   dependencies:
