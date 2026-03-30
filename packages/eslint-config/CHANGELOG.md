@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [7.0.36](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.35...@newhighsco/eslint-config@7.0.36) (2026-03-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency typescript-eslint to v8.58.0 ([#2546](https://github.com/newhighsco/config/issues/2546)) ([fc95050](https://github.com/newhighsco/config/commit/fc95050770bfe299151806993ed720d938e59fe9))
+
 ## @newhighsco/eslint-config [7.0.35](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.34...@newhighsco/eslint-config@7.0.35) (2026-03-24)
 
 
