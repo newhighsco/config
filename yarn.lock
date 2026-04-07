@@ -1406,7 +1406,7 @@ __metadata:
     eslint: "npm:10.2.0"
     eslint-config-prettier: "npm:10.1.8"
     eslint-formatter-junit: "npm:9.0.1"
-    eslint-plugin-cypress: "npm:6.2.2"
+    eslint-plugin-cypress: "npm:6.2.3"
     eslint-plugin-import: "npm:2.32.0"
     eslint-plugin-jsx-a11y: "npm:6.10.2"
     eslint-plugin-prettier: "npm:5.5.5"
@@ -5243,14 +5243,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-cypress@npm:6.2.2":
-  version: 6.2.2
-  resolution: "eslint-plugin-cypress@npm:6.2.2"
+"eslint-plugin-cypress@npm:6.2.3":
+  version: 6.2.3
+  resolution: "eslint-plugin-cypress@npm:6.2.3"
   dependencies:
     globals: "npm:^17.4.0"
   peerDependencies:
     eslint: ">=9"
-  checksum: 10c0/1a017d4acb596ffe2806658e81ec2cf38a50f537939f0c74db110ce3e52b3d9c5fb4949c96573437cdd93c7be4484342359201cdd13eeae18d239529cf9900be
+  checksum: 10c0/f4bb727f1e9bf9fe824d196d986caa5cd59e091ac08d4f7a03da978562332e628c41576ee9e8c0697f15915b52ba48a9603187671ad2baf51f6b733247626a4e
   languageName: node
   linkType: hard
 
