@@ -1441,7 +1441,7 @@ __metadata:
     postcss-flexbugs-fixes: "npm:5.0.2"
     postcss-preset-env: "npm:11.2.0"
   peerDependencies:
-    postcss: 8.5.8
+    postcss: 8.5.9
   languageName: unknown
   linkType: soft
 
