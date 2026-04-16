@@ -1,3 +1,10 @@
+## @newhighsco/release-config [1.4.27](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.4.26...@newhighsco/release-config@1.4.27) (2026-04-16)
+
+
+### Bug Fixes
+
+* **release-config:** add default assignees for failed release ([8f7b950](https://github.com/newhighsco/config/commit/8f7b95043c75e0e36995113fc69473d9441766a2))
+
 ## @newhighsco/release-config [1.4.26](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.4.25...@newhighsco/release-config@1.4.26) (2026-03-01)
 
 
