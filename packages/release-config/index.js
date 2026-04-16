@@ -12,7 +12,7 @@ module.exports = {
     ],
     '@semantic-release/release-notes-generator',
     '@semantic-release/changelog',
-    ['@semantic-release/github', { assets }],
+    ['@semantic-release/github', { assets, assignees: ['benedfit'] }],
     '@semantic-release/npm',
     [
       '@semantic-release/git',
