@@ -1,3 +1,10 @@
+# @newhighsco/ts-config [1.1.0](https://github.com/newhighsco/config/compare/@newhighsco/ts-config@1.0.2...@newhighsco/ts-config@1.1.0) (2026-04-28)
+
+
+### Features
+
+* **tsconfig:** use `react-jsx` ([59b2c50](https://github.com/newhighsco/config/commit/59b2c50c430e6118e4c842e15fe5ca2d295df6f6))
+
 ## @newhighsco/ts-config [1.0.2](https://github.com/newhighsco/config/compare/@newhighsco/ts-config@1.0.1...@newhighsco/ts-config@1.0.2) (2025-07-01)
 
 
