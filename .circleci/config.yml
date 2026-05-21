@@ -11,6 +11,8 @@ workflows:
           name: setup
       - newhighsco/test:
           name: test
+          context:
+            - release
           requires:
             - setup
       - newhighsco/release:
