@@ -2983,11 +2983,11 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 25.8.0
-  resolution: "@types/node@npm:25.8.0"
+  version: 25.9.1
+  resolution: "@types/node@npm:25.9.1"
   dependencies:
     undici-types: "npm:>=7.24.0 <7.24.7"
-  checksum: 10c0/ff53e5428309d2e6060190ec5e02afd0e4a7369456b16130a7f5898f12a6ad0efd62d752830f2f7355d714ae429bc0acbb2dc0cbf761cadb03e88c4996cdf1dc
+  checksum: 10c0/9a04682842bebbcf21a1779dfeab9aa733d7bd7bbc0a0edb641ab3a9a3d43eac543225acf669c334f458f1956443ebc072bc3c72840c543b8b356cab5c82d456
   languageName: node
   linkType: hard
 
@@ -3704,11 +3704,11 @@ __metadata:
   linkType: hard
 
 "baseline-browser-mapping@npm:^2.10.12":
-  version: 2.10.30
-  resolution: "baseline-browser-mapping@npm:2.10.30"
+  version: 2.10.31
+  resolution: "baseline-browser-mapping@npm:2.10.31"
   bin:
     baseline-browser-mapping: dist/cli.cjs
-  checksum: 10c0/70e6ac962d5b52be0b9460a57adc2cd4ccd2b0ee7cb4688e96f3c79122622fac7fb98743c4f41a4f12bc5c677a7c13bbe19e7e2f9b7230b9283c1f07b3401f3e
+  checksum: 10c0/ecb6a10b4bb62d8660e3a4c525acdae2b1c7f68e4ec1e03f473b2050781b7131fbd562a200489ae987d11eb8ae85ec95d3ac77d9d84b4afe6548dfdfdceb6734
   languageName: node
   linkType: hard
 
@@ -4986,9 +4986,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.5.328":
-  version: 1.5.358
-  resolution: "electron-to-chromium@npm:1.5.358"
-  checksum: 10c0/86e3e5cb9541fe3a3d435e614b97024fda81c913a60ffa822b156995a8ffa1049f81cfa3e43888dae88d2e2c8254b1b51a8b9169858b3c4093ed3d34dc5de9bb
+  version: 1.5.360
+  resolution: "electron-to-chromium@npm:1.5.360"
+  checksum: 10c0/2f5936e5f3c1483c7fb2f741b109ef7eb4e1761b0fc944bf2898b0835aae235c7b257790edde4679ad780fbcb8be8734caa720a4644526110c77f7216b678233
   languageName: node
   linkType: hard
 
@@ -8073,9 +8073,9 @@ __metadata:
   linkType: hard
 
 "lru-cache@npm:^11.0.0, lru-cache@npm:^11.1.0, lru-cache@npm:^11.2.1":
-  version: 11.3.6
-  resolution: "lru-cache@npm:11.3.6"
-  checksum: 10c0/3afe3e3000e424c18b640dcea5776b5c1de8684b7dac9718d58792dff1a4692b38cc14e263cbb41bdab98ffcf5408f003b33133b179ce5d271284be72a3ff2a9
+  version: 11.5.0
+  resolution: "lru-cache@npm:11.5.0"
+  checksum: 10c0/b92c2a7518128dec6b244bf3eb9fd79964d316cdeb12865ebfc2cebb4dfe9b24e3767a3923d71e6eb735f56b557fc55f08f150a53097d7805afb628c90158df4
   languageName: node
   linkType: hard
 
@@ -8595,7 +8595,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nanoid@npm:^3.3.11":
+"nanoid@npm:^3.3.12":
   version: 3.3.12
   resolution: "nanoid@npm:3.3.12"
   bin:
@@ -8831,9 +8831,9 @@ __metadata:
   linkType: hard
 
 "normalize-url@npm:^9.0.0":
-  version: 9.0.0
-  resolution: "normalize-url@npm:9.0.0"
-  checksum: 10c0/ff8271b26b808dc4c9caf309e1f5f0dcf75e4e05c5c09f3ee3c9dde2bda7f761df1b4c9458758c1919e3420a71c464da8026c1a9a11dedff99c056f3efd6afbc
+  version: 9.0.1
+  resolution: "normalize-url@npm:9.0.1"
+  checksum: 10c0/fedcc5247819386494599f487dac2166944999eecfa0efeb3e9a6041aa77ff1656cc1495cbcd9cee202fea3dea51c1e9fc8b7f0fd332e0480b5863f12b60dc33
   languageName: node
   linkType: hard
 
@@ -10321,13 +10321,13 @@ __metadata:
   linkType: hard
 
 "postcss@npm:^8.4.47, postcss@npm:^8.5.14, postcss@npm:^8.5.8":
-  version: 8.5.14
-  resolution: "postcss@npm:8.5.14"
+  version: 8.5.15
+  resolution: "postcss@npm:8.5.15"
   dependencies:
-    nanoid: "npm:^3.3.11"
+    nanoid: "npm:^3.3.12"
     picocolors: "npm:^1.1.1"
     source-map-js: "npm:^1.2.1"
-  checksum: 10c0/48138207cf5ef5581be1bfe2cb65ccfe0ac75e43888ba045afc8ed6043d7b56aeb3b9a9fe5b353ff554be943cd0cc15d826ccb991525159175971e5ee8ab0237
+  checksum: 10c0/7f2e63ae22fbe43aace1bf652bd99da4e90737c64194d49e51ddc9cd0f9e51ff2861a7d734379b494deffa03a880a5c65eec70bc29ee9ebaa7136dde3eee8f31
   languageName: node
   linkType: hard
 
