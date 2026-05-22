@@ -16,6 +16,7 @@
   "type": "module",
   "main": "tsconfig.json",
   "exports": {
+    ".": "./tsconfig.json",
     "./*": "./*.json"
   },
   "files": [
