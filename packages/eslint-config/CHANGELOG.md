@@ -1,3 +1,10 @@
+# @newhighsco/eslint-config [7.1.0](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.63...@newhighsco/eslint-config@7.1.0) (2026-05-22)
+
+
+### Features
+
+* **ts:** add Next.js ([905e202](https://github.com/newhighsco/config/commit/905e202310d3541cde842a3fbc90c567d204cbc0))
+
 ## @newhighsco/eslint-config [7.0.63](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.0.62...@newhighsco/eslint-config@7.0.63) (2026-05-18)
 
 
