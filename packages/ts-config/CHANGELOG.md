@@ -1,3 +1,10 @@
+## @newhighsco/ts-config [1.2.1](https://github.com/newhighsco/config/compare/@newhighsco/ts-config@1.2.0...@newhighsco/ts-config@1.2.1) (2026-05-22)
+
+
+### Bug Fixes
+
+* **ts:** add default export ([ab073f5](https://github.com/newhighsco/config/commit/ab073f594ddc2535e27c932e4ae2fdaf0369cbda))
+
 # @newhighsco/ts-config [1.2.0](https://github.com/newhighsco/config/compare/@newhighsco/ts-config@1.1.0...@newhighsco/ts-config@1.2.0) (2026-05-22)
 
 
