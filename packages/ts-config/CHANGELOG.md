@@ -1,3 +1,10 @@
+# @newhighsco/ts-config [1.2.0](https://github.com/newhighsco/config/compare/@newhighsco/ts-config@1.1.0...@newhighsco/ts-config@1.2.0) (2026-05-22)
+
+
+### Features
+
+* **ts:** add Next.js ([905e202](https://github.com/newhighsco/config/commit/905e202310d3541cde842a3fbc90c567d204cbc0))
+
 # @newhighsco/ts-config [1.1.0](https://github.com/newhighsco/config/compare/@newhighsco/ts-config@1.0.2...@newhighsco/ts-config@1.1.0) (2026-04-28)
 
 
