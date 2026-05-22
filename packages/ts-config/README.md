@@ -20,4 +20,13 @@ New High Score TypeScript rules come bundled in `@newhighsco/ts-config`. To enab
 }
 ```
 
+### [Next.js](https://nextjs.org/)
+
+```jsonc
+// `tsconfig.json`
+{
+  "extends": "@newhighsco/ts-config/next"
+}
+```
+
 ## [CHANGELOG](CHANGELOG.md)

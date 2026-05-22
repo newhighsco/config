@@ -1,8 +1,5 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
-  "compilerOptions": {
-    "esModuleInterop": true,
-    "jsx": "react-jsx",
-    "skipLibCheck": true
-  }
+  "extends": "@tsconfig/recommended/tsconfig.json",
+  "compilerOptions": { "jsx": "react-jsx" }
 }

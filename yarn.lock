@@ -1541,6 +1541,9 @@ __metadata:
 "@newhighsco/ts-config@npm:*, @newhighsco/ts-config@workspace:packages/ts-config":
   version: 0.0.0-use.local
   resolution: "@newhighsco/ts-config@workspace:packages/ts-config"
+  dependencies:
+    "@tsconfig/next": "npm:2.0.6"
+    "@tsconfig/recommended": "npm:1.0.13"
   languageName: unknown
   linkType: soft
 
@@ -2875,6 +2878,20 @@ __metadata:
   version: 2.0.1
   resolution: "@tootallnate/once@npm:2.0.1"
   checksum: 10c0/23b01a341485be711c602077936d70f8e695405bb88ab4433dc6d1e6cb4556401518789574d399eded790b70b27738136c9a8f02df7ae4219f4ba28bb22d586b
+  languageName: node
+  linkType: hard
+
+"@tsconfig/next@npm:2.0.6":
+  version: 2.0.6
+  resolution: "@tsconfig/next@npm:2.0.6"
+  checksum: 10c0/0baa997441df66db5adab715eb490f2ba9ccdfb8a1c0872a9178a779607e486bb8b5c7cd3cff7919fe87d4cf25995ffa535cd2a27106c26c2cfbafa08e66d72a
+  languageName: node
+  linkType: hard
+
+"@tsconfig/recommended@npm:1.0.13":
+  version: 1.0.13
+  resolution: "@tsconfig/recommended@npm:1.0.13"
+  checksum: 10c0/b0fae7ff8243621da68cd7a259499e1fd536e1aa3b3e3be233d30ab8d5bf046ec3dcc4ff68fc640435f421575e41e56bc735f61a1fe8a47b4475f3f2bf5ed882
   languageName: node
   linkType: hard
 

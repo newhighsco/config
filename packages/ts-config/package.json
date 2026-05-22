@@ -13,9 +13,19 @@
   "bugs": {
     "url": "https://github.com/newhighsco/config/issues"
   },
+  "type": "module",
   "main": "tsconfig.json",
-  "files": [],
+  "exports": {
+    "./*": "./*.json"
+  },
+  "files": [
+    "next.json"
+  ],
   "scripts": {
     "test": "tsc --noEmit --project ."
+  },
+  "dependencies": {
+    "@tsconfig/next": "2.0.6",
+    "@tsconfig/recommended": "1.0.13"
   }
 }
