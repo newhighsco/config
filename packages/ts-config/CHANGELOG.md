@@ -1,3 +1,10 @@
+## @newhighsco/ts-config [1.2.2](https://github.com/newhighsco/config/compare/@newhighsco/ts-config@1.2.1...@newhighsco/ts-config@1.2.2) (2026-05-22)
+
+
+### Bug Fixes
+
+* **ts:** revert some defaults ([76556c8](https://github.com/newhighsco/config/commit/76556c8c957d3f8dc2f1261626eaa00d03e4baed))
+
 ## @newhighsco/ts-config [1.2.1](https://github.com/newhighsco/config/compare/@newhighsco/ts-config@1.2.0...@newhighsco/ts-config@1.2.1) (2026-05-22)
 
 
