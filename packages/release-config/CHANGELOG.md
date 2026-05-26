@@ -1,3 +1,14 @@
+## @newhighsco/release-config [1.5.0](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.4.28...@newhighsco/release-config@1.5.0) (2026-05-26)
+
+### Features
+
+* **release-config:** find breaking changes in type/scope ([#2631](https://github.com/newhighsco/config/issues/2631)) ([cb3f2ab](https://github.com/newhighsco/config/commit/cb3f2ab7434078468407d81a627a71f9f5765815))
+
+### Bug Fixes
+
+* **release-config:** revert to commonjs ([13a0742](https://github.com/newhighsco/config/commit/13a0742afcd874dd0f2b3df106b48d722f8773bf))
+* revert ([7a33384](https://github.com/newhighsco/config/commit/7a33384e37bb5f34ae6abecdefce0bff66f66e0c))
+
 ## @newhighsco/release-config [1.4.28](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.4.27...@newhighsco/release-config@1.4.28) (2026-05-08)
 
 
