@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/lint-staged-config",
   "description": "New High Score shareable config for lint-staged",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "New High Score",
   "license": "ISC",
   "repository": {
