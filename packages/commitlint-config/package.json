@@ -13,10 +13,23 @@
   "bugs": {
     "url": "https://github.com/newhighsco/config/issues"
   },
+  "type": "module",
   "main": "commitlint.config.js",
   "files": [],
   "scripts": {
-    "test": "echo 'No test specified'"
+    "test": "concurrently 'yarn:test:*'",
+    "test:type": "echo 'fix: description' | commitlint --verbose --strict",
+    "test:scope": "echo 'fix(scope): description' | commitlint --verbose --strict",
+    "test:breaking:type": "echo 'fix!: description' | commitlint --verbose --strict",
+    "test:breaking:scope": "echo 'fix(scope)!: description' | commitlint --verbose --strict",
+    "test:breaking:footer": "echo 'fix(scope): description\n\nBREAKING CHANGE: footer' | commitlint --verbose --strict"
+  },
+  "dependencies": {
+    "@commitlint/config-conventional": "21.0.1"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "21.0.1",
+    "concurrently": "9.2.1"
   },
   "peerDependencies": {
     "@commitlint/cli": "21.0.1"

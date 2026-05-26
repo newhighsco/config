@@ -13,6 +13,7 @@
   "bugs": {
     "url": "https://github.com/newhighsco/config/issues"
   },
+  "type": "module",
   "main": "index.js",
   "files": [
     "orb.js"

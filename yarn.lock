@@ -271,6 +271,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@commitlint/config-conventional@npm:21.0.1":
+  version: 21.0.1
+  resolution: "@commitlint/config-conventional@npm:21.0.1"
+  dependencies:
+    "@commitlint/types": "npm:^21.0.1"
+    conventional-changelog-conventionalcommits: "npm:^9.2.0"
+  checksum: 10c0/b713491392ce561a882071435ccbdfe30c7adc389674d6e3f4ece4ddf0056e21310ec086e2e6433e9b6620c532b53bbadae59ff38220ba82fd34911e69e690b8
+  languageName: node
+  linkType: hard
+
 "@commitlint/config-validator@npm:^21.0.1":
   version: 21.0.1
   resolution: "@commitlint/config-validator@npm:21.0.1"
@@ -1391,6 +1401,10 @@ __metadata:
 "@newhighsco/commitlint-config@npm:*, @newhighsco/commitlint-config@workspace:packages/commitlint-config":
   version: 0.0.0-use.local
   resolution: "@newhighsco/commitlint-config@workspace:packages/commitlint-config"
+  dependencies:
+    "@commitlint/cli": "npm:21.0.1"
+    "@commitlint/config-conventional": "npm:21.0.1"
+    concurrently: "npm:9.2.1"
   peerDependencies:
     "@commitlint/cli": 21.0.1
   languageName: unknown
@@ -4396,6 +4410,15 @@ __metadata:
   dependencies:
     compare-func: "npm:^2.0.0"
   checksum: 10c0/a3776ff7066004040d7d25d2b72fe8f9fee4f1fc5dc6c929ab281899b8c7a6dd6408130064344515b37a4f91d2a9fb90b69cce0bab55415c72a8ba3ee801c2b6
+  languageName: node
+  linkType: hard
+
+"conventional-changelog-conventionalcommits@npm:^9.2.0":
+  version: 9.3.1
+  resolution: "conventional-changelog-conventionalcommits@npm:9.3.1"
+  dependencies:
+    compare-func: "npm:^2.0.0"
+  checksum: 10c0/e3d0dfe5680899da3660a7fbc859de1a92dd9358dc497624c3582596173713a80dcc8236d844116a3ba8403350e244c007c0c7fa5796631aea19e464cc6c2f44
   languageName: node
   linkType: hard
 
