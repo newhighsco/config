@@ -1,0 +1,28 @@
+{
+  "name": "@newhighsco/lint-staged-config",
+  "description": "New High Score shareable config for lint-staged",
+  "version": "1.0.0",
+  "author": "New High Score",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newhighsco/config.git",
+    "directory": "packages/lint-staged-config"
+  },
+  "homepage": "https://github.com/newhighsco/config/tree/main/packages/lint-staged-config#readme",
+  "bugs": {
+    "url": "https://github.com/newhighsco/config/issues"
+  },
+  "type": "module",
+  "main": "lint-staged.config.js",
+  "files": [],
+  "scripts": {
+    "test": "echo 'No test specified'"
+  },
+  "devDependencies": {
+    "lint-staged": "17.0.5"
+  },
+  "peerDependencies": {
+    "lint-staged": "17.0.5"
+  }
+}
