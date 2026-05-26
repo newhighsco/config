@@ -1,3 +1,9 @@
+## @newhighsco/commitlint-config [1.3.0](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.2.0...@newhighsco/commitlint-config@1.3.0) (2026-05-26)
+
+### Features
+
+* **husky:** automatically enable hooks ([#2634](https://github.com/newhighsco/config/issues/2634)) ([b7e8b38](https://github.com/newhighsco/config/commit/b7e8b3868c283b368f6a7eac01d89c2d95819ac5))
+
 ## @newhighsco/commitlint-config [1.2.0](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.1.56...@newhighsco/commitlint-config@1.2.0) (2026-05-26)
 
 ### Features
