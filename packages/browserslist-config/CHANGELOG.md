@@ -1,3 +1,13 @@
+## @newhighsco/browserslist-config [3.0.0](https://github.com/newhighsco/config/compare/@newhighsco/browserslist-config@2.0.1...@newhighsco/browserslist-config@3.0.0) (2026-05-26)
+
+### ⚠ BREAKING CHANGES
+
+* **browserslist-config:** adopt baseline (#2632)
+
+### Features
+
+* **browserslist-config:** adopt baseline ([#2632](https://github.com/newhighsco/config/issues/2632)) ([e4b5675](https://github.com/newhighsco/config/commit/e4b567553300d2cf8a5109bfbd29f24b39af6f99))
+
 ## @newhighsco/browserslist-config [2.0.1](https://github.com/newhighsco/config/compare/@newhighsco/browserslist-config@2.0.0...@newhighsco/browserslist-config@2.0.1) (2026-01-15)
 
 
