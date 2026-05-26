@@ -6,6 +6,7 @@ New High Score shareable configs:
 - :package: :speech_balloon: [`commitlint-config`](packages/commitlint-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/commitlint-config.svg)](https://www.npmjs.com/package/@newhighsco/commitlint-config)
 - :package: :writing_hand: [`editor-config`](packages/editor-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/editor-config.svg)](https://www.npmjs.com/package/@newhighsco/editor-config)
 - :package: :hammer_and_wrench: [`eslint-config`](packages/eslint-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/eslint-config.svg)](https://www.npmjs.com/package/@newhighsco/eslint-config)
+- :package: :no_entry_sign::poop: [`lint-staged`](packages/lint-staged-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/lint-staged-config.svg)](https://www.npmjs.com/package/@newhighsco/lint-staged-config)
 - :package: :postbox: [`postcss-config`](packages/postcss-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/postcss-config.svg)](https://www.npmjs.com/package/@newhighsco/postcss-config)
 - :package: :nail_care: [`prettier-config`](packages/prettier-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/prettier-config.svg)](https://www.npmjs.com/package/@newhighsco/prettier-config)
 - :package: :rocket: [`release-config`](packages/release-config) [![NPM version](https://img.shields.io/npm/v/@newhighsco/release-config.svg)](https://www.npmjs.com/package/@newhighsco/release-config)
