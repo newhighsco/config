@@ -25,12 +25,4 @@ import config from '@newhighsco/lint-staged-config'
 export default config
 ```
 
-Now you can run lint-staged by adding the following hook.
-
-```shell
-# .husky/pre-commit
-
-yarn lint-staged
-```
-
 ## [CHANGELOG](CHANGELOG.md)
