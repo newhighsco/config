@@ -1,6 +1,8 @@
-const { plugins } = require('.')
+const { branches, plugins } = require('.')
 
-module.exports = {
+/** @type {import('semantic-release').GlobalConfig} */
+export default {
+  branches,
   plugins: [
     ...plugins,
     [
