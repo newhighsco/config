@@ -7,7 +7,7 @@ New High Score [shareable config](https://github.com/lint-staged/lint-staged#con
 Install `@newhighsco/lint-staged-config`:
 
 ```
-yarn add -D lint0staged @newhighsco/lint-staged-config
+yarn add -D lint-staged @newhighsco/lint-staged-config
 ```
 
 ### Husky
