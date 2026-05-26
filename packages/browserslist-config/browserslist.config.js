@@ -1,1 +1,1 @@
-module.exports = ['defaults']
+module.exports = ['extends browserslist-config-baseline']
