@@ -4,7 +4,7 @@ const assets = (process.env.GH_ASSETS || process.env.GITHUB_ASSETS)
 const preset = 'conventionalcommits'
 
 /** @type {import('semantic-release').GlobalConfig} */
-export default {
+module.exports = {
   branches: ['main'],
   plugins: [
     [
