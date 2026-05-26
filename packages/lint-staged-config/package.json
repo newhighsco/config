@@ -19,9 +19,6 @@
   "scripts": {
     "test": "echo 'No test specified'"
   },
-  "devDependencies": {
-    "lint-staged": "17.0.5"
-  },
   "peerDependencies": {
     "lint-staged": "17.0.5"
   }

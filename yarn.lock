@@ -1480,8 +1480,6 @@ __metadata:
 "@newhighsco/lint-staged-config@npm:*, @newhighsco/lint-staged-config@workspace:packages/lint-staged-config":
   version: 0.0.0-use.local
   resolution: "@newhighsco/lint-staged-config@workspace:packages/lint-staged-config"
-  dependencies:
-    lint-staged: "npm:17.0.5"
   peerDependencies:
     lint-staged: 17.0.5
   languageName: unknown
