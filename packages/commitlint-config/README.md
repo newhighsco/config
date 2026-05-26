@@ -23,14 +23,4 @@ New High Score commitlint rules come bundled in `@newhighsco/commitlint-config`.
 }
 ```
 
-Now you can run commitlint by adding the following scripts to your package.json.
-
-```json
-"husky": {
-  "hooks": {
-    "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-  }
-}
-```
-
 ## [CHANGELOG](CHANGELOG.md)

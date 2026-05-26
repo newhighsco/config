@@ -15,11 +15,15 @@
   },
   "type": "module",
   "main": "lint-staged.config.js",
-  "files": [],
+  "files": [
+    "scripts"
+  ],
   "scripts": {
+    "postinstall": "node scripts/postinstall.js",
     "test": "echo 'No test specified'"
   },
   "peerDependencies": {
+    "husky": "9.1.7",
     "lint-staged": "17.0.5"
   }
 }
