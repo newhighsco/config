@@ -1,3 +1,9 @@
+## @newhighsco/commitlint-config [1.2.0](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.1.56...@newhighsco/commitlint-config@1.2.0) (2026-05-26)
+
+### Features
+
+* **release-config:** find breaking changes in type/scope ([#2631](https://github.com/newhighsco/config/issues/2631)) ([cb3f2ab](https://github.com/newhighsco/config/commit/cb3f2ab7434078468407d81a627a71f9f5765815))
+
 ## @newhighsco/commitlint-config [1.1.56](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.1.55...@newhighsco/commitlint-config@1.1.56) (2026-05-12)
 
 
