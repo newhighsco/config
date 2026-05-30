@@ -24,6 +24,6 @@
   },
   "peerDependencies": {
     "husky": "9.1.7",
-    "lint-staged": "17.0.5"
+    "lint-staged": "17.0.6"
   }
 }
