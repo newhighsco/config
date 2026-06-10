@@ -1513,7 +1513,7 @@ __metadata:
     "@semantic-release/npm": "npm:13.1.5"
     "@semantic-release/release-notes-generator": "npm:14.1.1"
   peerDependencies:
-    semantic-release: 25.0.3
+    semantic-release: 25.0.5
     semantic-release-circleci-orb: 1.1.1
   peerDependenciesMeta:
     semantic-release-circleci-orb:
