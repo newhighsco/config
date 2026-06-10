@@ -1,3 +1,9 @@
+## @newhighsco/release-config [1.5.1](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.5.0...@newhighsco/release-config@1.5.1) (2026-06-10)
+
+### Bug Fixes
+
+* **deps:** update semantic-release monorepo to v25.0.5 ([#2655](https://github.com/newhighsco/config/issues/2655)) ([6e8139e](https://github.com/newhighsco/config/commit/6e8139eeef2b2563b1ac0ef073618f1b75129e69))
+
 ## @newhighsco/release-config [1.5.0](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.4.28...@newhighsco/release-config@1.5.0) (2026-05-26)
 
 ### Features
