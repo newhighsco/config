@@ -1,3 +1,9 @@
+## @newhighsco/eslint-config [7.1.10](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.9...@newhighsco/eslint-config@7.1.10) (2026-06-11)
+
+### Bug Fixes
+
+* **deps:** update storybook monorepo to v10.4.4 ([#2657](https://github.com/newhighsco/config/issues/2657)) ([62b2718](https://github.com/newhighsco/config/commit/62b2718f6a55d361732d19ddba5e7fe83b000e09))
+
 ## @newhighsco/eslint-config [7.1.9](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.8...@newhighsco/eslint-config@7.1.9) (2026-06-09)
 
 ### Bug Fixes
