@@ -1,3 +1,9 @@
+## @newhighsco/eslint-config [7.1.11](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.10...@newhighsco/eslint-config@7.1.11) (2026-06-12)
+
+### Bug Fixes
+
+* **deps:** update eslint monorepo to v10.5.0 ([#2658](https://github.com/newhighsco/config/issues/2658)) ([0861dd6](https://github.com/newhighsco/config/commit/0861dd69a9e53a0c0aa29de58c8506046888ccdd))
+
 ## @newhighsco/eslint-config [7.1.10](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.9...@newhighsco/eslint-config@7.1.10) (2026-06-11)
 
 ### Bug Fixes
