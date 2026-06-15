@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [7.1.12](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.11...@newhighsco/eslint-config@7.1.12) (2026-06-15)
+
+### Bug Fixes
+
+* **deps:** update storybook monorepo to v10.4.5 ([#2662](https://github.com/newhighsco/config/issues/2662)) ([036e88e](https://github.com/newhighsco/config/commit/036e88eab5a664a922ad3af1a6e34e886f4028ec))
+* **deps:** update typescript-eslint monorepo to v8.61.1 ([#2663](https://github.com/newhighsco/config/issues/2663)) ([d8aa043](https://github.com/newhighsco/config/commit/d8aa043cfc7e2f2b9843855235588b526e968763))
+
 ## @newhighsco/eslint-config [7.1.11](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.10...@newhighsco/eslint-config@7.1.11) (2026-06-12)
 
 ### Bug Fixes
