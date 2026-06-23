@@ -1483,7 +1483,7 @@ __metadata:
   resolution: "@newhighsco/postcss-config@workspace:packages/postcss-config"
   dependencies:
     "@fullhuman/postcss-purgecss": "npm:8.0.0"
-    autoprefixer: "npm:10.5.0"
+    autoprefixer: "npm:10.5.1"
     caniuse-lite: "npm:1.0.30001799"
     postcss-cli: "npm:11.0.1"
     postcss-flexbugs-fixes: "npm:5.0.2"
@@ -3699,12 +3699,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:10.5.0, autoprefixer@npm:^10.5.0":
-  version: 10.5.0
-  resolution: "autoprefixer@npm:10.5.0"
+"autoprefixer@npm:10.5.1, autoprefixer@npm:^10.5.0":
+  version: 10.5.1
+  resolution: "autoprefixer@npm:10.5.1"
   dependencies:
-    browserslist: "npm:^4.28.2"
-    caniuse-lite: "npm:^1.0.30001787"
+    browserslist: "npm:^4.28.4"
+    caniuse-lite: "npm:^1.0.30001799"
     fraction.js: "npm:^5.3.4"
     picocolors: "npm:^1.1.1"
     postcss-value-parser: "npm:^4.2.0"
@@ -3712,7 +3712,7 @@ __metadata:
     postcss: ^8.1.0
   bin:
     autoprefixer: bin/autoprefixer
-  checksum: 10c0/3e1a7bb65ef3a44925d19fd18cbb96a9a73ef1a8bfaa134bc131743787a8983045d6e756cff0204d37c34a52cfc86d79182f444c221b631401f79d7873ae97a8
+  checksum: 10c0/abc050d82c27b3edf4a38f79b30a11ca41bcdaf1bec765efebf3506125f3333b98150e8f5449d3c9a2ca83ab5cfef3c113e58dccd5bc8ba4ac5a6f92226d3228
   languageName: node
   linkType: hard
 
@@ -3882,7 +3882,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"browserslist@npm:4.28.4, browserslist@npm:^4.24.0, browserslist@npm:^4.28.1, browserslist@npm:^4.28.2":
+"browserslist@npm:4.28.4, browserslist@npm:^4.24.0, browserslist@npm:^4.28.1, browserslist@npm:^4.28.4":
   version: 4.28.4
   resolution: "browserslist@npm:4.28.4"
   dependencies:
@@ -4060,7 +4060,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"caniuse-lite@npm:1.0.30001799, caniuse-lite@npm:^1.0.30001787, caniuse-lite@npm:^1.0.30001799":
+"caniuse-lite@npm:1.0.30001799, caniuse-lite@npm:^1.0.30001799":
   version: 1.0.30001799
   resolution: "caniuse-lite@npm:1.0.30001799"
   checksum: 10c0/f24f9834edc7b60188f368ce44714695c3901bc4acb7f2a977dd9b7b697e39ddc0f9947fad6224a955b789f36a73432cb888d620aa7280d728f582d3bd8927a7
