@@ -1483,7 +1483,7 @@ __metadata:
   resolution: "@newhighsco/postcss-config@workspace:packages/postcss-config"
   dependencies:
     "@fullhuman/postcss-purgecss": "npm:8.0.0"
-    autoprefixer: "npm:10.5.1"
+    autoprefixer: "npm:10.5.2"
     caniuse-lite: "npm:1.0.30001799"
     postcss-cli: "npm:11.0.1"
     postcss-flexbugs-fixes: "npm:5.0.2"
@@ -3699,9 +3699,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:10.5.1, autoprefixer@npm:^10.5.0":
-  version: 10.5.1
-  resolution: "autoprefixer@npm:10.5.1"
+"autoprefixer@npm:10.5.2, autoprefixer@npm:^10.5.0":
+  version: 10.5.2
+  resolution: "autoprefixer@npm:10.5.2"
   dependencies:
     browserslist: "npm:^4.28.4"
     caniuse-lite: "npm:^1.0.30001799"
@@ -3712,7 +3712,7 @@ __metadata:
     postcss: ^8.1.0
   bin:
     autoprefixer: bin/autoprefixer
-  checksum: 10c0/abc050d82c27b3edf4a38f79b30a11ca41bcdaf1bec765efebf3506125f3333b98150e8f5449d3c9a2ca83ab5cfef3c113e58dccd5bc8ba4ac5a6f92226d3228
+  checksum: 10c0/588fec73c061da8a95f6a7f4f0cde811a581087852325564d2d8f15c9356b204db50c1566c57e06dc0b1bcdf2b8ff10f85e89ef08d94c10f0e5ba187a4c52690
   languageName: node
   linkType: hard
 
