@@ -29,7 +29,7 @@
     "stylelint-junit-formatter": "0.2.2"
   },
   "peerDependencies": {
-    "prettier": "3.8.4",
+    "prettier": "3.8.5",
     "stylelint": "17.14.0"
   }
 }
