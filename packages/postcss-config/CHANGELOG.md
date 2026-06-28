@@ -1,3 +1,10 @@
+## @newhighsco/postcss-config [4.0.58](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@4.0.57...@newhighsco/postcss-config@4.0.58) (2026-06-28)
+
+### Bug Fixes
+
+* **deps:** update dependency postcss to v8.5.16 ([#2680](https://github.com/newhighsco/config/issues/2680)) ([9ba3dd1](https://github.com/newhighsco/config/commit/9ba3dd17f832a7ce23963648198379d47689bbf6))
+* **deps:** update dependency postcss-preset-env to v11.3.2 ([#2681](https://github.com/newhighsco/config/issues/2681)) ([6d57610](https://github.com/newhighsco/config/commit/6d576102fb9675fb4cab0dd07a3f43d65b415b0a))
+
 ## @newhighsco/postcss-config [4.0.57](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@4.0.56...@newhighsco/postcss-config@4.0.57) (2026-06-24)
 
 ### Bug Fixes
