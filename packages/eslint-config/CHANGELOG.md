@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [7.1.16](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.15...@newhighsco/eslint-config@7.1.16) (2026-06-30)
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-cypress to v6.4.2 ([#2683](https://github.com/newhighsco/config/issues/2683)) ([510086a](https://github.com/newhighsco/config/commit/510086aa51439c52d37ee756e554f9e1991f5269))
+* **deps:** update dependency typescript-eslint to v8.62.1 ([#2684](https://github.com/newhighsco/config/issues/2684)) ([b8cb90d](https://github.com/newhighsco/config/commit/b8cb90dd944705b8173a1facd36770531b4308d7))
+
 ## @newhighsco/eslint-config [7.1.15](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.14...@newhighsco/eslint-config@7.1.15) (2026-06-26)
 
 ### Bug Fixes
