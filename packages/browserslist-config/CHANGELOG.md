@@ -1,3 +1,5 @@
+## @newhighsco/browserslist-config [3.0.1](https://github.com/newhighsco/config/compare/%40newhighsco%2Fbrowserslist-config%403.0.0...%40newhighsco%2Fbrowserslist-config%403.0.1) (2026-07-07)
+
 ## @newhighsco/browserslist-config [3.0.0](https://github.com/newhighsco/config/compare/@newhighsco/browserslist-config@2.0.1...@newhighsco/browserslist-config@3.0.0) (2026-05-26)
 
 ### ⚠ BREAKING CHANGES
