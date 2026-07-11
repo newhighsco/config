@@ -22,6 +22,6 @@
     "browserslist-config-baseline": "0.5.0"
   },
   "devDependencies": {
-    "browserslist": "4.28.5"
+    "browserslist": "4.28.6"
   }
 }
