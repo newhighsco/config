@@ -1490,7 +1490,7 @@ __metadata:
   resolution: "@newhighsco/postcss-config@workspace:packages/postcss-config"
   dependencies:
     "@fullhuman/postcss-purgecss": "npm:8.0.0"
-    autoprefixer: "npm:10.5.2"
+    autoprefixer: "npm:10.5.3"
     caniuse-lite: "npm:1.0.30001805"
     postcss-cli: "npm:11.0.1"
     postcss-flexbugs-fixes: "npm:5.0.2"
@@ -3720,12 +3720,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:10.5.2, autoprefixer@npm:^10.5.0":
-  version: 10.5.2
-  resolution: "autoprefixer@npm:10.5.2"
+"autoprefixer@npm:10.5.3, autoprefixer@npm:^10.5.0":
+  version: 10.5.3
+  resolution: "autoprefixer@npm:10.5.3"
   dependencies:
-    browserslist: "npm:^4.28.4"
-    caniuse-lite: "npm:^1.0.30001799"
+    browserslist: "npm:^4.28.6"
+    caniuse-lite: "npm:^1.0.30001805"
     fraction.js: "npm:^5.3.4"
     picocolors: "npm:^1.1.1"
     postcss-value-parser: "npm:^4.2.0"
@@ -3733,7 +3733,7 @@ __metadata:
     postcss: ^8.1.0
   bin:
     autoprefixer: bin/autoprefixer
-  checksum: 10c0/588fec73c061da8a95f6a7f4f0cde811a581087852325564d2d8f15c9356b204db50c1566c57e06dc0b1bcdf2b8ff10f85e89ef08d94c10f0e5ba187a4c52690
+  checksum: 10c0/a166d39192a6ef735cd09c244c579cde560ae4bb7407073ac6ef2c0f26390bccd0ffa46f3b1b104526c862530e94755dddfa910b0c4d63073447e31de5d89d3e
   languageName: node
   linkType: hard
 
@@ -3903,7 +3903,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"browserslist@npm:4.28.6, browserslist@npm:^4.24.0, browserslist@npm:^4.28.1, browserslist@npm:^4.28.4":
+"browserslist@npm:4.28.6, browserslist@npm:^4.24.0, browserslist@npm:^4.28.1, browserslist@npm:^4.28.6":
   version: 4.28.6
   resolution: "browserslist@npm:4.28.6"
   dependencies:
@@ -4081,7 +4081,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"caniuse-lite@npm:1.0.30001805, caniuse-lite@npm:^1.0.30001799, caniuse-lite@npm:^1.0.30001803":
+"caniuse-lite@npm:1.0.30001805, caniuse-lite@npm:^1.0.30001803, caniuse-lite@npm:^1.0.30001805":
   version: 1.0.30001805
   resolution: "caniuse-lite@npm:1.0.30001805"
   checksum: 10c0/5245ea10d6addc9e054da52c622bf7730747b717fb30f01a9ffc8917e101221d90352440da23ff46f686579e7eeaaac6134801e07638c3a388d65d52dc8b17ac
