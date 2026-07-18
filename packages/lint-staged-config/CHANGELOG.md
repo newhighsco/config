@@ -1,3 +1,5 @@
+## @newhighsco/lint-staged-config [1.1.1](https://github.com/newhighsco/config/compare/%40newhighsco%2Flint-staged-config%401.1.0...%40newhighsco%2Flint-staged-config%401.1.1) (2026-07-18)
+
 ## @newhighsco/lint-staged-config [1.1.0](https://github.com/newhighsco/config/compare/@newhighsco/lint-staged-config@1.0.0...@newhighsco/lint-staged-config@1.1.0) (2026-05-26)
 
 ### Features
