@@ -1,3 +1,5 @@
+## @newhighsco/release-config [1.5.5](https://github.com/newhighsco/config/compare/%40newhighsco%2Frelease-config%401.5.4...%40newhighsco%2Frelease-config%401.5.5) (2026-07-18)
+
 ## @newhighsco/release-config [1.5.4](https://github.com/newhighsco/config/compare/%40newhighsco%2Frelease-config%401.5.3...%40newhighsco%2Frelease-config%401.5.4) (2026-07-13)
 
 ## @newhighsco/release-config [1.5.3](https://github.com/newhighsco/config/compare/%40newhighsco%2Frelease-config%401.5.2...%40newhighsco%2Frelease-config%401.5.3) (2026-07-11)
