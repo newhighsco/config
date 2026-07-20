@@ -1,3 +1,5 @@
+## @newhighsco/stylelint-config [4.0.53](https://github.com/newhighsco/config/compare/%40newhighsco%2Fstylelint-config%404.0.52...%40newhighsco%2Fstylelint-config%404.0.53) (2026-07-20)
+
 ## @newhighsco/stylelint-config [4.0.52](https://github.com/newhighsco/config/compare/%40newhighsco%2Fstylelint-config%404.0.51...%40newhighsco%2Fstylelint-config%404.0.52) (2026-07-09)
 
 ## @newhighsco/stylelint-config [4.0.51](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@4.0.50...@newhighsco/stylelint-config@4.0.51) (2026-06-30)
