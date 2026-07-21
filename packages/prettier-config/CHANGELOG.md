@@ -1,3 +1,5 @@
+## @newhighsco/prettier-config [2.3.13](https://github.com/newhighsco/config/compare/%40newhighsco%2Fprettier-config%402.3.12...%40newhighsco%2Fprettier-config%402.3.13) (2026-07-21)
+
 ## @newhighsco/prettier-config [2.3.12](https://github.com/newhighsco/config/compare/%40newhighsco%2Fprettier-config%402.3.11...%40newhighsco%2Fprettier-config%402.3.12) (2026-07-09)
 
 ## @newhighsco/prettier-config [2.3.11](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.3.10...@newhighsco/prettier-config@2.3.11) (2026-06-30)
