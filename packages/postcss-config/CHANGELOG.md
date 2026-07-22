@@ -1,3 +1,5 @@
+## @newhighsco/postcss-config [4.0.68](https://github.com/newhighsco/config/compare/%40newhighsco%2Fpostcss-config%404.0.67...%40newhighsco%2Fpostcss-config%404.0.68) (2026-07-22)
+
 ## @newhighsco/postcss-config [4.0.67](https://github.com/newhighsco/config/compare/%40newhighsco%2Fpostcss-config%404.0.66...%40newhighsco%2Fpostcss-config%404.0.67) (2026-07-21)
 
 ## @newhighsco/postcss-config [4.0.66](https://github.com/newhighsco/config/compare/%40newhighsco%2Fpostcss-config%404.0.65...%40newhighsco%2Fpostcss-config%404.0.66) (2026-07-19)
