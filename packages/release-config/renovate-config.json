@@ -1,6 +1,11 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "packageRules": [
-    { "extends": ["monorepo:semantic-release"], "semanticCommitType": "fix" }
+    { "extends": ["monorepo:semantic-release"], "semanticCommitType": "fix" },
+    {
+      "description": "Pin `conventional-changelog-conventionalcommits` to v9 - https://github.com/semantic-release/commit-analyzer/issues/921",
+      "matchPackageNames": ["conventional-changelog-conventionalcommits"],
+      "allowedVersions": "<10"
+    }
   ]
 }
