@@ -1,3 +1,9 @@
+## @newhighsco/release-config [1.5.8](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.5.7...@newhighsco/release-config@1.5.8) (2026-07-23)
+
+### Bug Fixes
+
+* **release-config:** prevent empty CHANGELOG ([#2730](https://github.com/newhighsco/config/issues/2730)) ([3f7d903](https://github.com/newhighsco/config/commit/3f7d9031d7728dc621b4d7e8f2ecef63e1b01857))
+
 ## @newhighsco/release-config [1.5.7](https://github.com/newhighsco/config/compare/%40newhighsco%2Frelease-config%401.5.6...%40newhighsco%2Frelease-config%401.5.7) (2026-07-22)
 
 ## @newhighsco/release-config [1.5.6](https://github.com/newhighsco/config/compare/%40newhighsco%2Frelease-config%401.5.5...%40newhighsco%2Frelease-config%401.5.6) (2026-07-21)
