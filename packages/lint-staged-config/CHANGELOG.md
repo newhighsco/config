@@ -1,3 +1,9 @@
+## @newhighsco/lint-staged-config [1.1.4](https://github.com/newhighsco/config/compare/@newhighsco/lint-staged-config@1.1.3...@newhighsco/lint-staged-config@1.1.4) (2026-07-27)
+
+### Bug Fixes
+
+* **deps:** loosen `peerDependencies` ([#2736](https://github.com/newhighsco/config/issues/2736)) ([fe26d17](https://github.com/newhighsco/config/commit/fe26d17ae85fe26662c6c62e9d3b7c0f142f2fcc))
+
 ## @newhighsco/lint-staged-config [1.1.3](https://github.com/newhighsco/config/compare/%40newhighsco%2Flint-staged-config%401.1.2...%40newhighsco%2Flint-staged-config%401.1.3) (2026-07-23)
 
 ## @newhighsco/lint-staged-config [1.1.2](https://github.com/newhighsco/config/compare/%40newhighsco%2Flint-staged-config%401.1.1...%40newhighsco%2Flint-staged-config%401.1.2) (2026-07-22)
