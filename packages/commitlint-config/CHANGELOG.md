@@ -1,3 +1,9 @@
+## @newhighsco/commitlint-config [1.3.5](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.3.4...@newhighsco/commitlint-config@1.3.5) (2026-07-27)
+
+### Bug Fixes
+
+* **deps:** loosen `peerDependencies` ([#2736](https://github.com/newhighsco/config/issues/2736)) ([fe26d17](https://github.com/newhighsco/config/commit/fe26d17ae85fe26662c6c62e9d3b7c0f142f2fcc))
+
 ## @newhighsco/commitlint-config [1.3.4](https://github.com/newhighsco/config/compare/%40newhighsco%2Fcommitlint-config%401.3.3...%40newhighsco%2Fcommitlint-config%401.3.4) (2026-07-08)
 
 ## @newhighsco/commitlint-config [1.3.3](https://github.com/newhighsco/config/compare/%40newhighsco%2Fcommitlint-config%401.3.2...%40newhighsco%2Fcommitlint-config%401.3.3) (2026-06-30)
