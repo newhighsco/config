@@ -1,3 +1,9 @@
+## @newhighsco/prettier-config [2.3.14](https://github.com/newhighsco/config/compare/@newhighsco/prettier-config@2.3.13...@newhighsco/prettier-config@2.3.14) (2026-07-27)
+
+### Bug Fixes
+
+* **deps:** loosen `peerDependencies` ([#2736](https://github.com/newhighsco/config/issues/2736)) ([fe26d17](https://github.com/newhighsco/config/commit/fe26d17ae85fe26662c6c62e9d3b7c0f142f2fcc))
+
 ## @newhighsco/prettier-config [2.3.13](https://github.com/newhighsco/config/compare/%40newhighsco%2Fprettier-config%402.3.12...%40newhighsco%2Fprettier-config%402.3.13) (2026-07-21)
 
 ## @newhighsco/prettier-config [2.3.12](https://github.com/newhighsco/config/compare/%40newhighsco%2Fprettier-config%402.3.11...%40newhighsco%2Fprettier-config%402.3.12) (2026-07-09)
