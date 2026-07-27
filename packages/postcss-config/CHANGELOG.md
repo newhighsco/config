@@ -1,3 +1,9 @@
+## @newhighsco/postcss-config [4.0.70](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@4.0.69...@newhighsco/postcss-config@4.0.70) (2026-07-27)
+
+### Bug Fixes
+
+* **deps:** loosen `peerDependencies` ([#2736](https://github.com/newhighsco/config/issues/2736)) ([fe26d17](https://github.com/newhighsco/config/commit/fe26d17ae85fe26662c6c62e9d3b7c0f142f2fcc))
+
 ## @newhighsco/postcss-config [4.0.69](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@4.0.68...@newhighsco/postcss-config@4.0.69) (2026-07-24)
 
 ### Bug Fixes
