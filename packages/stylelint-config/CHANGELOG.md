@@ -1,3 +1,9 @@
+## @newhighsco/stylelint-config [4.0.55](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@4.0.54...@newhighsco/stylelint-config@4.0.55) (2026-07-27)
+
+### Bug Fixes
+
+* **deps:** loosen `peerDependencies` ([#2736](https://github.com/newhighsco/config/issues/2736)) ([fe26d17](https://github.com/newhighsco/config/commit/fe26d17ae85fe26662c6c62e9d3b7c0f142f2fcc))
+
 ## @newhighsco/stylelint-config [4.0.54](https://github.com/newhighsco/config/compare/%40newhighsco%2Fstylelint-config%404.0.53...%40newhighsco%2Fstylelint-config%404.0.54) (2026-07-21)
 
 ## @newhighsco/stylelint-config [4.0.53](https://github.com/newhighsco/config/compare/%40newhighsco%2Fstylelint-config%404.0.52...%40newhighsco%2Fstylelint-config%404.0.53) (2026-07-20)
