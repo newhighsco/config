@@ -1,3 +1,9 @@
+## @newhighsco/release-config [1.5.10](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.5.9...@newhighsco/release-config@1.5.10) (2026-07-27)
+
+### Bug Fixes
+
+* **deps:** loosen `peerDependencies` ([#2736](https://github.com/newhighsco/config/issues/2736)) ([fe26d17](https://github.com/newhighsco/config/commit/fe26d17ae85fe26662c6c62e9d3b7c0f142f2fcc))
+
 ## @newhighsco/release-config [1.5.9](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.5.8...@newhighsco/release-config@1.5.9) (2026-07-24)
 
 ### Bug Fixes
