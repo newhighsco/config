@@ -30,8 +30,8 @@
     "conventional-changelog-conventionalcommits": "9.3.1"
   },
   "peerDependencies": {
-    "semantic-release": "25.0.8",
-    "semantic-release-circleci-orb": "1.1.1"
+    "semantic-release": "^25",
+    "semantic-release-circleci-orb": "^1"
   },
   "peerDependenciesMeta": {
     "semantic-release-circleci-orb": {
