@@ -9,5 +9,6 @@
     "local>newhighsco/config//packages/prettier-config/renovate-config",
     "local>newhighsco/config//packages/release-config/renovate-config",
     "local>newhighsco/config//packages/stylelint-config/renovate-config"
-  ]
+  ],
+  "renovate-config": { "managerFilePatterns": ["renovate-config.json"] }
 }
