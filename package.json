@@ -39,7 +39,7 @@
     "@newhighsco/ts-config": "*",
     "@newhighsco/yarn-plugin-preset": "1.1.4",
     "@qiwi/multi-semantic-release": "7.1.2",
-    "concurrently": "10.0.4",
+    "concurrently": "10.0.5",
     "eslint": "10.8.1",
     "husky": "9.1.7",
     "lint-staged": "17.3.0",
