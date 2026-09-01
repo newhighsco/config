@@ -1,3 +1,9 @@
+## @newhighsco/eslint-config [7.1.45](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.44...@newhighsco/eslint-config@7.1.45) (2026-09-01)
+
+### Bug Fixes
+
+* **deps:** update dependency @eslint/json to v2.1.0 ([#2774](https://github.com/newhighsco/config/issues/2774)) ([81cc4e5](https://github.com/newhighsco/config/commit/81cc4e510c1648f9915a446abf3446ece2b7b0e9))
+
 ## @newhighsco/eslint-config [7.1.44](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.43...@newhighsco/eslint-config@7.1.44) (2026-08-31)
 
 ### Bug Fixes
