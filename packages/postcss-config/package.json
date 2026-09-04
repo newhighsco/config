@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "8.0.0",
-    "autoprefixer": "10.5.4",
+    "autoprefixer": "10.5.5",
     "caniuse-lite": "1.0.30001810",
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-preset-env": "11.5.1"
