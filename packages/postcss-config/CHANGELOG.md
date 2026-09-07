@@ -1,3 +1,9 @@
+## @newhighsco/postcss-config [4.0.79](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@4.0.78...@newhighsco/postcss-config@4.0.79) (2026-09-07)
+
+### Bug Fixes
+
+* **deps:** update dependency postcss-cli to v12 ([#2781](https://github.com/newhighsco/config/issues/2781)) ([5774a4e](https://github.com/newhighsco/config/commit/5774a4ead4a9a18d7380f77c9e8ea0a22e53d272))
+
 ## @newhighsco/postcss-config [4.0.78](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@4.0.77...@newhighsco/postcss-config@4.0.78) (2026-09-06)
 
 ### Bug Fixes
