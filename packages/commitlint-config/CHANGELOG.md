@@ -1,3 +1,9 @@
+## @newhighsco/commitlint-config [1.3.7](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.3.6...@newhighsco/commitlint-config@1.3.7) (2026-09-19)
+
+### Bug Fixes
+
+* **deps:** update commitlint monorepo to v21.2.3 ([#2799](https://github.com/newhighsco/config/issues/2799)) ([f469b5f](https://github.com/newhighsco/config/commit/f469b5f1187edb28b89e1464e154d9554e3c0d7a))
+
 ## @newhighsco/commitlint-config [1.3.6](https://github.com/newhighsco/config/compare/@newhighsco/commitlint-config@1.3.5...@newhighsco/commitlint-config@1.3.6) (2026-08-13)
 
 ### Bug Fixes
