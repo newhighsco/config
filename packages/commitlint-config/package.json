@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "21.2.3",
-    "concurrently": "10.0.5"
+    "concurrently": "10.0.6"
   },
   "peerDependencies": {
     "@commitlint/cli": "^21",
