@@ -1,3 +1,10 @@
+## @newhighsco/eslint-config [7.1.58](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.57...@newhighsco/eslint-config@7.1.58) (2026-10-13)
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-storybook to v10.6.2 ([#2828](https://github.com/newhighsco/config/issues/2828)) ([c28e704](https://github.com/newhighsco/config/commit/c28e704c81b2f35c30267d08af0d7de0e7017efb))
+* **deps:** update dependency typescript-eslint to v8.71.2 ([#2829](https://github.com/newhighsco/config/issues/2829)) ([b1dc502](https://github.com/newhighsco/config/commit/b1dc502b38861a38b19ed58bb7b9c68813ecc864))
+
 ## @newhighsco/eslint-config [7.1.57](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.56...@newhighsco/eslint-config@7.1.57) (2026-10-07)
 
 ### Bug Fixes
