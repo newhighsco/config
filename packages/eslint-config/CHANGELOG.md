@@ -1,3 +1,9 @@
+## @newhighsco/eslint-config [7.1.60](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.59...@newhighsco/eslint-config@7.1.60) (2026-10-16)
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v10.13.0 ([#2833](https://github.com/newhighsco/config/issues/2833)) ([720a113](https://github.com/newhighsco/config/commit/720a113ae8d57dae4104773f01ed53cfd3279389))
+
 ## @newhighsco/eslint-config [7.1.59](https://github.com/newhighsco/config/compare/@newhighsco/eslint-config@7.1.58...@newhighsco/eslint-config@7.1.59) (2026-10-13)
 
 ### Bug Fixes
