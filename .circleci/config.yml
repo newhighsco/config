@@ -11,6 +11,9 @@ workflows:
           name: setup
       - newhighsco/test:
           name: test
+          command: |
+            export NPM_ID_TOKEN=$(circleci run oidc get --claims '{"aud": "npm:registry.npmjs.org"}')
+            yarn test
           context:
             - release
           requires:
