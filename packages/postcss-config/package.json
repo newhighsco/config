@@ -24,7 +24,7 @@
     "test:purge": "postcss __tests__/*.css --config __tests__/config/purgecss --output dist/purgecss.css"
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "8.0.0",
+    "@fullhuman/postcss-purgecss": "9.0.0",
     "autoprefixer": "10.6.2",
     "caniuse-lite": "1.0.30001823",
     "postcss-flexbugs-fixes": "5.0.2",
