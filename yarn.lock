@@ -1633,7 +1633,7 @@ __metadata:
   resolution: "@newhighsco/ts-config@workspace:packages/ts-config"
   dependencies:
     "@tsconfig/next": "npm:2.0.7"
-    "@tsconfig/recommended": "npm:1.0.13"
+    "@tsconfig/recommended": "npm:1.0.14"
   languageName: unknown
   linkType: soft
 
@@ -2992,10 +2992,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tsconfig/recommended@npm:1.0.13":
-  version: 1.0.13
-  resolution: "@tsconfig/recommended@npm:1.0.13"
-  checksum: 10c0/b0fae7ff8243621da68cd7a259499e1fd536e1aa3b3e3be233d30ab8d5bf046ec3dcc4ff68fc640435f421575e41e56bc735f61a1fe8a47b4475f3f2bf5ed882
+"@tsconfig/recommended@npm:1.0.14":
+  version: 1.0.14
+  resolution: "@tsconfig/recommended@npm:1.0.14"
+  checksum: 10c0/cc0c19807b5a11d5de7a42ba400274a34d372f9ac3e012e0b48aa1fd6a0aa51834bb918795794d5cfd7fc1700d42e3268fd5799752812af7f59983e8da606993
   languageName: node
   linkType: hard
 
