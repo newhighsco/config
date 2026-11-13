@@ -1,3 +1,20 @@
+## @newhighsco/stylelint-config [5.0.0](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@4.0.58...@newhighsco/stylelint-config@5.0.0) (2026-11-13)
+
+### ⚠ BREAKING CHANGES
+
+* **stylelint:** Requires `styleliint` v18
+
+* chore: missing update
+
+### Features
+
+* **stylelint:** update stylelint to v18 ([#2875](https://github.com/newhighsco/config/issues/2875)) ([0b78414](https://github.com/newhighsco/config/commit/0b784145b3c60c2e4fbea2939fd57f4cafceb2b1))
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-order to v8.1.3 ([#2856](https://github.com/newhighsco/config/issues/2856)) ([aedf35d](https://github.com/newhighsco/config/commit/aedf35d24e3f9b94a4dd224859df8607a28328fc))
+* **deps:** update dependency stylelint-prettier to v5.1.0 ([#2863](https://github.com/newhighsco/config/issues/2863)) ([2cb78d9](https://github.com/newhighsco/config/commit/2cb78d9d3e906f33f7fc8f354f0cfcc819a0ec48))
+
 ## @newhighsco/stylelint-config [4.0.58](https://github.com/newhighsco/config/compare/@newhighsco/stylelint-config@4.0.57...@newhighsco/stylelint-config@4.0.58) (2026-10-10)
 
 ### Bug Fixes
