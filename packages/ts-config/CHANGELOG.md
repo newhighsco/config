@@ -1,3 +1,10 @@
+## @newhighsco/ts-config [1.2.3](https://github.com/newhighsco/config/compare/@newhighsco/ts-config@1.2.2...@newhighsco/ts-config@1.2.3) (2026-11-13)
+
+### Bug Fixes
+
+* **deps:** update dependency @tsconfig/next to v2.0.7 ([#2870](https://github.com/newhighsco/config/issues/2870)) ([9bc4326](https://github.com/newhighsco/config/commit/9bc4326e9993ce8d585a7dd2b37d059333b8bdf1))
+* **deps:** update dependency @tsconfig/recommended to v1.0.14 ([#2871](https://github.com/newhighsco/config/issues/2871)) ([5fdacfb](https://github.com/newhighsco/config/commit/5fdacfb8aec822526c53afdb3b72ace1e9eb70ea))
+
 ## @newhighsco/ts-config [1.2.2](https://github.com/newhighsco/config/compare/@newhighsco/ts-config@1.2.1...@newhighsco/ts-config@1.2.2) (2026-05-22)
 
 
