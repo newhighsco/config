@@ -1,3 +1,16 @@
+## @newhighsco/postcss-config [4.0.93](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@4.0.92...@newhighsco/postcss-config@4.0.93) (2026-11-13)
+
+### Bug Fixes
+
+* **deps:** update dependency @fullhuman/postcss-purgecss to v9 ([#2861](https://github.com/newhighsco/config/issues/2861)) ([c26c8f0](https://github.com/newhighsco/config/commit/c26c8f0c428161fc45767796239e73588bd78d01))
+* **deps:** update dependency autoprefixer to v10.6.2 ([#2844](https://github.com/newhighsco/config/issues/2844)) ([55ad62b](https://github.com/newhighsco/config/commit/55ad62bbcb6f094ab753e8d66c0f70bf4c91ded6))
+* **deps:** update dependency caniuse-lite to v1.0.30001819 ([#2841](https://github.com/newhighsco/config/issues/2841)) ([613a9d5](https://github.com/newhighsco/config/commit/613a9d5a72192a072486e3f3d61c12e21dbf6ba1))
+* **deps:** update dependency caniuse-lite to v1.0.30001820 ([#2851](https://github.com/newhighsco/config/issues/2851)) ([4830c26](https://github.com/newhighsco/config/commit/4830c26282d8427ac915708ae8eba020e6fa3aab))
+* **deps:** update dependency caniuse-lite to v1.0.30001822 ([#2858](https://github.com/newhighsco/config/issues/2858)) ([45e7811](https://github.com/newhighsco/config/commit/45e781153d7b6be3ba07b93aa8cd846838b7e241))
+* **deps:** update dependency caniuse-lite to v1.0.30001823 ([#2860](https://github.com/newhighsco/config/issues/2860)) ([6e81546](https://github.com/newhighsco/config/commit/6e8154635712c3ceac1a6965cebe48e6d636a399))
+* **deps:** update dependency caniuse-lite to v1.0.30001826 ([#2867](https://github.com/newhighsco/config/issues/2867)) ([e0f4b23](https://github.com/newhighsco/config/commit/e0f4b23d5ac8ed613511978964d0878dc681ed59))
+* **deps:** update dependency postcss-preset-env to v11.6.2 ([#2852](https://github.com/newhighsco/config/issues/2852)) ([0dd4fb6](https://github.com/newhighsco/config/commit/0dd4fb6a9b3a792fa2949d73b06a40340e38839a))
+
 ## @newhighsco/postcss-config [4.0.92](https://github.com/newhighsco/config/compare/@newhighsco/postcss-config@4.0.91...@newhighsco/postcss-config@4.0.92) (2026-10-21)
 
 ### Bug Fixes
