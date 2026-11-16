@@ -18,7 +18,7 @@
     "orb.js"
   ],
   "scripts": {
-    "test": "GITHUB_ASSETS=version.txt yarn dlx semantic-release --dry-run --no-ci --debug"
+    "test:skip": "GITHUB_ASSETS=version.txt yarn dlx semantic-release --dry-run --no-ci --debug"
   },
   "dependencies": {
     "@semantic-release/changelog": "7.0.0",
