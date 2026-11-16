@@ -12,6 +12,7 @@ workflows:
       - newhighsco/test:
           name: test
           command: |
+            git config --global http.https://github.com/.extraheader "Authorization: Basic $(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)"
             export NPM_ID_TOKEN=$(circleci run oidc get --claims '{"aud": "npm:registry.npmjs.org"}')
             yarn test
           context:
