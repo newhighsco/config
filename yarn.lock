@@ -1594,7 +1594,7 @@ __metadata:
     "@semantic-release/release-notes-generator": "npm:14.1.1"
     conventional-changelog-conventionalcommits: "npm:9.3.1"
   peerDependencies:
-    semantic-release: ^25 || ^26.0.0
+    semantic-release: ^26
     semantic-release-circleci-orb: ^1
   peerDependenciesMeta:
     semantic-release-circleci-orb:
