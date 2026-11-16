@@ -1,3 +1,9 @@
+## @newhighsco/release-config [1.5.13](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.5.12...@newhighsco/release-config@1.5.13) (2026-11-16)
+
+### Bug Fixes
+
+* **deps:** update dependency semantic-release to v26 ([#2879](https://github.com/newhighsco/config/issues/2879)) ([e5d7a93](https://github.com/newhighsco/config/commit/e5d7a93a6fbddf89186e0c7e4af010ef623d6731))
+
 ## @newhighsco/release-config [1.5.12](https://github.com/newhighsco/config/compare/@newhighsco/release-config@1.5.11...@newhighsco/release-config@1.5.12) (2026-11-13)
 
 ### Bug Fixes
