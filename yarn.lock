@@ -1523,7 +1523,7 @@ __metadata:
     concurrently: "npm:10.0.7"
     eslint: "npm:10.15.0"
     husky: "npm:9.1.7"
-    lint-staged: "npm:17.6.1"
+    lint-staged: "npm:17.6.2"
     prettier: "npm:3.10.1"
     semantic-release: "npm:26.0.1"
     stylelint: "npm:18.1.0"
@@ -1548,14 +1548,14 @@ __metadata:
     eslint: "npm:10.15.0"
     eslint-config-prettier: "npm:10.1.8"
     eslint-formatter-junit: "npm:9.0.1"
-    eslint-plugin-cypress: "npm:7.1.0"
+    eslint-plugin-cypress: "npm:7.2.0"
     eslint-plugin-import: "npm:2.32.0"
     eslint-plugin-jsx-a11y: "npm:6.10.2"
     eslint-plugin-prettier: "npm:5.5.7"
     eslint-plugin-react: "npm:7.37.5"
     eslint-plugin-react-hooks: "npm:7.1.1"
     eslint-plugin-simple-import-sort: "npm:14.0.0"
-    eslint-plugin-storybook: "npm:10.6.7"
+    eslint-plugin-storybook: "npm:10.6.8"
     eslint-plugin-testing-library: "npm:7.16.2"
     find-up: "npm:8.0.0"
     typescript-eslint: "npm:8.73.0"
@@ -1587,7 +1587,7 @@ __metadata:
   dependencies:
     "@fullhuman/postcss-purgecss": "npm:9.1.0"
     autoprefixer: "npm:10.7.0"
-    caniuse-lite: "npm:1.0.30001826"
+    caniuse-lite: "npm:1.0.30001827"
     postcss-cli: "npm:12.0.0"
     postcss-flexbugs-fixes: "npm:5.0.2"
     postcss-preset-env: "npm:11.6.3"
@@ -4556,10 +4556,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"caniuse-lite@npm:1.0.30001826, caniuse-lite@npm:^1.0.30001826":
-  version: 1.0.30001826
-  resolution: "caniuse-lite@npm:1.0.30001826"
-  checksum: 10c0/11e9dba4dd105d270f69da022ce6a47be67cd1cc376f74029f99524ba8141a840153aa285f22c9a643a2fe608ffc0879592bcc9b7c20ad6875ad7ede663a1a6d
+"caniuse-lite@npm:1.0.30001827, caniuse-lite@npm:^1.0.30001826":
+  version: 1.0.30001827
+  resolution: "caniuse-lite@npm:1.0.30001827"
+  checksum: 10c0/219e1b503b2a462f862700c90ec13df61ece2f09b1c1a23cbda0e0c46eb5376dddadc13d9512fa7ada4bc17cc64192387c2709ce6c5c5442baf3cd2bf918a9ac
   languageName: node
   linkType: hard
 
@@ -5999,9 +5999,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-cypress@npm:7.1.0":
-  version: 7.1.0
-  resolution: "eslint-plugin-cypress@npm:7.1.0"
+"eslint-plugin-cypress@npm:7.2.0":
+  version: 7.2.0
+  resolution: "eslint-plugin-cypress@npm:7.2.0"
   dependencies:
     globals: "npm:^17.14.0"
   peerDependencies:
@@ -6010,7 +6010,7 @@ __metadata:
   peerDependenciesMeta:
     "@typescript-eslint/parser":
       optional: true
-  checksum: 10c0/cdfee17e44180518a3256b6bc43d4d596d967d6f9035b0e6b46014e8d9f650e5eb406b429b0a88228b626515b3ddb3f95e5786eb288b685c3aedff5e09d5cf88
+  checksum: 10c0/a60b0b6e347035b2d5627e484db2da5edd82c0f9d696f3057ab52b0f9f5dcc0c04dcf2547b6554899c5c0a906030063bd3d34a42e42bde682a61d7e1651a517c
   languageName: node
   linkType: hard
 
@@ -6140,15 +6140,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-storybook@npm:10.6.7":
-  version: 10.6.7
-  resolution: "eslint-plugin-storybook@npm:10.6.7"
+"eslint-plugin-storybook@npm:10.6.8":
+  version: 10.6.8
+  resolution: "eslint-plugin-storybook@npm:10.6.8"
   dependencies:
     "@typescript-eslint/types": "npm:^8.60.0"
     "@typescript-eslint/utils": "npm:^8.60.0"
   peerDependencies:
     eslint: ">=8"
-  checksum: 10c0/617b70983c2b9dca5a4542ff2303b1343850ada889bb632f4761495ecf0c3d75debee9380652d1785e9a1733d448ad366c9484417e8055248e873d9b5b30bd65
+  checksum: 10c0/9c9408ecb4619d66b1e6b660e6da572ff3c01db5d60e37dbc779f091bc95ad26b2a898b104352e39c17138518ce18c675ea379ba36605f081ffdc64f6cd5698d
   languageName: node
   linkType: hard
 
@@ -8700,9 +8700,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lint-staged@npm:17.6.1":
-  version: 17.6.1
-  resolution: "lint-staged@npm:17.6.1"
+"lint-staged@npm:17.6.2":
+  version: 17.6.2
+  resolution: "lint-staged@npm:17.6.2"
   dependencies:
     picomatch: "npm:^4.0.7"
     string-argv: "npm:^0.4.0"
@@ -8713,7 +8713,7 @@ __metadata:
       optional: true
   bin:
     lint-staged: bin/lint-staged.js
-  checksum: 10c0/4c7433079bc174c531ccaab68bc7171f726a65c1961abbc9b26617f6d427bae76c926688124c2c2519c7540150755025207644dba50de0ba3ce65bfb1b05f7e8
+  checksum: 10c0/9a5831c45885ae2a3cf6c6eaf16c8313ee746512523d26a5e9d87a78e4d1a1835350f08623e1d34a8aa01e59ea3750d46d1b0a4d188d4ee1208a07d1977be7b5
   languageName: node
   linkType: hard
 

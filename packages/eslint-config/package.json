@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/eslint-config",
   "description": "New High Score shareable config for ESLint",
-  "version": "7.1.73",
+  "version": "7.1.75",
   "author": "New High Score",
   "license": "ISC",
   "repository": {
@@ -24,14 +24,14 @@
     "@eslint/js": "10.0.1",
     "@eslint/json": "2.1.1",
     "eslint-config-prettier": "10.1.8",
-    "eslint-plugin-cypress": "7.1.0",
+    "eslint-plugin-cypress": "7.2.0",
     "eslint-plugin-import": "2.32.0",
     "eslint-plugin-jsx-a11y": "6.10.2",
     "eslint-plugin-prettier": "5.5.7",
     "eslint-plugin-react": "7.37.5",
     "eslint-plugin-react-hooks": "7.1.1",
     "eslint-plugin-simple-import-sort": "14.0.0",
-    "eslint-plugin-storybook": "10.6.7",
+    "eslint-plugin-storybook": "10.6.8",
     "eslint-plugin-testing-library": "7.16.2",
     "find-up": "8.0.0",
     "typescript-eslint": "8.73.0"
