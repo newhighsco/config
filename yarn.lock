@@ -1587,7 +1587,7 @@ __metadata:
   dependencies:
     "@fullhuman/postcss-purgecss": "npm:9.1.0"
     autoprefixer: "npm:10.7.0"
-    caniuse-lite: "npm:1.0.30001827"
+    caniuse-lite: "npm:1.0.30001828"
     postcss-cli: "npm:12.0.0"
     postcss-flexbugs-fixes: "npm:5.0.2"
     postcss-preset-env: "npm:11.6.3"
@@ -4556,10 +4556,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"caniuse-lite@npm:1.0.30001827, caniuse-lite@npm:^1.0.30001826":
-  version: 1.0.30001827
-  resolution: "caniuse-lite@npm:1.0.30001827"
-  checksum: 10c0/219e1b503b2a462f862700c90ec13df61ece2f09b1c1a23cbda0e0c46eb5376dddadc13d9512fa7ada4bc17cc64192387c2709ce6c5c5442baf3cd2bf918a9ac
+"caniuse-lite@npm:1.0.30001828, caniuse-lite@npm:^1.0.30001826":
+  version: 1.0.30001828
+  resolution: "caniuse-lite@npm:1.0.30001828"
+  checksum: 10c0/502039ade9e280fdcd3362673f615587f4b363ab4a002f6a2c006979928ab3a79a16ea335b76757e3d07c30cefa4b0526b44182b498fe2c8dc52680706d4d960
   languageName: node
   linkType: hard
 
