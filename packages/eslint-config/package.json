@@ -23,7 +23,7 @@
     "@eslint/compat": "2.1.1",
     "@eslint/js": "10.0.1",
     "@eslint/json": "2.1.1",
-    "eslint-config-prettier": "10.1.8",
+    "eslint-config-prettier": "10.1.9",
     "eslint-plugin-cypress": "7.2.0",
     "eslint-plugin-import": "2.32.0",
     "eslint-plugin-jsx-a11y": "6.10.2",
